@@ -1,0 +1,153 @@
+﻿{
+    "collected_at_utc":  "2026-08-20T01:01:41.9068498Z",
+    "market_code":  "ES",
+    "products":  [
+                     {
+                         "rank":  1,
+                         "asin":  "B0DK4Y2YP3",
+                         "title":  "Celimax The Vita A Retinal Shot Tightening Booster, 15ml",
+                         "url":  "https://www.amazon.es/dp/B0DK4Y2YP3",
+                         "canonical_brand":  "셀리맥스"
+                     },
+                     {
+                         "rank":  2,
+                         "asin":  "B0DBF65JYY",
+                         "title":  "medicube PDRN Pink Peptide Serum with Salmon DNA",
+                         "url":  "https://www.amazon.es/dp/B0DBF65JYY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  3,
+                         "asin":  "B09SZ5JX2Y",
+                         "title":  "d\u0027alba Piedmont White Truffle Double Serum All-in-one Multi Balm",
+                         "url":  "https://www.amazon.es/dp/B09SZ5JX2Y",
+                         "canonical_brand":  "달바"
+                     },
+                     {
+                         "rank":  4,
+                         "asin":  "B0DTKCN3Z4",
+                         "title":  "medicube Capsule Cream with Salmon DNA PDRN Pink Collagen",
+                         "url":  "https://www.amazon.es/dp/B0DTKCN3Z4",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  4,
+                         "asin":  "B0D2Z3GGCY",
+                         "title":  "medicube Capsule Cream with Deep Vitamin C",
+                         "url":  "https://www.amazon.es/dp/B0D2Z3GGCY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  5,
+                         "asin":  "B09V7Z4TJG",
+                         "title":  "Medicube Toner Pads Zero Pore Pad 2.0",
+                         "url":  "https://www.amazon.es/dp/B09V7Z4TJG",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  6,
+                         "asin":  "B0DGPSZVW3",
+                         "title":  "medicube Collagen Jelly Cream",
+                         "url":  "https://www.amazon.es/dp/B0DGPSZVW3",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  6,
+                         "asin":  "B0CM2PPNMW",
+                         "title":  "medicube Jelly Cream with Collagen, Niacinamide",
+                         "url":  "https://www.amazon.es/dp/B0CM2PPNMW",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  7,
+                         "asin":  "B0B2RM68G2",
+                         "title":  "BIODANCE Bio-Collagen Real Deep Mask - Hydrating Night Mask, Minimizes Pores and Improves Elasticity - Deep Hydration Facial Mask with Collagen - 34g x 4 Units",
+                         "url":  "https://www.amazon.es/dp/B0B2RM68G2",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "rank":  8,
+                         "asin":  "B0GCC2JV65",
+                         "title":  "medicube NAD EGF Firming Serum for Face \u0026 Neck",
+                         "url":  "https://www.amazon.es/dp/B0GCC2JV65",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  11,
+                         "asin":  "B0DWMSM6Y9",
+                         "title":  "medicube Eye Serum with Salmon DNA PDRN \u0026 Pink Peptides",
+                         "url":  "https://www.amazon.es/dp/B0DWMSM6Y9",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  13,
+                         "asin":  "B0BRMYHMS5",
+                         "title":  "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask",
+                         "url":  "https://www.amazon.es/dp/B0BRMYHMS5",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  14,
+                         "asin":  "B0DGTMR754",
+                         "title":  "Medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen",
+                         "url":  "https://www.amazon.es/dp/B0DGTMR754",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  19,
+                         "asin":  "B0GD6R7CFJ",
+                         "title":  "BIODANCE Collagen Peptide Eye Patches, Anti-Wrinkle for Expression Lines and Bags, Eye Contour, Korean Skin Care (60 Pcs)",
+                         "url":  "https://www.amazon.es/dp/B0GD6R7CFJ",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "rank":  23,
+                         "asin":  "B0D1G7XF9X",
+                         "title":  "Medicube Zero Pore Blackhead Mud Facial Mask",
+                         "url":  "https://www.amazon.es/dp/B0D1G7XF9X",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  25,
+                         "asin":  "B0GHMZXX8Y",
+                         "title":  "medicube PDRN Pink Collagen Volume Multi Balm Stick",
+                         "url":  "https://www.amazon.es/dp/B0GHMZXX8Y",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  30,
+                         "asin":  "B0BPXT3GBN",
+                         "title":  "Medicube Triple Collagen Cream",
+                         "url":  "https://www.amazon.es/dp/B0BPXT3GBN",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  40,
+                         "asin":  "B0DQCLFJCB",
+                         "title":  "medicube Exosome Shot PDRN Pink Collagen 7,500 PPM Spicule Facial Serum",
+                         "url":  "https://www.amazon.es/dp/B0DQCLFJCB",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  78,
+                         "asin":  "B0FKGJYFC8",
+                         "title":  "Dr.Althea 345 Relief Cream | Face Moisturizer for Soothing Recovery and Blemish Care with PDRN \u0026 Niacinamide | Korean Vegan Skin Care for All Skin Types, 50ml (Ver.2 - Pack of 1)",
+                         "url":  "https://www.amazon.es/dp/B0FKGJYFC8",
+                         "canonical_brand":  "닥터엘시아"
+                     },
+                     {
+                         "rank":  90,
+                         "asin":  "B0DX122DHW",
+                         "title":  "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive Skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30 ml/1.01 fl oz.)",
+                         "url":  "https://www.amazon.es/dp/B0DX122DHW",
+                         "canonical_brand":  "아누아"
+                     },
+                     {
+                         "rank":  99,
+                         "asin":  "B0DYTQ5GYQ",
+                         "title":  "Medicube Facial Cleanser Zero Pore Capsule Cleansing Foam",
+                         "url":  "https://www.amazon.es/dp/B0DYTQ5GYQ",
+                         "canonical_brand":  "메디큐브"
+                     }
+                 ]
+}

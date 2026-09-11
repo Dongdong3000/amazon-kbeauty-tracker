@@ -1,0 +1,90 @@
+{
+  "collected_at_utc": "2026-09-09T00:59:24.5661076Z",
+  "market_code": "DE",
+  "products": [
+    {
+      "asin": "B0B2RM68G2",
+      "rank": 2,
+      "title": "Biodance Bio-Collagen Real Deep Mask",
+      "url": "https://www.amazon.de/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "asin": "B09V7Z4TJG",
+      "rank": 9,
+      "title": "medicube Zero Pore Pad 2.0 Peeling Toner Pads",
+      "url": "https://www.amazon.de/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B09JVNZVH3",
+      "rank": 15,
+      "title": "Beauty of Joseon Rice Probiotics Sunscreen SPF 50+",
+      "url": "https://www.amazon.de/dp/B09JVNZVH3",
+      "canonical_brand": "조선미녀"
+    },
+    {
+      "asin": "B0DK4Y2YP3",
+      "rank": 16,
+      "title": "celimax The Vita A Retinal Shot Tightening Booster",
+      "url": "https://www.amazon.de/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스"
+    },
+    {
+      "asin": "B0BFQ9RD5B",
+      "rank": 19,
+      "title": "d'alba Piedmont Italian White Truffle First Spray Serum",
+      "url": "https://www.amazon.de/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바"
+    },
+    {
+      "asin": "B0DX122DHW",
+      "rank": 27,
+      "title": "Anua Azelaic Acid 10 Hyaluronic Redness Soothing Serum",
+      "url": "https://www.amazon.de/dp/B0DX122DHW",
+      "canonical_brand": "아누아"
+    },
+    {
+      "asin": "B0DBF65JYY",
+      "rank": 33,
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA",
+      "url": "https://www.amazon.de/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0C81Z1SQH",
+      "rank": 57,
+      "title": "Mighty Patch Original Hero Cosmetics Pimple Patches",
+      "url": "https://www.amazon.de/dp/B0C81Z1SQH",
+      "canonical_brand": "Hero Cosmetics"
+    },
+    {
+      "asin": "B01LEJ5MSK",
+      "rank": 60,
+      "title": "Cosrx Advanced Snail 92 All-in-One Creme",
+      "url": "https://www.amazon.de/dp/B01LEJ5MSK",
+      "canonical_brand": "코스알엑스"
+    },
+    {
+      "asin": "B09SZ5JX2Y",
+      "rank": 62,
+      "title": "d'alba Piedmont White Truffle Double Serum All-in-One Multi Balm",
+      "url": "https://www.amazon.de/dp/B09SZ5JX2Y",
+      "canonical_brand": "달바"
+    },
+    {
+      "asin": "B0B45LL4DD",
+      "rank": 76,
+      "title": "Beauty of Joseon Revive Eye Serum Ginseng + Retinal",
+      "url": "https://www.amazon.de/dp/B0B45LL4DD",
+      "canonical_brand": "조선미녀"
+    },
+    {
+      "asin": "B0FVT77ZLL",
+      "rank": 94,
+      "title": "Anua PDRN Collagen Glow Facial Serum Spray",
+      "url": "https://www.amazon.de/dp/B0FVT77ZLL",
+      "canonical_brand": "아누아"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "collected_at_utc":  "2026-09-10T00:40:16.5162006Z",
+    "market_code":  "UK",
+    "products":  [
+                     {
+                         "asin":  "B09V7Z4TJG",
+                         "rank":  2,
+                         "title":  "medicube Toner Pads Zero Pore Pad 2.0",
+                         "url":  "https://www.amazon.co.uk/dp/B09V7Z4TJG",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0B2RM68G2",
+                         "rank":  5,
+                         "title":  "BIODANCE Bio-Collagen Hydrogel Overnight Face Mask",
+                         "url":  "https://www.amazon.co.uk/dp/B0B2RM68G2",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "asin":  "B0DGTMR754",
+                         "rank":  15,
+                         "title":  "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen",
+                         "url":  "https://www.amazon.co.uk/dp/B0DGTMR754",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0DGPSZVW3",
+                         "rank":  33,
+                         "title":  "medicube Jelly Cream with Collagen \u0026 Niacinamide",
+                         "url":  "https://www.amazon.co.uk/dp/B0DGPSZVW3",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0C822Y5BY",
+                         "rank":  36,
+                         "title":  "Hero Mighty Pimple Patches Original",
+                         "url":  "https://www.amazon.co.uk/dp/B0C822Y5BY",
+                         "canonical_brand":  "Hero Cosmetics"
+                     },
+                     {
+                         "asin":  "B09JVNZVH3",
+                         "rank":  42,
+                         "title":  "Beauty of Joseon Relief Sun Rice + Probiotics SPF 50+",
+                         "url":  "https://www.amazon.co.uk/dp/B09JVNZVH3",
+                         "canonical_brand":  "조선미녀"
+                     },
+                     {
+                         "asin":  "B0DWMSM6Y9",
+                         "rank":  47,
+                         "title":  "medicube Eye Serum with Salmon DNA PDRN \u0026 Pink Peptides",
+                         "url":  "https://www.amazon.co.uk/dp/B0DWMSM6Y9",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0DBF65JYY",
+                         "rank":  56,
+                         "title":  "medicube PDRN Pink Peptide Serum with Salmon DNA",
+                         "url":  "https://www.amazon.co.uk/dp/B0DBF65JYY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0GHMZXX8Y",
+                         "rank":  58,
+                         "title":  "medicube PDRN Pink Collagen Volume Multi Balm Stick",
+                         "url":  "https://www.amazon.co.uk/dp/B0GHMZXX8Y",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0D1G7XF9X",
+                         "rank":  77,
+                         "title":  "medicube Zero Pore Blackhead Mud Mask",
+                         "url":  "https://www.amazon.co.uk/dp/B0D1G7XF9X",
+                         "canonical_brand":  "메디큐브"
+                     }
+                 ]
+}

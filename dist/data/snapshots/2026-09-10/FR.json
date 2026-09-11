@@ -1,0 +1,118 @@
+﻿{
+    "collected_at_utc":  "2026-09-10T00:40:16.5549894Z",
+    "market_code":  "FR",
+    "products":  [
+                     {
+                         "asin":  "B0B2RM68G2",
+                         "rank":  1,
+                         "title":  "BIODANCE Bio-Collagen Real Deep Hydrogel Collagen Face Mask",
+                         "url":  "https://www.amazon.fr/dp/B0B2RM68G2",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "asin":  "B0DK4Y2YP3",
+                         "rank":  10,
+                         "title":  "celimax The Vita A Retinal Shot Tightening Booster",
+                         "url":  "https://www.amazon.fr/dp/B0DK4Y2YP3",
+                         "canonical_brand":  "셀리맥스"
+                     },
+                     {
+                         "asin":  "B09V7Z4TJG",
+                         "rank":  13,
+                         "title":  "medicube Zero Pore Pad 2.0 Pore Care Exfoliating Pads",
+                         "url":  "https://www.amazon.fr/dp/B09V7Z4TJG",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0FPCC599C",
+                         "rank":  25,
+                         "title":  "medicube Body Peel Shot with Hypochlorous Acid",
+                         "url":  "https://www.amazon.fr/dp/B0FPCC599C",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0D1G7XF9X",
+                         "rank":  36,
+                         "title":  "medicube Zero Pore Mask Clay Blackheads Pore Care",
+                         "url":  "https://www.amazon.fr/dp/B0D1G7XF9X",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0GHMZXX8Y",
+                         "rank":  39,
+                         "title":  "medicube Stick Balm Multi Volume PDRN Pink Collagen",
+                         "url":  "https://www.amazon.fr/dp/B0GHMZXX8Y",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0CM2PPNMW",
+                         "rank":  53,
+                         "title":  "medicube Jelly Collagen \u0026 Niacinamide Cream",
+                         "url":  "https://www.amazon.fr/dp/B0CM2PPNMW",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B07PK2P2XB",
+                         "rank":  57,
+                         "title":  "Dr.Althea 345 Relief Cream",
+                         "url":  "https://www.amazon.fr/dp/B07PK2P2XB",
+                         "canonical_brand":  "닥터엘시아"
+                     },
+                     {
+                         "asin":  "B0DBF65JYY",
+                         "rank":  58,
+                         "title":  "medicube PDRN Pink Peptides Serum with Salmon DNA",
+                         "url":  "https://www.amazon.fr/dp/B0DBF65JYY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0C8224KK9",
+                         "rank":  61,
+                         "title":  "Hero Cosmetics Mighty Patch Invisible+ Day Button Patch",
+                         "url":  "https://www.amazon.fr/dp/B0C8224KK9",
+                         "canonical_brand":  "Hero Cosmetics"
+                     },
+                     {
+                         "asin":  "B0DWMSM6Y9",
+                         "rank":  69,
+                         "title":  "medicube Salmon \u0026 Pink Peptides PDRN DNA Eye Contour Serum",
+                         "url":  "https://www.amazon.fr/dp/B0DWMSM6Y9",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0GF86QJK7",
+                         "rank":  74,
+                         "title":  "BIODANCE Collagen Peptides Jelly Serum Mist",
+                         "url":  "https://www.amazon.fr/dp/B0GF86QJK7",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "asin":  "B0BRMYHMS5",
+                         "rank":  75,
+                         "title":  "medicube Mask Wrapping Collagen Peel Off Night",
+                         "url":  "https://www.amazon.fr/dp/B0BRMYHMS5",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0C81Z1SQH",
+                         "rank":  83,
+                         "title":  "Hero Cosmetics Mighty Patch Original Night Button Patches",
+                         "url":  "https://www.amazon.fr/dp/B0C81Z1SQH",
+                         "canonical_brand":  "Hero Cosmetics"
+                     },
+                     {
+                         "asin":  "B0FD3HXCWZ",
+                         "rank":  88,
+                         "title":  "medicube Smoothing Face \u0026 Body Tonic with Kojic Acid Turmeric",
+                         "url":  "https://www.amazon.fr/dp/B0FD3HXCWZ",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "asin":  "B0D2Z3GGCY",
+                         "rank":  95,
+                         "title":  "medicube Deep Vitamin C Capsule Cream",
+                         "url":  "https://www.amazon.fr/dp/B0D2Z3GGCY",
+                         "canonical_brand":  "메디큐브"
+                     }
+                 ]
+}

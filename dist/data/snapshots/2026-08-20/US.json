@@ -1,0 +1,76 @@
+﻿{
+    "collected_at_utc":  "2026-08-20T01:01:41.7928228Z",
+    "market_code":  "US",
+    "products":  [
+                     {
+                         "rank":  1,
+                         "asin":  "B09V7Z4TJG",
+                         "title":  "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care",
+                         "url":  "https://www.amazon.com/dp/B09V7Z4TJG",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  11,
+                         "asin":  "B0B2RM68G2",
+                         "title":  "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials \u0026 Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea",
+                         "url":  "https://www.amazon.com/dp/B0B2RM68G2",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "rank":  16,
+                         "asin":  "B0DG4WXBCF",
+                         "title":  "MEDITHERAPY Retinal Skin Booster Serum 5.07 fl oz | Retinaldehyde, Niacinamide, Cica | Korean Hydrating Face \u0026 Body Serum for Dull, Uneven Skin, All Skin Types, K-Beauty",
+                         "url":  "https://www.amazon.com/dp/B0DG4WXBCF",
+                         "canonical_brand":  "메디테라피"
+                     },
+                     {
+                         "rank":  49,
+                         "asin":  "B0DK4Y2YP3",
+                         "title":  "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz)",
+                         "url":  "https://www.amazon.com/dp/B0DK4Y2YP3",
+                         "canonical_brand":  "셀리맥스"
+                     },
+                     {
+                         "rank":  53,
+                         "asin":  "B0GD6R7CFJ",
+                         "title":  "BIODANCE Hydrogel Eye Patches for Under Eye - Collagen Peptide, Anti Wrinkle \u0026 Fine Lines (60 Count)",
+                         "url":  "https://www.amazon.com/dp/B0GD6R7CFJ",
+                         "canonical_brand":  "바이오던스"
+                     },
+                     {
+                         "rank":  61,
+                         "asin":  "B0DBF65JYY",
+                         "title":  "medicube PDRN Pink Peptide Serum with Salmon DNA",
+                         "url":  "https://www.amazon.com/dp/B0DBF65JYY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  64,
+                         "asin":  "B0DYTQ5GYQ",
+                         "title":  "medicube Facial Cleanser Zero Pore Capsule Cleansing Foam",
+                         "url":  "https://www.amazon.com/dp/B0DYTQ5GYQ",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  88,
+                         "asin":  "B0DTKCN3Z4",
+                         "title":  "medicube Capsule Cream with Salmon DNA PDRN Pink Collagen",
+                         "url":  "https://www.amazon.com/dp/B0DTKCN3Z4",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  88,
+                         "asin":  "B0D2Z3GGCY",
+                         "title":  "medicube Capsule Cream with Deep Vitamin C for Radiance",
+                         "url":  "https://www.amazon.com/dp/B0D2Z3GGCY",
+                         "canonical_brand":  "메디큐브"
+                     },
+                     {
+                         "rank":  92,
+                         "asin":  "B0FVT77ZLL",
+                         "title":  "Anua PDRN Collagen Glow Facial Serum Spray, 3.38 fl oz",
+                         "url":  "https://www.amazon.com/dp/B0FVT77ZLL",
+                         "canonical_brand":  "아누아"
+                     }
+                 ]
+}

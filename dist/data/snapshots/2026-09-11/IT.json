@@ -1,0 +1,97 @@
+{
+  "collected_at_utc": "2026-09-11T01:27:49.0074701Z",
+  "market_code": "IT",
+  "products": [
+    {
+      "asin": "B0B2RM68G2",
+      "rank": 2,
+      "title": "BIODANCE Bio-Collagen Real Deep Mask",
+      "url": "https://www.amazon.it/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "asin": "B09V7Z4TJG",
+      "rank": 5,
+      "title": "medicube Zero Pore Pads 2.0",
+      "url": "https://www.amazon.it/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0DK4Y2YP3",
+      "rank": 6,
+      "title": "celimax The Vita A Retinal Shot Tightening Booster",
+      "url": "https://www.amazon.it/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스"
+    },
+    {
+      "asin": "B0DBF65JYY",
+      "rank": 7,
+      "title": "medicube PDRN Pink Peptide Serum",
+      "url": "https://www.amazon.it/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0D1G7XF9X",
+      "rank": 9,
+      "title": "medicube Zero Pore Blackhead Mud Mask",
+      "url": "https://www.amazon.it/dp/B0D1G7XF9X",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0CM2PPNMW",
+      "rank": 20,
+      "title": "medicube Jelly Cream with Collagen",
+      "url": "https://www.amazon.it/dp/B0CM2PPNMW",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0D2Z3GGCY",
+      "rank": 24,
+      "title": "medicube Deep Vitamin C Golden Capsule Cream",
+      "url": "https://www.amazon.it/dp/B0D2Z3GGCY",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0DWMSM6Y9",
+      "rank": 33,
+      "title": "medicube Eye Serum with Salmon DNA PDRN",
+      "url": "https://www.amazon.it/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0GCC2JV65",
+      "rank": 55,
+      "title": "medicube NAD EGF Firming Serum",
+      "url": "https://www.amazon.it/dp/B0GCC2JV65",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0BRMYHMS5",
+      "rank": 76,
+      "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask",
+      "url": "https://www.amazon.it/dp/B0BRMYHMS5",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0FPCC599C",
+      "rank": 84,
+      "title": "medicube Body Peel Shot with Hypochlorous Acid",
+      "url": "https://www.amazon.it/dp/B0FPCC599C",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B0DGTMR754",
+      "rank": 89,
+      "title": "medicube Salmon DNA PDRN Gel Mask",
+      "url": "https://www.amazon.it/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "asin": "B07PK2P2XB",
+      "rank": 96,
+      "title": "Dr. Althea 345 Relief Cream",
+      "url": "https://www.amazon.it/dp/B07PK2P2XB",
+      "canonical_brand": "닥터엘시아"
+    }
+  ]
+}

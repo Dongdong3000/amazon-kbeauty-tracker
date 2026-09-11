@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-11",
+  "markets": [
+    {
+      "code": "US",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B09V7Z4TJG","rank":2,"title":"medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care","url":"https://www.amazon.com/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B0B2RM68G2","rank":5,"title":"BIODANCE Bio-Collagen Real Deep Mask","url":"https://www.amazon.com/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B074PVTPBW","rank":6,"title":"Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches","url":"https://www.amazon.com/dp/B074PVTPBW","canonical_brand":"Hero Cosmetics"},
+        {"asin":"B0GD6R7CFJ","rank":17,"title":"BIODANCE Hydrogel Eye Patches Collagen Peptide","url":"https://www.amazon.com/dp/B0GD6R7CFJ","canonical_brand":"바이오던스"},
+        {"asin":"B0DG1DQ2S7","rank":33,"title":"Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum","url":"https://www.amazon.com/dp/B0DG1DQ2S7","canonical_brand":"아누아"},
+        {"asin":"B0DWFLY18Y","rank":34,"title":"ANUA PDRN Hyaluronic Acid 100 Moisturizing Cream","url":"https://www.amazon.com/dp/B0DWFLY18Y","canonical_brand":"아누아"},
+        {"asin":"B0DBF65JYY","rank":65,"title":"medicube PDRN Pink Peptide Serum with Salmon DNA","url":"https://www.amazon.com/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B0DYTQ5GYQ","rank":69,"title":"medicube Facial Cleanser Zero Pore Capsule Foam","url":"https://www.amazon.com/dp/B0DYTQ5GYQ","canonical_brand":"메디큐브"},
+        {"asin":"B0DGPSZVW3","rank":72,"title":"medicube Jelly Cream with Collagen & Niacinamide","url":"https://www.amazon.com/dp/B0DGPSZVW3","canonical_brand":"메디큐브"},
+        {"asin":"B0DG4WXBCF","rank":73,"title":"MEDITHERAPY Retinal Skin Booster Serum","url":"https://www.amazon.com/dp/B0DG4WXBCF","canonical_brand":"메디테라피"},
+        {"asin":"B0G643D8ZG","rank":75,"title":"Dr.Althea 345 Relief Cream","url":"https://www.amazon.com/dp/B0G643D8ZG","canonical_brand":"닥터엘시아"},
+        {"asin":"B0DK4Y2YP3","rank":79,"title":"celimax The Vita A Retinal Shot Tightening Booster","url":"https://www.amazon.com/dp/B0DK4Y2YP3","canonical_brand":"셀리맥스"},
+        {"asin":"B0GHMZXX8Y","rank":88,"title":"medicube PDRN Pink Collagen Volume Multi Balm Stick","url":"https://www.amazon.com/dp/B0GHMZXX8Y","canonical_brand":"메디큐브"},
+        {"asin":"B0FVT77ZLL","rank":91,"title":"Anua PDRN Collagen Glow Facial Serum Spray","url":"https://www.amazon.com/dp/B0FVT77ZLL","canonical_brand":"아누아"},
+        {"asin":"B0DGTMR754","rank":94,"title":"medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen","url":"https://www.amazon.com/dp/B0DGTMR754","canonical_brand":"메디큐브"}
+      ]
+    },
+    {
+      "code": "UK",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B09V7Z4TJG","rank":2,"title":"medicube Toner Pads Zero Pore Pad 2.0","url":"https://www.amazon.co.uk/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B0B2RM68G2","rank":5,"title":"BIODANCE Bio-Collagen Hydrogel Overnight Face Mask","url":"https://www.amazon.co.uk/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B0DGTMR754","rank":15,"title":"medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen","url":"https://www.amazon.co.uk/dp/B0DGTMR754","canonical_brand":"메디큐브"},
+        {"asin":"B0DGPSZVW3","rank":33,"title":"medicube Jelly Cream with Collagen & Niacinamide","url":"https://www.amazon.co.uk/dp/B0DGPSZVW3","canonical_brand":"메디큐브"},
+        {"asin":"B0C822Y5BY","rank":36,"title":"Hero Mighty Pimple Patches Original","url":"https://www.amazon.co.uk/dp/B0C822Y5BY","canonical_brand":"Hero Cosmetics"},
+        {"asin":"B09JVNZVH3","rank":42,"title":"Beauty of Joseon Relief Sun Rice + Probiotics SPF 50+","url":"https://www.amazon.co.uk/dp/B09JVNZVH3","canonical_brand":"조선미녀"},
+        {"asin":"B0DWMSM6Y9","rank":47,"title":"medicube Eye Serum with Salmon DNA PDRN & Pink Peptides","url":"https://www.amazon.co.uk/dp/B0DWMSM6Y9","canonical_brand":"메디큐브"},
+        {"asin":"B0DBF65JYY","rank":56,"title":"medicube PDRN Pink Peptide Serum with Salmon DNA","url":"https://www.amazon.co.uk/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B0GHMZXX8Y","rank":58,"title":"medicube PDRN Pink Collagen Volume Multi Balm Stick","url":"https://www.amazon.co.uk/dp/B0GHMZXX8Y","canonical_brand":"메디큐브"},
+        {"asin":"B0D1G7XF9X","rank":77,"title":"medicube Zero Pore Blackhead Mud Mask","url":"https://www.amazon.co.uk/dp/B0D1G7XF9X","canonical_brand":"메디큐브"}
+      ]
+    },
+    {
+      "code": "DE",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B0B2RM68G2","rank":2,"title":"Biodance Bio-Collagen Real Deep Mask","url":"https://www.amazon.de/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B09V7Z4TJG","rank":10,"title":"medicube Zero Pore Pad 2.0 Peeling Toner Pads","url":"https://www.amazon.de/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B09JVNZVH3","rank":12,"title":"Beauty of Joseon Rice Probiotics Sunscreen SPF 50+","url":"https://www.amazon.de/dp/B09JVNZVH3","canonical_brand":"조선미녀"},
+        {"asin":"B0BFQ9RD5B","rank":17,"title":"d'alba Piedmont Italian White Truffle First Spray Serum","url":"https://www.amazon.de/dp/B0BFQ9RD5B","canonical_brand":"달바"},
+        {"asin":"B0DK4Y2YP3","rank":19,"title":"celimax The Vita A Retinal Shot Tightening Booster","url":"https://www.amazon.de/dp/B0DK4Y2YP3","canonical_brand":"셀리맥스"},
+        {"asin":"B0DX122DHW","rank":28,"title":"Anua Azelaic Acid 10 Hyaluronic Redness Soothing Serum","url":"https://www.amazon.de/dp/B0DX122DHW","canonical_brand":"아누아"},
+        {"asin":"B0DBF65JYY","rank":37,"title":"medicube PDRN Pink Peptide Serum with Salmon DNA","url":"https://www.amazon.de/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B09SZ5JX2Y","rank":61,"title":"d'alba Piedmont White Truffle Double Serum All-in-One Multi Balm","url":"https://www.amazon.de/dp/B09SZ5JX2Y","canonical_brand":"달바"},
+        {"asin":"B0DLKCCPYZ","rank":66,"title":"COSRX Pink Peptide Collagen Hydrogel Eye Pads","url":"https://www.amazon.de/dp/B0DLKCCPYZ","canonical_brand":"코스알엑스"},
+        {"asin":"B0B45LL4DD","rank":67,"title":"Beauty of Joseon Revive Eye Serum Ginseng + Retinal","url":"https://www.amazon.de/dp/B0B45LL4DD","canonical_brand":"조선미녀"},
+        {"asin":"B0C81Z1SQH","rank":69,"title":"Mighty Patch Original Hero Cosmetics Pimple Patches","url":"https://www.amazon.de/dp/B0C81Z1SQH","canonical_brand":"Hero Cosmetics"}
+      ]
+    },
+    {
+      "code": "FR",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B0B2RM68G2","rank":1,"title":"BIODANCE Bio-Collagen Real Deep Hydrogel Collagen Face Mask","url":"https://www.amazon.fr/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B0DK4Y2YP3","rank":10,"title":"celimax The Vita A Retinal Shot Tightening Booster","url":"https://www.amazon.fr/dp/B0DK4Y2YP3","canonical_brand":"셀리맥스"},
+        {"asin":"B09V7Z4TJG","rank":13,"title":"medicube Zero Pore Pad 2.0 Pore Care Exfoliating Pads","url":"https://www.amazon.fr/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B0FPCC599C","rank":25,"title":"medicube Body Peel Shot with Hypochlorous Acid","url":"https://www.amazon.fr/dp/B0FPCC599C","canonical_brand":"메디큐브"},
+        {"asin":"B0D1G7XF9X","rank":36,"title":"medicube Zero Pore Mask Clay Blackheads Pore Care","url":"https://www.amazon.fr/dp/B0D1G7XF9X","canonical_brand":"메디큐브"},
+        {"asin":"B0GHMZXX8Y","rank":39,"title":"medicube Stick Balm Multi Volume PDRN Pink Collagen","url":"https://www.amazon.fr/dp/B0GHMZXX8Y","canonical_brand":"메디큐브"},
+        {"asin":"B0CM2PPNMW","rank":53,"title":"medicube Jelly Collagen & Niacinamide Cream","url":"https://www.amazon.fr/dp/B0CM2PPNMW","canonical_brand":"메디큐브"},
+        {"asin":"B07PK2P2XB","rank":57,"title":"Dr.Althea 345 Relief Cream","url":"https://www.amazon.fr/dp/B07PK2P2XB","canonical_brand":"닥터엘시아"},
+        {"asin":"B0DBF65JYY","rank":58,"title":"medicube PDRN Pink Peptides Serum with Salmon DNA","url":"https://www.amazon.fr/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B0C8224KK9","rank":61,"title":"Hero Cosmetics Mighty Patch Invisible+ Day Button Patch","url":"https://www.amazon.fr/dp/B0C8224KK9","canonical_brand":"Hero Cosmetics"},
+        {"asin":"B0DWMSM6Y9","rank":69,"title":"medicube Salmon & Pink Peptides PDRN DNA Eye Contour Serum","url":"https://www.amazon.fr/dp/B0DWMSM6Y9","canonical_brand":"메디큐브"},
+        {"asin":"B0GF86QJK7","rank":74,"title":"BIODANCE Collagen Peptides Jelly Serum Mist","url":"https://www.amazon.fr/dp/B0GF86QJK7","canonical_brand":"바이오던스"},
+        {"asin":"B0BRMYHMS5","rank":75,"title":"medicube Mask Wrapping Collagen Peel Off Night","url":"https://www.amazon.fr/dp/B0BRMYHMS5","canonical_brand":"메디큐브"},
+        {"asin":"B0C81Z1SQH","rank":83,"title":"Hero Cosmetics Mighty Patch Original Night Button Patches","url":"https://www.amazon.fr/dp/B0C81Z1SQH","canonical_brand":"Hero Cosmetics"},
+        {"asin":"B0FD3HXCWZ","rank":88,"title":"medicube Smoothing Face & Body Tonic with Kojic Acid Turmeric","url":"https://www.amazon.fr/dp/B0FD3HXCWZ","canonical_brand":"메디큐브"},
+        {"asin":"B0D2Z3GGCY","rank":95,"title":"medicube Deep Vitamin C Capsule Cream","url":"https://www.amazon.fr/dp/B0D2Z3GGCY","canonical_brand":"메디큐브"}
+      ]
+    },
+    {
+      "code": "ES",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B09SZ5JX2Y","rank":1,"title":"d'alba Piedmont White Truffle Double Serum All-in-one Multi Balm","url":"https://www.amazon.es/dp/B09SZ5JX2Y","canonical_brand":"달바"},
+        {"asin":"B0DBF65JYY","rank":3,"title":"medicube PDRN Pink Peptide Serum with Salmon DNA","url":"https://www.amazon.es/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B0DK4Y2YP3","rank":4,"title":"celimax The Vita A Retinal Shot Tightening Booster","url":"https://www.amazon.es/dp/B0DK4Y2YP3","canonical_brand":"셀리맥스"},
+        {"asin":"B0BFQ9RD5B","rank":5,"title":"d'alba Piedmont Italian White Truffle First Spray Serum","url":"https://www.amazon.es/dp/B0BFQ9RD5B","canonical_brand":"달바"},
+        {"asin":"B0B2RM68G2","rank":7,"title":"BIODANCE Bio-Collagen Real Deep Mask","url":"https://www.amazon.es/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B0GHMZXX8Y","rank":16,"title":"medicube PDRN Pink Collagen Volume Multi Balm Stick","url":"https://www.amazon.es/dp/B0GHMZXX8Y","canonical_brand":"메디큐브"},
+        {"asin":"B09V7Z4TJG","rank":18,"title":"medicube Toner Pads Zero Pore Pad 2.0","url":"https://www.amazon.es/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B0D2Z3GGCY","rank":19,"title":"medicube Capsule Cream with Deep Vitamin C","url":"https://www.amazon.es/dp/B0D2Z3GGCY","canonical_brand":"메디큐브"},
+        {"asin":"B0DWMSM6Y9","rank":25,"title":"medicube Eye Serum with Salmon DNA PDRN & Pink Peptides","url":"https://www.amazon.es/dp/B0DWMSM6Y9","canonical_brand":"메디큐브"},
+        {"asin":"B0DGPSZVW3","rank":27,"title":"medicube Collagen Jelly Cream","url":"https://www.amazon.es/dp/B0DGPSZVW3","canonical_brand":"메디큐브"},
+        {"asin":"B09D7QJP1M","rank":28,"title":"d'alba Waterfull SPF50+ Italian White Truffle","url":"https://www.amazon.es/dp/B09D7QJP1M","canonical_brand":"달바"},
+        {"asin":"B07PK2P2XB","rank":30,"title":"Dr.Althea 345 Relief Cream","url":"https://www.amazon.es/dp/B07PK2P2XB","canonical_brand":"닥터엘시아"},
+        {"asin":"B0BRMYHMS5","rank":41,"title":"medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask","url":"https://www.amazon.es/dp/B0BRMYHMS5","canonical_brand":"메디큐브"},
+        {"asin":"B0DGTMR754","rank":43,"title":"medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen","url":"https://www.amazon.es/dp/B0DGTMR754","canonical_brand":"메디큐브"},
+        {"asin":"B0D1G7XF9X","rank":69,"title":"medicube Zero Pore Blackhead Mud Facial Mask","url":"https://www.amazon.es/dp/B0D1G7XF9X","canonical_brand":"메디큐브"},
+        {"asin":"B0GD6R7CFJ","rank":90,"title":"BIODANCE Collagen Peptide Eye Patches","url":"https://www.amazon.es/dp/B0GD6R7CFJ","canonical_brand":"바이오던스"},
+        {"asin":"B09NN88V83","rank":99,"title":"d'alba Piedmont Italian White Truffle Double Serum and Cream","url":"https://www.amazon.es/dp/B09NN88V83","canonical_brand":"달바"}
+      ]
+    },
+    {
+      "code": "IT",
+      "complete": true,
+      "checked_ranks": 100,
+      "observed_ranks": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100],
+      "products": [
+        {"asin":"B0B2RM68G2","rank":2,"title":"BIODANCE Bio-Collagen Real Deep Mask","url":"https://www.amazon.it/dp/B0B2RM68G2","canonical_brand":"바이오던스"},
+        {"asin":"B09V7Z4TJG","rank":5,"title":"medicube Zero Pore Pads 2.0","url":"https://www.amazon.it/dp/B09V7Z4TJG","canonical_brand":"메디큐브"},
+        {"asin":"B0DK4Y2YP3","rank":6,"title":"celimax The Vita A Retinal Shot Tightening Booster","url":"https://www.amazon.it/dp/B0DK4Y2YP3","canonical_brand":"셀리맥스"},
+        {"asin":"B0DBF65JYY","rank":7,"title":"medicube PDRN Pink Peptide Serum","url":"https://www.amazon.it/dp/B0DBF65JYY","canonical_brand":"메디큐브"},
+        {"asin":"B0D1G7XF9X","rank":9,"title":"medicube Zero Pore Blackhead Mud Mask","url":"https://www.amazon.it/dp/B0D1G7XF9X","canonical_brand":"메디큐브"},
+        {"asin":"B0CM2PPNMW","rank":20,"title":"medicube Jelly Cream with Collagen","url":"https://www.amazon.it/dp/B0CM2PPNMW","canonical_brand":"메디큐브"},
+        {"asin":"B0D2Z3GGCY","rank":24,"title":"medicube Deep Vitamin C Golden Capsule Cream","url":"https://www.amazon.it/dp/B0D2Z3GGCY","canonical_brand":"메디큐브"},
+        {"asin":"B0DWMSM6Y9","rank":33,"title":"medicube Eye Serum with Salmon DNA PDRN","url":"https://www.amazon.it/dp/B0DWMSM6Y9","canonical_brand":"메디큐브"},
+        {"asin":"B0GCC2JV65","rank":55,"title":"medicube NAD EGF Firming Serum","url":"https://www.amazon.it/dp/B0GCC2JV65","canonical_brand":"메디큐브"},
+        {"asin":"B0BRMYHMS5","rank":76,"title":"medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask","url":"https://www.amazon.it/dp/B0BRMYHMS5","canonical_brand":"메디큐브"},
+        {"asin":"B0FPCC599C","rank":84,"title":"medicube Body Peel Shot with Hypochlorous Acid","url":"https://www.amazon.it/dp/B0FPCC599C","canonical_brand":"메디큐브"},
+        {"asin":"B0DGTMR754","rank":89,"title":"medicube Salmon DNA PDRN Gel Mask","url":"https://www.amazon.it/dp/B0DGTMR754","canonical_brand":"메디큐브"},
+        {"asin":"B07PK2P2XB","rank":96,"title":"Dr. Althea 345 Relief Cream","url":"https://www.amazon.it/dp/B07PK2P2XB","canonical_brand":"닥터엘시아"}
+      ]
+    }
+  ]
+}
