@@ -118,7 +118,11 @@
     [/^the ordinary/i,'The Ordinary'],[/^essence cosmetics/i,'Essence Cosmetics'],
     [/^maybelline new york/i,'Maybelline New York'],[/^nyx professional makeup/i,'NYX Professional Makeup'],
     [/^just for men/i,'Just For Men'],[/^paula['’]s choice/i,"Paula's Choice"],
-    [/^rimmel london/i,'Rimmel London'],[/^amazon basics/i,'Amazon Basics'],
+    [/^rimmel london/i,'Rimmel London'],[/^(?:by\s+amazon|amazon\s+(?:basics|essentials))/i,'Amazon'],
+    [/^amazon\b/i,'Amazon'],[/^essence(?:\s+cosmetics)?\b/i,'Essence'],
+    [/^double rhythm\b/i,'Double Rhythm'],[/^m\.\s*asam\b/i,'M. Asam'],
+    [/^mrs\.\s*meyer['’]s\s+clean\s+day\b/i,"Mrs. Meyer's Clean Day"],[/^tree hut\b/i,'Tree Hut'],[/^too faced\b/i,'Too Faced'],
+    [/^degree\b/i,'Degree'],[/^le petit marseillais\b/i,'Le Petit Marseillais'],[/^le petit olivier\b/i,'Le Petit Olivier'],
     [/^hero cosmetics/i,'Hero Cosmetics'],[/^cera?ve/i,'CeraVe'],[/^garnier/i,'Garnier'],
     [/^neutrogena/i,'Neutrogena'],[/^revlon/i,'Revlon'],[/^wella/i,'Wella'],
     [/^mixa/i,'Mixa'],[/^k[ée]rastase/i,'Kérastase'],[/^dove/i,'Dove'],
@@ -130,6 +134,7 @@
     const explicit=String(p.brand_name||p.brand||'').trim(); if(explicit)return explicit;
     const title=String(p.title||'').replace(/\s+/g,' ').trim();
     for(const [rx,label] of matrixBrandRules)if(rx.test(title))return label;
+    if(/^\d+\s+(?:pcs?|pieces?|pack|count)\b/i.test(title))return '미분류 후보';
     const prefix=(title.split(/[|,:;()\[\]{}]/,1)[0]||title).trim();
     return (prefix.split(/\s+/)[0]||'미분류 후보').trim();
   }

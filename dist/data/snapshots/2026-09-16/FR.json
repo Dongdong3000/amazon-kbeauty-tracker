@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-09-15T23:26:15.2976013Z",
+  "collected_at_utc": "2026-09-15T23:41:48.5359391Z",
   "market_code": "FR",
   "products": [
     {
@@ -77,7 +77,8 @@
       "asin": "B00GSUCEJ6",
       "title": "Essence - Mascara I Love Extreme Volume Crazy | Volume extrême, Recourbant, Allongeant, Longue tenue, Mascara",
       "url": "https://www.amazon.fr/Essence-M%C3%A1scara-pesta%C3%B1as-Extreme-Crazy/dp/B00GSUCEJ6/ref=zg_bs_g_beauty_d_sccl_11/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 12,
@@ -182,7 +183,8 @@
       "asin": "B0C8TNGR3V",
       "title": "Le Petit Marseillais Recharge Crème Lavante Mains Lait, berlingot 250 ml | Recharge de savon liquide composé de 92 % d'ingrédients d'origine naturelle, Savon mains au pH neutre pour la peau",
       "url": "https://www.amazon.fr/Petit-Marseillais-Eco-recharge-Mousse-250-00/dp/B0C8TNGR3V/ref=zg_bs_g_beauty_d_sccl_26/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Le Petit Marseillais"
     },
     {
       "rank": 27,
@@ -217,7 +219,8 @@
       "asin": "B00T0C9XRK",
       "title": "essence Lash PRINCESS false lash effect mascara | Mascara volumateur avec brosse fibrée conique, Effet faux cils, Cosmétique vegan sans parfum, 12 ml",
       "url": "https://www.amazon.fr/essence-PRINCESS-mascara-augmentant-allongeant/dp/B00T0C9XRK/ref=zg_bs_g_beauty_d_sccl_31/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 32,
@@ -406,7 +409,8 @@
       "asin": "B0038E8OOO",
       "title": "essence LONG-LASTING eye pencil crayon yeux longue tenue, longue durée, mettant en valeur l'oeil (0.28g)",
       "url": "https://www.amazon.fr/essence-LONG-LASTING-pencil-crayon-mettant/dp/B0038E8OOO/ref=zg_bs_g_beauty_d_sccl_8/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 59,
@@ -539,7 +543,8 @@
       "asin": "B08FSBDFLC",
       "title": "Just For Men Barbe & Moustache Coloration, Châtain Foncé M45 | Gel colorant pour barbe et moustache, sans ammoniaque, teinte châtain foncé, couvre les poils gris en 5min, résultat naturel",
       "url": "https://www.amazon.fr/Just-Men-Formule-Coloration-Moustache/dp/B08FSBDFLC/ref=zg_bs_g_beauty_d_sccl_27/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Just For Men"
     },
     {
       "rank": 78,
@@ -602,7 +607,8 @@
       "asin": "B0DDTZGSKJ",
       "title": "by Amazon Recharge de Savon pour les mains, Aloe Vera, 2 x 1000ml",
       "url": "https://www.amazon.fr/Amazon-Recharge-Savon-mains-1000ml/dp/B0DDTZGSKJ/ref=zg_bs_g_beauty_d_sccl_86/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Amazon"
     },
     {
       "rank": 87,
@@ -630,7 +636,8 @@
       "asin": "B00OLCGLVK",
       "title": "LE PETIT OLIVIER Crème Douche Extra Douce & Hydratante Lait de Karité 750ml",
       "url": "https://www.amazon.fr/PETIT-OLIVIER-Creme-douche-Extra/dp/B00OLCGLVK/ref=zg_bs_g_beauty_d_sccl_90/525-3065586-3265651?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Le Petit Olivier"
     },
     {
       "rank": 91,

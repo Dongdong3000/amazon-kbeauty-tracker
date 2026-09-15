@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-09-15T23:26:15.0666222Z",
+  "collected_at_utc": "2026-09-15T23:41:48.3803272Z",
   "market_code": "US",
   "products": [
     {
@@ -21,7 +21,8 @@
       "asin": "B09541P9WH",
       "title": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, Cotton, Versatile, Baby Safe, 500 Count",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH/ref=zg_bs_g_beauty_d_sccl_3/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Amazon"
     },
     {
       "rank": 4,
@@ -42,7 +43,8 @@
       "asin": "B09542G9ZN",
       "title": "Amazon Essentials 100% Cotton Rounds, 100 Count (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Rounds-Count/dp/B09542G9ZN/ref=zg_bs_g_beauty_d_sccl_6/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Amazon"
     },
     {
       "rank": 7,
@@ -91,7 +93,8 @@
       "asin": "B00F1U0YB4",
       "title": "Mrs. Meyer's Clean Day, Hand Soap Refill, Lemon Verbena Scent, 33 Fl Oz",
       "url": "https://www.amazon.com/Mrs-Meyers-Clean-Refill-Verbena/dp/B00F1U0YB4/ref=zg_bs_g_beauty_d_sccl_13/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Mrs. Meyer's Clean Day"
     },
     {
       "rank": 14,
@@ -126,14 +129,16 @@
       "asin": "B09HHDHXWX",
       "title": "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, Dermatologist-Tested, pH Balanced, Cruelty-Free, 50 Fluid Ounces, 1-Pack (Previously Solimo)",
       "url": "https://www.amazon.com/Amazon-Basics-Gentle-Liquid-Triclosan-free/dp/B09HHDHXWX/ref=zg_bs_g_beauty_d_sccl_18/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Amazon"
     },
     {
       "rank": 19,
       "asin": "B00T0C9XRK",
       "title": "essence Lash Princess False Lash Effect Mascara, Black (Pack of 1) | Volumizing & Lengthening, Clump-Free Fiber Brush, Defines and Separates; Vegan, Cruelty Free, Paraben Free, Oil Free",
       "url": "https://www.amazon.com/essence-Princess-Effect-Mascara-Cruelty/dp/B00T0C9XRK/ref=zg_bs_g_beauty_d_sccl_19/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 20,
@@ -273,7 +278,8 @@
       "asin": "B075JRT85B",
       "title": "Degree Men UltraClear Antiperspirant Black+White Sweat & 2 Count 2.6 | 72-Hour Sweat & Odor Protection for Men with MotionSense Technology",
       "url": "https://www.amazon.com/Degree-Men-UltraClear-Antiperspirant-Deodorant/dp/B075JRT85B/ref=zg_bs_g_beauty_d_sccl_39/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Degree"
     },
     {
       "rank": 40,
@@ -357,7 +363,8 @@
       "asin": "B0BX2TZZWG",
       "title": "Tree Hut Body Scrub, Vanilla, 18 Oz | Exfoliating & Hydrating Sugar Scrub with Shea Butter & Essential Oils, Smooth Skin, Body Exfoliator For All Skin Types",
       "url": "https://www.amazon.com/Tree-Hut-Variety-Strawberry-Champaine/dp/B0BX2TZZWG/ref=zg_bs_g_beauty_d_sccl_1/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Tree Hut"
     },
     {
       "rank": 52,
@@ -406,7 +413,8 @@
       "asin": "B0BXTS6L35",
       "title": "Amazon Essentials Epsom Salt Soak, Magnesium Sulfate USP, 3 Pound, 1-Pack (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Magnesium-Sulfate-1-Pack/dp/B0BXTS6L35/ref=zg_bs_g_beauty_d_sccl_8/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Amazon"
     },
     {
       "rank": 59,
@@ -588,7 +596,8 @@
       "asin": "B00P0Q0T28",
       "title": "Too Faced Better Than Sex Volumizing Mascara | Dramatic Volume + Length | Cruelty Free",
       "url": "https://www.amazon.com/Too-Faced-Volumizing-Mascara-Dramatic/dp/B00P0Q0T28/ref=zg_bs_g_beauty_d_sccl_84/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Too Faced"
     },
     {
       "rank": 85,
@@ -609,7 +618,8 @@
       "asin": "B0CBR7J4TV",
       "title": "Double Rhythm 15ML Gel Nail Polish Pure Sheer Same Color Same Bottle Gel Polish Art Manicure Salon DIY at Home for Women (Milky White-A1075)",
       "url": "https://www.amazon.com/Double-Rhythm-Transparent-Manicure-A1075-White/dp/B0CBR7J4TV/ref=zg_bs_g_beauty_d_sccl_87/143-3166768-5157769?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Double Rhythm"
     },
     {
       "rank": 88,

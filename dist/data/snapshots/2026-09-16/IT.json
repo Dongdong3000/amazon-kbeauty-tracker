@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-09-15T23:26:15.3973225Z",
+  "collected_at_utc": "2026-09-15T23:41:48.6007609Z",
   "market_code": "IT",
   "products": [
     {
@@ -140,7 +140,8 @@
       "asin": "B0F6YST2VD",
       "title": "Essence Lash PRINCESS Volume Mascara, Black, Volumizing, Defining, Lengthening, Vegan, Fragrance Free, Pack of 2",
       "url": "https://www.amazon.it/-/en/Essence-PRINCESS-Volumizing-Lengthening-Fragrance/dp/B0F6YST2VD/ref=zg_bs_g_beauty_d_sccl_20/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 21,
@@ -203,7 +204,8 @@
       "asin": "B0CQKGGSXJ",
       "title": "Essence Baby GOT BLUSH Liquid Blusher No. 30 Red Express Result Fast Drying Natural Vegan Paraben Free Microplastic Particle Free 10ml",
       "url": "https://www.amazon.it/-/en/Essence-Blusher-Express-Microplastic-Particle/dp/B0CQKGGSXJ/ref=zg_bs_g_beauty_d_sccl_29/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 30,
@@ -252,7 +254,8 @@
       "asin": "B0038E8OOO",
       "title": "Essence Longlasting Long Lasting Eye Pencil 0.25g Black (01 Black Fever - 1 Piece)",
       "url": "https://www.amazon.it/-/en/Essence-Longlasting-Lasting-Pencil-0-25g/dp/B0038E8OOO/ref=zg_bs_g_beauty_d_sccl_36/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 37,
@@ -350,7 +353,8 @@
       "asin": "B06WW9SJ5M",
       "title": "Essence Lash PRINCESS Sculpted Volume Mascara, 12 ml | Black Mascara with Curved and Tapered Brush for Modular Volume and Fan-Open Defined Eyelashes",
       "url": "https://www.amazon.it/-/en/Essence-Lash-PRINCESS-Sculpted-Mascara/dp/B06WW9SJ5M/ref=zg_bs_g_beauty_d_sccl_50/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 51,
@@ -378,7 +382,8 @@
       "asin": "B0CQKGL28D",
       "title": "Essence Make-up The Slim Stick Intense Colour (0.3 g) | Long-lasting hold, Ultra pigmented, Instant results, Lipstick, Oils, Healing effect, Matte finish",
       "url": "https://www.amazon.it/-/en/Essence-Make-up-Stick-Intense-Colour/dp/B0CQKGL28D/ref=zg_bs_g_beauty_d_sccl_4/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 55,
@@ -441,7 +446,8 @@
       "asin": "B00VP4HREM",
       "title": "essence Compact Face Powder Matte Finish (12g) | Mattifying effect, powder, natural finish",
       "url": "https://www.amazon.it/-/en/essence-Compact-Powder-Matte-Finish/dp/B00VP4HREM/ref=zg_bs_g_beauty_d_sccl_13/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 64,
@@ -455,7 +461,8 @@
       "asin": "B0DQTT9FYT",
       "title": "Essence Line N' STAIN! TATTOO LIP LINER 03 Make A Mauve | Long-lasting hold, definition, lip pencil, colouring effect",
       "url": "https://www.amazon.it/-/en/Essence-STAIN-TATTOO-LINER-Mauve/dp/B0DQTT9FYT/ref=zg_bs_g_beauty_d_sccl_15/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 66,
@@ -483,14 +490,16 @@
       "asin": "B0038E334K",
       "title": "Essence Kajal Pencil 01 Black | Long-lasting hold, definition, Kajal",
       "url": "https://www.amazon.it/-/en/Essence-Kajal-Pencil-01-Black/dp/B0038E334K/ref=zg_bs_g_beauty_d_sccl_19/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 70,
       "asin": "B084GXC77H",
       "title": "Essence 24ever Ink Liner, Waterproof Eyeliner, 01 Intense Black, 1.2 ml | Extra thin brush for a perfect line, with an intense colour resistant to water, matte finish",
       "url": "https://www.amazon.it/-/en/Essence-24ever-Waterproof-Eyeliner-Intense/dp/B084GXC77H/ref=zg_bs_g_beauty_d_sccl_20/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 71,
@@ -539,7 +548,8 @@
       "asin": "B0FK5KHFBC",
       "title": "Essence Brow Lift & Freeze Glue Eyebrow Gel 01 Clear Control | Transparent gel, waxy texture, ultra-strong hold for up to 18 hours, laminated eyebrow effect",
       "url": "https://www.amazon.it/-/en/Essence-Freeze-Eyebrow-Clear-Control/dp/B0FK5KHFBC/ref=zg_bs_g_beauty_d_sccl_27/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Essence"
     },
     {
       "rank": 78,
@@ -672,7 +682,8 @@
       "asin": "B0H3BY1QFC",
       "title": "Just For Men Beard & Mustache, Men's Dye With Keratin, Dark Brown M45 | Keratin dyed for a fuller beard, ammonia free, removes grey hairs, includes applicator comb",
       "url": "https://www.amazon.it/-/en/Just-Men-Beard-Mustache-Keratin/dp/B0H3BY1QFC/ref=zg_bs_g_beauty_d_sccl_96/520-8443208-0767552?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "Just For Men"
     },
     {
       "rank": 97,
