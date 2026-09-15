@@ -1,0 +1,706 @@
+{
+  "collected_at_utc": "2026-09-15T02:43:33.9366606Z",
+  "market_code": "IT",
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B0007506U2",
+      "title": "Catwalk by TIGI Curls Rock Amplifier Styling Cream, 150 ml | Anti-frizz moisturizing definer for natural curly and wavy hair, enhances shine and body",
+      "url": "https://www.amazon.it/-/en/Catwalk-TIGI-Curls-Amplifier-Styling/dp/B0007506U2/ref=zg_bs_g_beauty_d_sccl_1/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask, Hydrogel Night Face Mask, Hydrating and Plumping, Minimizes Pores and Improves Elasticity, K-Beauty Skincare Korean | 4 Pieces",
+      "url": "https://www.amazon.it/-/en/BIODANCE-Bio-Collagen-Hydrating-Minimizes-Elasticity/dp/B0B2RM68G2/ref=zg_bs_g_beauty_d_sccl_2/520-8443208-0767552?psc=1",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster 15ml | 0.1% Retinal, 3% Matryxyl, High Power Retinoid, Anti-Aging, Pore Minimizer, Fine Lines, Korean Skincare",
+      "url": "https://www.amazon.it/-/en/celimax-Vita-Retinal-Tightening-Booster/dp/B0DK4Y2YP3/ref=zg_bs_g_beauty_d_sccl_3/520-8443208-0767552?psc=1",
+      "canonical_brand": "셀리맥스"
+    },
+    {
+      "rank": 4,
+      "asin": "B00NPXEEC4",
+      "title": "Maybelline New York Multi-Use Concealer Hydrating Concealer with Modular | and with modular coverage, blemishes and dark circles covered, with goji berries and haloxyl, erases age",
+      "url": "https://www.amazon.it/-/en/Maybelline-Multi-Use-Concealer-Hydrating-Modular/dp/B00NPXEEC4/ref=zg_bs_g_beauty_d_sccl_4/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 5,
+      "asin": "B00YBYMQN0",
+      "title": "Garnier SkinActive All in 1 Micellar Water for Sensitive Skin, 100% Removed | 100% Removed Makeup, Cleansed and Moisturized Skin for 12H, No Residues and No Rinsing, with Micelles and Glycerin",
+      "url": "https://www.amazon.it/-/en/Garnier-SkinActive-Micellar-Sensitive-Removed/dp/B00YBYMQN0/ref=zg_bs_g_beauty_d_sccl_5/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0B7RQ46LD",
+      "title": "CeraVe Blemish Control Cleanser for Acneic Oily Skin, 8 ml | Purifying action, reduced blemishes, with salicylic acid and purifying clay, for healthy skin",
+      "url": "https://www.amazon.it/-/en/CeraVe-Blemish-Control-Cleanser-Acneic/dp/B0B7RQ46LD/ref=zg_bs_g_beauty_d_sccl_6/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0D1G7XF9X",
+      "title": "medicube Maschera Viso Zero Pore Blackhead Mud Per Rinfrescare E Rassodare I Pori, Formula Ad Asciugatura Rapida In 3 Minuti Con Argilla Purificante Aha, Bha, Pha E Pori 3,52 Oz | Maschera all'Argilla Coreanaz Rinfrescante, Restringe i Pori, Formula Rapida 3 Minuti con AHA, BHA, PHA & Argilla, 100 g",
+      "url": "https://www.amazon.it/-/en/medicube-Blackhead-Rinfrescare-Asciugatura-Purificante/dp/B0D1G7XF9X/ref=zg_bs_g_beauty_d_sccl_7/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 8,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Zero Pore Pads 2.0 Tamponi Tonici Per Il Viso A Doppia Texture Per L'Esfoliazione E La Cura Dei Pori Con Acido Lattico Al 4,5% E Acido Salicilico Bha Allo 0,45%, (70 Unità) | Toner Pads Doppia Texture per Esfoliazione & Pori con 4,5% AHA & 0,45% BHA, Tutti Tipi di Pelle, Skincare Coreana, 70 Pads",
+      "url": "https://www.amazon.it/-/en/medicube-Tamponi-Texture-LEsfoliazione-Salicilico/dp/B09V7Z4TJG/ref=zg_bs_g_beauty_d_sccl_8/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 9,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum - Siero PDRN Viso con Peptidi e Niacinamide, Idratazione e Pelle Più Tonica, Per un Incarnato Più Uniforme, Skincare Coreana, 30 ml | Siero con Peptidi e Niacinamide per Idratazione e Pelle dall'Aspetto Più Compatto, Migliora Tono della Pelle, 30ml",
+      "url": "https://www.amazon.it/-/en/medicube-PDRN-Pink-Peptide-Serum/dp/B0DBF65JYY/ref=zg_bs_g_beauty_d_sccl_9/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 10,
+      "asin": "B0DFHQTDL2",
+      "title": "Fidia Farmaceutici ConnettivinaStick Lips - Stick 3 g 0.2% Hyaluronic Acid Based for Damaged, Dry and Chapped Lips",
+      "url": "https://www.amazon.it/-/en/Fidia-Farmaceutici-ConnettivinaStick-Lips-Hyaluronic/dp/B0DFHQTDL2/ref=zg_bs_g_beauty_d_sccl_10/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 11,
+      "asin": "B0C4X7SHMF",
+      "title": "Vidal - Energy & Sport Shower Foam, Energizing Formula with Ginseng and Guarana Extracts, Dermatologically Tested, 250 ml",
+      "url": "https://www.amazon.it/-/en/Vidal-Energizing-Formula-Extracts-Dermatologically/dp/B0C4X7SHMF/ref=zg_bs_g_beauty_d_sccl_11/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 12,
+      "asin": "B0FVG6TCJS",
+      "title": "Garnier Fructis Curly Method Moisturizing Spray for Curly Hair 150ml | For Defined and Hydrated Curly Hair, Enriched with Hyaluronic Acid and Shea Butter, Curly",
+      "url": "https://www.amazon.it/-/en/Garnier-Fructis-Curly-Method-Moisturizing/dp/B0FVG6TCJS/ref=zg_bs_g_beauty_d_sccl_12/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 13,
+      "asin": "B083JKPCFB",
+      "title": "Kérastase, Genesis, Siero Fortificante Anti-Caduta, Trattamento Senza Risciacquo, Per Capelli Fini & Indeboliti, Anti-Chute Fortifiant",
+      "url": "https://www.amazon.it/-/en/K%C3%A9rastase-Genesis-Fortifying-Anti-Loss-Treatment/dp/B083JKPCFB/ref=zg_bs_g_beauty_d_sccl_13/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 14,
+      "asin": "B0B8K33S59",
+      "title": "Garnier Olia Permanent Hair Dye Without Ammonia, Brown | Delicate fragrance, covers 100% white hair, with flower oils of natural origin",
+      "url": "https://www.amazon.it/-/en/Garnier-Permanent-Without-Ammonia-Brown/dp/B0B8K33S59/ref=zg_bs_g_beauty_d_sccl_14/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 15,
+      "asin": "B0F2TQW9QD",
+      "title": "BIONOBLE Organic Rosemary Hair Oil - Stimulates Growth - 50 ml | 100% Natural and Pure - Rosemary Hair Growth Oil - Rosemary Oil for Hair Growth - Glass Bottle, Pipette, Pump",
+      "url": "https://www.amazon.it/-/en/BIONOBLE-Organic-Rosemary-Hair-Oil/dp/B0F2TQW9QD/ref=zg_bs_g_beauty_d_sccl_15/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 16,
+      "asin": "B074F18PKB",
+      "title": "Felce Azzurra - White Musk Scented Body Wash, Gentle Moisturizing Cleansing | Gentle and moisturizing cleanser for soft skin, floral notes of rose and bergamot, dermatologically tested",
+      "url": "https://www.amazon.it/-/en/Felce-Azzurra-Scented-Moisturizing-Cleansing/dp/B074F18PKB/ref=zg_bs_g_beauty_d_sccl_16/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 17,
+      "asin": "B08CFSS35N",
+      "title": "Rimmel Lasting Finish Lipliner 705",
+      "url": "https://www.amazon.it/-/en/Rimmel-Lasting-Finish-Lipliner-705/dp/B08CFSS35N/ref=zg_bs_g_beauty_d_sccl_17/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 18,
+      "asin": "B0CBKDC7JY",
+      "title": "Rilastil Xerolact Dry Skin Protective Cleansing Oil, Special Price, 1000 ml",
+      "url": "https://www.amazon.it/-/en/Rilastil-Xerolact-Protective-Cleansing-Special/dp/B0CBKDC7JY/ref=zg_bs_g_beauty_d_sccl_18/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 19,
+      "asin": "B082XRRXZH",
+      "title": "L'Oréal Paris Revitalift Filler Serum HA + PDRN Vegan, Plumping, 30 ml | Plumping, moisturizing and anti-wrinkle action, firm and smoothed skin, enhanced formula with hyaluronic acid and vegan PDRN",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Paris-Revitalift-Filler-Plumping/dp/B082XRRXZH/ref=zg_bs_g_beauty_d_sccl_19/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 20,
+      "asin": "B0CFYCPCL3",
+      "title": "Vidal - Imperial Orchid Body Wash, Enveloping Formula, Orchid Fragrance, Dermatologically Tested, 500 ml",
+      "url": "https://www.amazon.it/-/en/Vidal-Imperial-Enveloping-Fragrance-Dermatologically/dp/B0CFYCPCL3/ref=zg_bs_g_beauty_d_sccl_20/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 21,
+      "asin": "B0DMTDN158",
+      "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner",
+      "url": "https://www.amazon.it/-/en/Ordinary-Exfoliating-Exfoliator-Brightening-Smoothing/dp/B0DMTDN158/ref=zg_bs_g_beauty_d_sccl_21/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 22,
+      "asin": "B0FXGC8H4K",
+      "title": "Garnier Vitamin C Fresh and Bright Sorbet Moisturizing Anti-Stain Cream",
+      "url": "https://www.amazon.it/-/en/Garnier-Vitamin-Bright-Moisturizing-Anti-Stain/dp/B0FXGC8H4K/ref=zg_bs_g_beauty_d_sccl_22/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 23,
+      "asin": "B0CGJLC8G9",
+      "title": "La Roche-Posay Effaclar Duo+M Triple Correction Treatment, 40 ml | For oily acne-prone skin, anti-reappearance effect, with phylobioma, procerad and niacinamide",
+      "url": "https://www.amazon.it/-/en/Roche-Posay-Effaclar-Triple-Correction-Treatment/dp/B0CGJLC8G9/ref=zg_bs_g_beauty_d_sccl_23/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 24,
+      "asin": "B0CM2PPNMW",
+      "title": "medicube Jelly Cream with Collagen, Niacinamide | Hydrolyzed Collagen Face Cream, Hydration & Glow Effect 24 Hours, More Voluminous and Compact Skin, 110 ml",
+      "url": "https://www.amazon.it/-/en/medicube-Jelly-Cream-Collagen-Niacinamide/dp/B0CM2PPNMW/ref=zg_bs_g_beauty_d_sccl_24/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 25,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick | PDRN, NAD and Collagen, Multi-Purpose Stick Balm for Face, Eyes & Neck, Volumizing and Firming Effect, Korean Skincare",
+      "url": "https://www.amazon.it/-/en/medicube-PDRN-Collagen-Multi-Stick/dp/B0GHMZXX8Y/ref=zg_bs_g_beauty_d_sccl_25/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 26,
+      "asin": "B0F6YST2VD",
+      "title": "Essence Lash PRINCESS Volume Mascara, Black, Volumizing, Defining, Lengthening, Vegan, Fragrance Free, Pack of 2",
+      "url": "https://www.amazon.it/-/en/Essence-PRINCESS-Volumizing-Lengthening-Fragrance/dp/B0F6YST2VD/ref=zg_bs_g_beauty_d_sccl_26/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 27,
+      "asin": "B0C3PCJ6SD",
+      "title": "The Ordinary Salicylic Acid 2% Solution 30 ml, Salicylic Acid Serum, Targeted Acting for Blemish Prone Skin",
+      "url": "https://www.amazon.it/-/en/Ordinary-Salicylic-Solution-Targeted-Blemish/dp/B0C3PCJ6SD/ref=zg_bs_g_beauty_d_sccl_27/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 28,
+      "asin": "B0D2Z3GGCY",
+      "title": "medicube Crema Idratante Per Il Viso Deep Vitamin C Golden Capsule, Liposomi, Per Rughe, Skin Radiance, Gel Trasparente Per Un'Idratazione Luminosa, Cura Della Pelle Coreana 1,94 Oz | Crema con Capsule di Vitamina C, Luminosità e Pelle dall'Aspetto Più Uniforme, Gel Texture Idratante, Skincare Coreana, 55g",
+      "url": "https://www.amazon.it/-/en/medicube-Idratante-Liposomi-Trasparente-UnIdratazione/dp/B0D2Z3GGCY/ref=zg_bs_g_beauty_d_sccl_28/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 29,
+      "asin": "B003JSEGNC",
+      "title": "La Roche-Posay Effaclar Cleansing Foaming Gel Purifying 400 ml | For Acne-prone skin, Removes Sebum and Impurities, Enriched with Thermal Water and Zinc",
+      "url": "https://www.amazon.it/-/en/Roche-Posay-Effaclar-Cleansing-Foaming-Purifying/dp/B003JSEGNC/ref=zg_bs_g_beauty_d_sccl_29/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 30,
+      "asin": "B0151NW9EA",
+      "title": "Maybelline New York Sensational Volumizing Eyelash Mascara Fan Effect on | Fan effect on eyelashes, sensational eyelash mascara, volumising, intense black colour",
+      "url": "https://www.amazon.it/-/en/Maybelline-Sensational-Volumizing-Eyelash-Mascara/dp/B0151NW9EA/ref=zg_bs_g_beauty_d_sccl_30/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 31,
+      "asin": "B0FDWX8DN6",
+      "title": "L'Oréal Paris Infaillible Setting Makeup Fixing Spray, 150 ml | For all skin types, long-lasting, natural finish, lightweight formula, dermatologically tested",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Paris-Infaillible-Setting-Makeup/dp/B0FDWX8DN6/ref=zg_bs_g_beauty_d_sccl_31/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 32,
+      "asin": "B0B9HFJ938",
+      "title": "Lycia, Pure Talc Deodorant Vapo No Gas with Antibacterial and Fragrance with Talcum and Cotton Flowers, Effective up to 48H, 75 ml",
+      "url": "https://www.amazon.it/-/en/Lycia-Deodorant-Antibacterial-Fragrance-Effective/dp/B0B9HFJ938/ref=zg_bs_g_beauty_d_sccl_32/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 33,
+      "asin": "B00E4L59W0",
+      "title": "L'Oréal Elvive Treatment for Normal or Dry Hair, Protects Against | For normal or dry hair, protects against aggression and nourishes the fiber, with precious oils of Marula and Camellia",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Elvive-Treatment-Protects-Against/dp/B00E4L59W0/ref=zg_bs_g_beauty_d_sccl_33/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 34,
+      "asin": "B01MYEZPC8",
+      "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Hyaluronic Acid, Multi-Layer Moisturizing Serum for Plumped and Smoother Skin, 30ml",
+      "url": "https://www.amazon.it/-/en/Ordinary-Hyaluronic-Ceramides-Multi-Layer-Moisturizing/dp/B01MYEZPC8/ref=zg_bs_g_beauty_d_sccl_34/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 35,
+      "asin": "B0GCC2JV65",
+      "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptide & Collagen, Reduces Age Lines, Improves Elasticity & Pores, Korean Skincare, 1 fl oz",
+      "url": "https://www.amazon.it/-/en/medicube-Firming-Serum-Face-Neck/dp/B0GCC2JV65/ref=zg_bs_g_beauty_d_sccl_35/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 36,
+      "asin": "B0FQC3MF3Q",
+      "title": "VEGCOO 640 Pieces False Eyelashes Extension Lashes, 30D-40D-50D-60D Curl False Eyelashes, 8-16mm Eyelash Extension Kit, DIY Eyelash Extension for Girls and Women Beginners",
+      "url": "https://www.amazon.it/-/en/VEGCOO-Eyelashes-Extension-30D-40D-50D-60D-Beginners/dp/B0FQC3MF3Q/ref=zg_bs_g_beauty_d_sccl_36/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 37,
+      "asin": "B0D45KJ86P",
+      "title": "Mixa Urea Cica Repair+ Regenerating Body Cream for Dry Skin, 400 ml | Hydrated and Soothing Skin for 48H, Repaired and Protected Skin Barrier, with 10% Urea and Amino Acid",
+      "url": "https://www.amazon.it/-/en/Mixa-Urea-Repair-Regenerating-Cream/dp/B0D45KJ86P/ref=zg_bs_g_beauty_d_sccl_37/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 38,
+      "asin": "B0038E8OOO",
+      "title": "Essence Longlasting Long Lasting Eye Pencil 0.25g Black (01 Black Fever - 1 Piece)",
+      "url": "https://www.amazon.it/-/en/Essence-Longlasting-Lasting-Pencil-0-25g/dp/B0038E8OOO/ref=zg_bs_g_beauty_d_sccl_38/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 39,
+      "asin": "B017NHI25M",
+      "title": "ghd bodyguard, Spray Termoprotettore | Formula leggera invisibile, strato protettivo termico, aiuta a prevenire il sollevamento delle cuticole per capelli lisci e",
+      "url": "https://www.amazon.it/-/en/ghd-Bodyguard-Thermoprotector-Spray-Types/dp/B017NHI25M/ref=zg_bs_g_beauty_d_sccl_39/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 40,
+      "asin": "B0FRW2NK31",
+      "title": "Dermafresh Hyper-Sweating 72H Roll-On Antiperspirant Deodorant, 50 ml | Protection against sweating and bad smells. Alcohol and stain free. Skin friendly, dermatologically tested",
+      "url": "https://www.amazon.it/-/en/Dermafresh-Hyper-Sweating-Roll-Antiperspirant-Deodorant/dp/B0FRW2NK31/ref=zg_bs_g_beauty_d_sccl_40/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 41,
+      "asin": "B007H4ZPKC",
+      "title": "Milmil Neutral Liquid Soap, MaxiRisparmio Universal Refill, Dermatologically Tested with Natural Antibacterial – 2000 ml",
+      "url": "https://www.amazon.it/-/en/Milmil-MaxiRisparmio-Universal-Dermatologically-Antibacterial/dp/B007H4ZPKC/ref=zg_bs_g_beauty_d_sccl_41/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 42,
+      "asin": "B0CQKGGSXJ",
+      "title": "Essence Baby GOT BLUSH Liquid Blusher No. 30 Red Express Result Fast Drying Natural Vegan Paraben Free Microplastic Particle Free 10ml",
+      "url": "https://www.amazon.it/-/en/Essence-Blusher-Express-Microplastic-Particle/dp/B0CQKGGSXJ/ref=zg_bs_g_beauty_d_sccl_42/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 43,
+      "asin": "B07DBNWPBN",
+      "title": "Chicco Baby Moments Squares Soft Cotton, Gently Cleans and Soft Caresses, Baby Skin, White, 60 Pieces, 0+ Months",
+      "url": "https://www.amazon.it/-/en/Chicco-Moments-Squares-Cotton-Caresses/dp/B07DBNWPBN/ref=zg_bs_g_beauty_d_sccl_43/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 44,
+      "asin": "B09R8299JQ",
+      "title": "Essence Primer HELLO, GOOD STUFF! Brightening Effect Face Serum (1 ml) | Moisturizing effect, Smoothing effect, Face primer, Nourishing effect, Preparatory effect, Gel texture, Healing effect",
+      "url": "https://www.amazon.it/-/en/Essence-Primer-HELLO-Brightening-Effect/dp/B09R8299JQ/ref=zg_bs_g_beauty_d_sccl_44/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 45,
+      "asin": "B07BBW21M6",
+      "title": "Lycia, Face and Eye Makeup Remover Pads, Soft Fabric 100% Pure Cotton, Double Action with Different Wefts to Remove Makeup and Perfecting Cleansing, Pack of 80 Pads",
+      "url": "https://www.amazon.it/-/en/Lycia-Remover-Different-Perfecting-Cleansing/dp/B07BBW21M6/ref=zg_bs_g_beauty_d_sccl_45/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 46,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides | 99% Retinol for Fine Lines, PDRN and Niacinamide for Non-Uniform Skin Tone, Korean Skincare, 1 fl oz",
+      "url": "https://www.amazon.it/-/en/medicube-Serum-Salmon-PDRN-Peptides/dp/B0DWMSM6Y9/ref=zg_bs_g_beauty_d_sccl_46/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 47,
+      "asin": "B0036K0NBC",
+      "title": "Tesori d'Oriente - Shower Cream Dragon Flower and Pitaya, with Notes of White Flowers, Gently Cleanses the Skin Giving a Deep Wellbeing, 250 ml",
+      "url": "https://www.amazon.it/-/en/Tesori-dOriente-Flowers-Cleanses-Wellbeing/dp/B0036K0NBC/ref=zg_bs_g_beauty_d_sccl_47/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 48,
+      "asin": "B09BD7L35V",
+      "title": "Garnier Siero Vitamina C Anti-Macchie, Illuminante, Rimpolpante, Arricchito con Vitamina C, Niacinamide e Acido Salicilico, Pelle Libera dalle Macchie Scure in Solo 6 Giorni, Incarnato Luminoso, 30 ml",
+      "url": "https://www.amazon.it/-/en/Garnier-Anti-Macchie-Illuminante-Rimpolpante-Niacinamide/dp/B09BD7L35V/ref=zg_bs_g_beauty_d_sccl_48/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 49,
+      "asin": "B0G6DNWMCT",
+      "title": "Garnier Fructis Smoothing Spray for Unruly Hair, Bright and Smooth Hair, Moisture and Heat Protection, No Frizz Effect, Fructis Diamond Sleek, 150 ml",
+      "url": "https://www.amazon.it/-/en/Garnier-Fructis-Smoothing-Moisture-Protection/dp/B0G6DNWMCT/ref=zg_bs_g_beauty_d_sccl_49/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 50,
+      "asin": "B0742CVQW4",
+      "title": "Rimmel London ScandalEyes Kohl Kajal Eye Pencil, Waterproof, Black (001 Black)",
+      "url": "https://www.amazon.it/-/en/Rimmel-London-ScandalEyes-Pencil-Waterproof/dp/B0742CVQW4/ref=zg_bs_g_beauty_d_sccl_50/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 51,
+      "asin": "B004SBLR4U",
+      "title": "Vichy Dercos Energizing Shampoo 400ml | With Aminexil and Niacinamide, for all hair types, anti-hair loss, healthy and strong hair",
+      "url": "https://www.amazon.it/-/en/Vichy-Dercos-Energizing-Shampoo-400ml/dp/B004SBLR4U/ref=zg_bs_g_beauty_d_sccl_1/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 52,
+      "asin": "B07TMNNFV5",
+      "title": "Cotton Plus Maxi Visage 50 Pieces - Beauty Line | PRECUT DISCECTS 100% PURE COTTON | Soft and Durable Face Cleansing Pads",
+      "url": "https://www.amazon.it/-/en/Cotton-Plus-Maxi-Visage-Pieces/dp/B07TMNNFV5/ref=zg_bs_g_beauty_d_sccl_2/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 53,
+      "asin": "B09R82JHVB",
+      "title": "Essence Magic Make-up All In One Skin Gloss Finish Face Cream (30 ml) | Moisturising effect, SPF 10, UVA/UVB filter, Brightening effect, Instant results, Smoothing effect, Soft-focus effect",
+      "url": "https://www.amazon.it/-/en/Essence-Magic-Make-up-Gloss-Finish/dp/B09R82JHVB/ref=zg_bs_g_beauty_d_sccl_3/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 54,
+      "asin": "B07D38HKCS",
+      "title": "Tangle Teezer | The Ultimate Detangler Spazzola per capelli | Per capelli umidi e asciutti | Districa tutti i tipi di capelli | Riduce la rottura, elimina i nodi | Liquorice Black",
+      "url": "https://www.amazon.it/-/en/Tangle-Teezer-Ultimate-Detangler-Liquorice/dp/B07D38HKCS/ref=zg_bs_g_beauty_d_sccl_4/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 55,
+      "asin": "B08P4YPB8Q",
+      "title": "Maybelline New York Sensational Eyelash Mascara Sky High, Intense Volume and Unlimited Length, Light Lashes, Defines, Curves and Multiplies, Volumizing and Lengthening, Black, 5 ml",
+      "url": "https://www.amazon.it/-/en/Maybelline-Sensational-Multiplies-Volumizing-Lengthening/dp/B08P4YPB8Q/ref=zg_bs_g_beauty_d_sccl_5/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 56,
+      "asin": "B0CJ5GW8RY",
+      "title": "L'Oréal Paris Volumizing Mascara, Fan Lashes, Wider Look, Suitable for | Fan Lashes, Wider Look, Suitable for Sensitive Eyes, Enriched with 5% Stretchflex Complex, Lump-free",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Paris-Volumizing-Mascara-Suitable/dp/B0CJ5GW8RY/ref=zg_bs_g_beauty_d_sccl_6/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 57,
+      "asin": "B0CQKGL28D",
+      "title": "Essence Make-up The Slim Stick Intense Colour (0.3 g) | Long-lasting hold, Ultra pigmented, Instant results, Lipstick, Oils, Healing effect, Matte finish",
+      "url": "https://www.amazon.it/-/en/Essence-Make-up-Stick-Intense-Colour/dp/B0CQKGL28D/ref=zg_bs_g_beauty_d_sccl_7/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 58,
+      "asin": "B07VRQL7VB",
+      "title": "Labello Classic Care Lip Balm 4.8 g, Classic Lip Balm with Moisturizing Shea Butter for up to 24 Hours, Mineral Oil and Paraffin Free",
+      "url": "https://www.amazon.it/-/en/Labello-Classic-Care-Moisturizing-Paraffin/dp/B07VRQL7VB/ref=zg_bs_g_beauty_d_sccl_8/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 59,
+      "asin": "B00VP4HREM",
+      "title": "essence Compact Face Powder Matte Finish (12g) | Mattifying effect, powder, natural finish",
+      "url": "https://www.amazon.it/-/en/essence-Compact-Powder-Matte-Finish/dp/B00VP4HREM/ref=zg_bs_g_beauty_d_sccl_9/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 60,
+      "asin": "B08M58SWB1",
+      "title": "NYX Professional Makeup The Brow Glue Clear Laminating Effect Eyebrow Gel | Lamination effect, for sculpted eyelashes with a natural finish, up to 16 hours hold, transparent gel",
+      "url": "https://www.amazon.it/-/en/NYX-Professional-Makeup-Laminating-Eyebrow/dp/B08M58SWB1/ref=zg_bs_g_beauty_d_sccl_10/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 61,
+      "asin": "B07C5XD33D",
+      "title": "Facial Cleansing Foam 16 ml with Ceramides, Niacinamide and Hyaluronic Acid – Hypoallergenic and Fragrance Free for Clean and Hydrated Skin",
+      "url": "https://www.amazon.it/-/en/Facial-Cleansing-Ceramides-Niacinamide-Hyaluronic/dp/B07C5XD33D/ref=zg_bs_g_beauty_d_sccl_11/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 62,
+      "asin": "B07C5T3DKW",
+      "title": "CeraVe Repair Eye Cream - Reduced Bags and Dark Circles - 15 ml | For a long hydrated eye contour, for all skin types, with hyaluronic acid and ceramides",
+      "url": "https://www.amazon.it/-/en/CeraVe-Repair-Eye-Cream-Reduced/dp/B07C5T3DKW/ref=zg_bs_g_beauty_d_sccl_12/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 63,
+      "asin": "B06WW9SJ5M",
+      "title": "Essence Lash PRINCESS Sculpted Volume Mascara, 12 ml | Black Mascara with Curved and Tapered Brush for Modular Volume and Fan-Open Defined Eyelashes",
+      "url": "https://www.amazon.it/-/en/Essence-Lash-PRINCESS-Sculpted-Mascara/dp/B06WW9SJ5M/ref=zg_bs_g_beauty_d_sccl_13/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 64,
+      "asin": "B084GXC77H",
+      "title": "Essence 24ever Ink Liner, Waterproof Eyeliner, 01 Intense Black, 1.2 ml | Extra thin brush for a perfect line, with an intense colour resistant to water, matte finish",
+      "url": "https://www.amazon.it/-/en/Essence-24ever-Waterproof-Eyeliner-Intense/dp/B084GXC77H/ref=zg_bs_g_beauty_d_sccl_14/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 65,
+      "asin": "B06XZNJWZL",
+      "title": "Slick Gorilla Volumising Powder for Men, Natural Formula, 20 g | Vegan and natural formula with silica and glycerin; volume, texture, matte finish and flexible reshapable hold",
+      "url": "https://www.amazon.it/-/en/Slick-Gorilla-Volumising-Natural-Formula/dp/B06XZNJWZL/ref=zg_bs_g_beauty_d_sccl_15/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 66,
+      "asin": "B0FCMWMPVY",
+      "title": "Rimmel 60 Seconds Super Shine Nail Polish Quick Dry Vibrant Colour Long Lasting 10ml 109 Evening Sand",
+      "url": "https://www.amazon.it/-/en/Rimmel-Seconds-Vibrant-Lasting-Evening/dp/B0FCMWMPVY/ref=zg_bs_g_beauty_d_sccl_16/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 67,
+      "asin": "B00ST2GSRK",
+      "title": "La Roche-Posay Cicaplast Baume B5+ Repair Face and Body Balm, 40 ml | Suitable for dry and sensitive skin, anti-redness action, soothing effect, also suitable for skin with tattoos",
+      "url": "https://www.amazon.it/-/en/Roche-Posay-Cicaplast-Baume-Repair-Face/dp/B00ST2GSRK/ref=zg_bs_g_beauty_d_sccl_17/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 68,
+      "asin": "B09N6Z61GL",
+      "title": "The Ordinary Caffeine Solution 5% + EGCG 30 ml, Caffeine Eye Serum, Anti-Fatigue for Dark Circles and Tired Eyes",
+      "url": "https://www.amazon.it/-/en/Ordinary-Caffeine-Solution-Anti-Fatigue-Circles/dp/B09N6Z61GL/ref=zg_bs_g_beauty_d_sccl_18/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 69,
+      "asin": "B0C46YYFSG",
+      "title": "Alpecin Grey Attack Men's Colouring Shampoo 1 x 200 ml | Natural Grey Hair Colour | Men's Hair Strengthening | Shampoo for Men Against Hereditary Fall",
+      "url": "https://www.amazon.it/Alpecin-Colouring-Shampoo-Strengthening-Hereditary/dp/B0C46YYFSG/ref=zg_bs_g_beauty_d_sccl_19/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 70,
+      "asin": "B06VT4G8BD",
+      "title": "Kanzy Tea Tree Oil 60ml Tea Tree Oil for Face, Body, Nails, Hair and Aromatherapy Diffuser, Essential Oil Tea Tree",
+      "url": "https://www.amazon.it/-/en/Tea-Tree-Aromatherapy-Diffuser-Essential/dp/B06VT4G8BD/ref=zg_bs_g_beauty_d_sccl_20/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 71,
+      "asin": "B0DQTT9FYT",
+      "title": "Essence Line N' STAIN! TATTOO LIP LINER 03 Make A Mauve | Long-lasting hold, definition, lip pencil, colouring effect",
+      "url": "https://www.amazon.it/-/en/Essence-STAIN-TATTOO-LINER-Mauve/dp/B0DQTT9FYT/ref=zg_bs_g_beauty_d_sccl_21/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 72,
+      "asin": "B07Z1SFVL3",
+      "title": "Vishine Semi-Permanent Gel Nail Polish, 4 Colours, Clear, Milky White, Pink, Natural Nail Polish, Crystal Gel, UV/LED Drying 10ml",
+      "url": "https://www.amazon.it/-/en/Vishine-Semi-Permanent-Colours-Natural-Crystal/dp/B07Z1SFVL3/ref=zg_bs_g_beauty_d_sccl_22/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 73,
+      "asin": "B0F2TLPT18",
+      "title": "NYX Professional Makeup The Brow Glue Crazy Lift Gel Eyebrow, Laminating Effect and Fixed, Up to 24 Hours Hold, Sweat Resistant, Vegan Formula, 5 ml",
+      "url": "https://www.amazon.it/-/en/NYX-Professional-Eyebrow-Laminating-Resistant/dp/B0F2TLPT18/ref=zg_bs_g_beauty_d_sccl_23/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 74,
+      "asin": "B07Z4QXB9K",
+      "title": "Batist Classic Dry Shampoo 200 ml | Clean and light hair in 3 minutes, less washes, with rice starch, matte effect, leaves no residue, made in Italy",
+      "url": "https://www.amazon.it/-/en/Batist-Classic-Dry-Shampoo-200/dp/B07Z4QXB9K/ref=zg_bs_g_beauty_d_sccl_24/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 75,
+      "asin": "B0FK5KHFBC",
+      "title": "Essence Brow Lift & Freeze Glue Eyebrow Gel 01 Clear Control | Transparent gel, waxy texture, ultra-strong hold for up to 18 hours, laminated eyebrow effect",
+      "url": "https://www.amazon.it/-/en/Essence-Freeze-Eyebrow-Clear-Control/dp/B0FK5KHFBC/ref=zg_bs_g_beauty_d_sccl_25/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 76,
+      "asin": "B078G8KPXL",
+      "title": "L'Oréal Paris Perfect Touch Up Spray, Instant Spray for Roots and White",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Paris-Perfect-Touch-Instant/dp/B078G8KPXL/ref=zg_bs_g_beauty_d_sccl_26/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 77,
+      "asin": "B00M9B66BU",
+      "title": "Revlon Professional UniqOne Classic, Trattamento per Capelli Senza Risciaquo, All in One, Idrata, Protegge e Ripara (150ml)",
+      "url": "https://www.amazon.it/-/en/Professional-Treatment-Moisturizes-Protects-Fragrance/dp/B00M9B66BU/ref=zg_bs_g_beauty_d_sccl_27/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 78,
+      "asin": "B0B2R7P7MB",
+      "title": "[Mizon] Marine Collagen Enriched Cream (50ml) Korean Skincare 54% Rich Marine Collagen, Intensive Anti-Aging Care and Fine Lines (Collagen Power Firming Enriched Cream)",
+      "url": "https://www.amazon.it/-/en/Collagen-Enriched-Skincare-Intensive-Anti-Aging/dp/B0B2R7P7MB/ref=zg_bs_g_beauty_d_sccl_28/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 79,
+      "asin": "B0FDKZ5Z6Z",
+      "title": "L'Oréal Paris Revitalift Laser Day Face Cream for All Skin Types | For all skin types, anti-ageing action, firmer and toned skin, with hyaluronic acid, vitamin C and Pro-Retinol",
+      "url": "https://www.amazon.it/-/en/LOr%C3%A9al-Paris-Revitalift-Laser-Cream/dp/B0FDKZ5Z6Z/ref=zg_bs_g_beauty_d_sccl_29/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 80,
+      "asin": "B079KG1PGZ",
+      "title": "Biopoint Styling – Heat Protection Spray for Hair, Hair Straightener and Curling Machine up to 230° with UV Filters, 200 ml",
+      "url": "https://www.amazon.it/-/en/Biopoint-Styling-Protection-Straightener-Curling/dp/B079KG1PGZ/ref=zg_bs_g_beauty_d_sccl_30/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 81,
+      "asin": "B0GMQNK641",
+      "title": "Borotalco Good Morning Softening Shower Bath, 500 ml | With velvety actives, creamy vanilla scent, light texture, softness and comfort",
+      "url": "https://www.amazon.it/-/en/Borotalco-Buongiorno-Softening-Fragrance-Softness/dp/B0GMQNK641/ref=zg_bs_g_beauty_d_sccl_81/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 82,
+      "asin": "B0D987NJV6",
+      "title": "Biotina Hair – 360° Regrowth Formula, Hair Supplements | Biotin, Selenium and Zinc. Hair Vitamins 360 cpr for nails and skin. Regrowth and anti-fall action for women and men",
+      "url": "https://www.amazon.it/-/en/Biotina-Hair-Regrowth-Formula-Supplements/dp/B0D987NJV6/ref=zg_bs_g_beauty_d_sccl_82/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 83,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Hydrates & Firms, Helps Improve Skin Tightening and Brightness, Hydrolyzed Collagen, Korean Skincare, 75ml",
+      "url": "https://www.amazon.it/-/en/medicube-Wrapping-Collagen-Overnight-Facial/dp/B0BRMYHMS5/ref=zg_bs_g_beauty_d_sccl_83/520-8443208-0767552?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 84,
+      "asin": "B07PK2P2XB",
+      "title": "Dr. Althea 345 crema sollievo, crema gel idratante con niacinamide e pantenolo per pelle sensibile, 50 ml",
+      "url": "https://www.amazon.it/-/en/sollievo-idratante-niacinamide-pantenolo-sensibile/dp/B07PK2P2XB/ref=zg_bs_g_beauty_d_sccl_84/520-8443208-0767552?psc=1",
+      "canonical_brand": "닥터엘시아"
+    },
+    {
+      "rank": 85,
+      "asin": "B097ZTJN2D",
+      "title": "RestivOil Anti-Dandruff for Normal to Oily Hair, Oil Shampoo, 400 ml | Anti-seborrheic action, anti itching, for sensitive skin, gentle formula, without foaming agents",
+      "url": "https://www.amazon.it/-/en/RestivOil-Anti-Dandruff-Normal-Oily-Shampoo/dp/B097ZTJN2D/ref=zg_bs_g_beauty_d_sccl_85/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 86,
+      "asin": "B07C5XYT19",
+      "title": "CeraVe Moisturizing Night Cream for Normal to Dry Skin 50ml | With Essential Ceramides, Hyaluronic Acid and Niacinamide, Hydrated Skin At Night, Restored Protective Barrier",
+      "url": "https://www.amazon.it/-/en/CeraVe-Moisturizing-Night-Cream-Normal/dp/B07C5XYT19/ref=zg_bs_g_beauty_d_sccl_86/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 87,
+      "asin": "B0F3H225V9",
+      "title": "Syoss by Palette Permanent Hair Colouring 1-4 Black Blue, Permanent Hair Colour with Keratin, Black Blue Hair Dye for 100% White Hair Coverage and Up to 100 Days of Intense Colour",
+      "url": "https://www.amazon.it/-/en/Syoss-Palette-Permanent-Colouring-Coverage/dp/B0F3H225V9/ref=zg_bs_g_beauty_d_sccl_87/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 88,
+      "asin": "B07C5XPXDC",
+      "title": "CERAVE Moisturising Cleanser 473 ml | Soft non-foaming facial cleanser enriched with 3 essential ceramides, fragrance-free formula, suitable for skin",
+      "url": "https://www.amazon.it/-/en/CERAVE-Moisturising-Cleanser-473-ml/dp/B07C5XPXDC/ref=zg_bs_g_beauty_d_sccl_88/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 89,
+      "asin": "B0BJFLVCZK",
+      "title": "La Roche-Posay Cicaplast Baume B5+ Repair Face and Body Balm, 100 ml | Suitable for Dry and Sensitive Skin, Anti-Redness Action, Soothing Effect, Formula with Tribiome, Panthenol, Madecassoside",
+      "url": "https://www.amazon.it/-/en/Roche-Posay-Cicaplast-Baume-Repair-Face/dp/B0BJFLVCZK/ref=zg_bs_g_beauty_d_sccl_89/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 90,
+      "asin": "B00GSUCEJ6",
+      "title": "Ess. I Love Extreme Mascara Crazy Volume",
+      "url": "https://www.amazon.it/-/en/Ess-Love-Extreme-Mascara-Crazy/dp/B00GSUCEJ6/ref=zg_bs_g_beauty_d_sccl_90/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 91,
+      "asin": "B07R6JV6FP",
+      "title": "RestivOil Physiological Nourishing Shampoo for Hair, Physiological Oil with Protective and Repairing Moisturizing Action, for Normal to Oily Hair, 400 ml",
+      "url": "https://www.amazon.it/-/en/RestivOil-Physiological-Nourishing-Protective-Moisturizing/dp/B07R6JV6FP/ref=zg_bs_g_beauty_d_sccl_91/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 92,
+      "asin": "B0038E334K",
+      "title": "Essence Kajal Pencil 01 Black | Long-lasting hold, definition, Kajal",
+      "url": "https://www.amazon.it/-/en/Essence-Kajal-Pencil-01-Black/dp/B0038E334K/ref=zg_bs_g_beauty_d_sccl_92/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 93,
+      "asin": "B0G6DN77TP",
+      "title": "Garnier Fructis Flexi Gel Curls Method for Waves, Bushings and Curls, Hydration and Definition, No Residues on Hair, Hyaluronic Acid and Liquid Styling Agent, 370 ml",
+      "url": "https://www.amazon.it/-/en/Garnier-Bushings-Hydration-Definition-Hyaluronic/dp/B0G6DN77TP/ref=zg_bs_g_beauty_d_sccl_93/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 94,
+      "asin": "B09JCR23LP",
+      "title": "Fria K-Beauty Japan Face Mask with Ginger, Cinnamon and Piglet Extract, Purifying Effect and Balancing Sebum on Skin, Dermatologically Tested, Pack of 1 Mask",
+      "url": "https://www.amazon.it/-/en/Fria-K-Beauty-Purifying-Balancing-Dermatologically/dp/B09JCR23LP/ref=zg_bs_g_beauty_d_sccl_94/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 95,
+      "asin": "B0CNRQTRSR",
+      "title": "Prep Dermoprotective Cream Soothing Cream for All Skin Types, 75 ml | Moisturizing Body Cream for Dry and Irritated Skin, for Men, Women and Children, Vase Size",
+      "url": "https://www.amazon.it/-/en/Prep-Dermoprotective-Cream-Soothing-Types/dp/B0CNRQTRSR/ref=zg_bs_g_beauty_d_sccl_95/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 96,
+      "asin": "B08PDPK4B1",
+      "title": "Rimmel London ScandalEyes Exaggerate Eye Definer, 001 Intense Black, 0.2 g",
+      "url": "https://www.amazon.it/-/en/Rimmel-ScandalEyes-Exaggerate-Definer-Intense/dp/B08PDPK4B1/ref=zg_bs_g_beauty_d_sccl_96/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 97,
+      "asin": "B0FKC282YW",
+      "title": "Essence Make-up Hydra Kiss Lip Tint Gloss Finish (3 ml) | Long-lasting hold, lip tint, colouring effect, luminous finish",
+      "url": "https://www.amazon.it/-/en/Essence-Make-up-Hydra-Gloss-Finish/dp/B0FKC282YW/ref=zg_bs_g_beauty_d_sccl_97/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 98,
+      "asin": "B0D3F5JXGR",
+      "title": "CeraVe Moisturizing Gel Cream Anti Shine for Oily Combination Acne-Prone Skin, Matte Effect, Hydrated Skin, Sebum-Absorbing Technology, with Hyaluronic Acid, Ceramides and Niacinamide, 53 ml",
+      "url": "https://www.amazon.it/-/en/CeraVe-Moisturizing-Combination-Sebum-Absorbing-Niacinamide/dp/B0D3F5JXGR/ref=zg_bs_g_beauty_d_sccl_98/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 99,
+      "asin": "B09XN22JBT",
+      "title": "CeraVe Moisturising Face Cream SPF 50 for Normal to Dry Skin 53 ml | Deep hydration, fast absorbing, with sun protection SPF 50 and hyaluronic acid",
+      "url": "https://www.amazon.it/-/en/CeraVe-Moisturising-Face-Cream-Normal/dp/B09XN22JBT/ref=zg_bs_g_beauty_d_sccl_99/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 100,
+      "asin": "B00B3S6KSE",
+      "title": "Collistar Magic Drops Face, Self-Tanning Concentrate Less than 1 h, Brightening Face Serum, Natural Intense Tan, Anti-Stain, Moisturizing, Anti-Aging with Vitamin E Long Lasting",
+      "url": "https://www.amazon.it/-/en/Collistar-Magic-Drops-Self-Tanning-Concentrate/dp/B00B3S6KSE/ref=zg_bs_g_beauty_d_sccl_100/520-8443208-0767552?psc=1",
+      "canonical_brand": null
+    }
+  ]
+}
