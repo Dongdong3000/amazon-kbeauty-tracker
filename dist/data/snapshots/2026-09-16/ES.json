@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-09-15T23:43:40.6798012Z",
+  "collected_at_utc": "2026-09-16T00:15:10.3718165Z",
   "market_code": "ES",
   "products": [
     {
@@ -591,7 +591,8 @@
       "asin": "B009VZJD8K",
       "title": "ZZ | Antipiojos | Loción Capilar para Eliminación de Piojos y Liendres | Con Permetrina | Tratamiento Integral | Niños a Partir de 2 Años | 100 ml",
       "url": "https://www.amazon.es/Loci%C3%B3n-Cupex-ZZ-Tratamiento-Antipiojos/dp/B009VZJD8K/ref=zg_bs_g_beauty_d_sccl_84/523-6850566-1324346?psc=1",
-      "canonical_brand": null
+      "canonical_brand": null,
+      "brand_name": "ZZ"
     },
     {
       "rank": 85,
