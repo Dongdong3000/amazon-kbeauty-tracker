@@ -3646,8 +3646,8 @@
     },
     {
       "code": "ES",
-      "complete": false,
-      "checked_ranks": 92,
+      "complete": true,
+      "checked_ranks": 100,
       "observed_ranks": [
         1,
         2,
@@ -3695,6 +3695,10 @@
         44,
         45,
         46,
+        47,
+        48,
+        49,
+        50,
         51,
         52,
         53,
@@ -3740,7 +3744,11 @@
         93,
         94,
         95,
-        96
+        96,
+        97,
+        98,
+        99,
+        100
       ],
       "all_products": [
         {
@@ -4066,6 +4074,34 @@
           "canonical_brand": "메디큐브"
         },
         {
+          "rank": 47,
+          "asin": "B004SBLR4U",
+          "title": "Vichy Champú Anticaída, Efecto Estimulante, Apto Para Todo Tipo de Cabello, Cuero Cabelludo Sano y Detoxificado, Con Aminexil",
+          "url": "https://www.amazon.es/-/en/Dercos-Anti-fall-Stimulating-Shampoo-Aminexil/dp/B004SBLR4U/ref=zg_bs_g_beauty_d_sccl_47/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 48,
+          "asin": "B0968Z4QSF",
+          "title": "Just For Men Control GX Shampoo & Conditioner for Gray Hair, 118 ml | Reduces gray hair gradually with each use, for all shad",
+          "url": "https://www.amazon.es/-/en/Just-Men-Control-Shampoo-Conditioner/dp/B0968Z4QSF/ref=zg_bs_g_beauty_d_sccl_48/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 49,
+          "asin": "B071914GGL",
+          "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Tónico Exfoliante con Ácido Glicólico, Tónico diario iluminador y suavizante",
+          "url": "https://www.amazon.es/-/en/Ordinary-Glycolic-Exfoliating-Brightening-Smoothing/dp/B071914GGL/ref=zg_bs_g_beauty_d_sccl_49/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 50,
+          "asin": "B0GCC2JV65",
+          "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptides and Collagen, Reduces Signs of Aging, Improve",
+          "url": "https://www.amazon.es/-/en/medicube-Firming-Serum-Face-Neck/dp/B0GCC2JV65/ref=zg_bs_g_beauty_d_sccl_50/520-9874919-7649736?psc=1",
+          "canonical_brand": "메디큐브"
+        },
+        {
           "rank": 51,
           "asin": "B084S5V22N",
           "title": "VALQUER Oxygenated Water in Stabilized Cream 20 Volumes 6% | 1 L | Oxidizer for Permanent Hair Color and Bleaching | Vegan wi",
@@ -4074,16 +4110,16 @@
         },
         {
           "rank": 52,
-          "asin": "B07BYMJMJZ",
-          "title": "Kanzy Rosehip Oil 120ml Cold Pressed Unrefined Rosehip Oil for Scars and Stretch Marks, Used as Moisturizer for Body and Skin",
-          "url": "https://www.amazon.es/-/en/Rosehip-Pressed-Unrefined-Stretch-Moisturizer/dp/B07BYMJMJZ/ref=zg_bs_g_beauty_d_sccl_2/520-9874919-7649736?psc=1",
+          "asin": "B003JSEGNC",
+          "title": "La Roche Posay - Gel Limpiador, Para Pieles Grasas con Tendencia Acneica, Purificante, Anti-Impurezas, Limpia Suavemente y Ca",
+          "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Purifying-Combination-Skins/dp/B003JSEGNC/ref=zg_bs_g_beauty_d_sccl_2/520-9874919-7649736?psc=1",
           "canonical_brand": ""
         },
         {
           "rank": 53,
-          "asin": "B003JSEGNC",
-          "title": "La Roche Posay - Gel Limpiador, Para Pieles Grasas con Tendencia Acneica, Purificante, Anti-Impurezas, Limpia Suavemente y Ca",
-          "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Purifying-Combination-Skins/dp/B003JSEGNC/ref=zg_bs_g_beauty_d_sccl_3/520-9874919-7649736?psc=1",
+          "asin": "B07BYMJMJZ",
+          "title": "Kanzy Rosehip Oil 120ml Cold Pressed Unrefined Rosehip Oil for Scars and Stretch Marks, Used as Moisturizer for Body and Skin",
+          "url": "https://www.amazon.es/-/en/Rosehip-Pressed-Unrefined-Stretch-Moisturizer/dp/B07BYMJMJZ/ref=zg_bs_g_beauty_d_sccl_3/520-9874919-7649736?psc=1",
           "canonical_brand": ""
         },
         {
@@ -4386,6 +4422,34 @@
           "title": "d'alba Piedmont Italian White Truffle Double Serum and Cream (70g) | Vegan Cream, 2 in 1 Care, Elasticity and Nutrition, For",
           "url": "https://www.amazon.es/-/en/dalba-Piedmont-Italian-Truffle-Double/dp/B09NN88V83/ref=zg_bs_g_beauty_d_sccl_96/520-9874919-7649736?psc=1",
           "canonical_brand": "달바"
+        },
+        {
+          "rank": 97,
+          "asin": "B07PQSRXR6",
+          "title": "Paula's Choice 2% BHA Liquid Exfoliating Exfoliator, Reduces Blackheads, 1 | Salicylic Acid Facial Exfoliating Peeling - Redu",
+          "url": "https://www.amazon.es/-/en/Paulas-Exfoliating-Exfoliator-Reduces-Blackheads/dp/B07PQSRXR6/ref=zg_bs_g_beauty_d_sccl_97/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 98,
+          "asin": "B07CHPWFXK",
+          "title": "CeraVe Crema Hidratante para Rostro y Cuerpo, Idónea para Piel Seca a Muy Seca, Hidrata y Restaura la Barrera de la Piel, Enr",
+          "url": "https://www.amazon.es/-/en/CeraVe-Moisturizing-Cream-Very-Body/dp/B07CHPWFXK/ref=zg_bs_g_beauty_d_sccl_98/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 99,
+          "asin": "B06WWCHQJS",
+          "title": "ESSENCE CoverStick Concealer 20 Matt Sand | Corrector de color, Matificante, Corrector",
+          "url": "https://www.amazon.es/-/en/ESSENCE-CoverStick-Concealer-Matt-Sand/dp/B06WWCHQJS/ref=zg_bs_g_beauty_d_sccl_99/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 100,
+          "asin": "B01HZN1O2M",
+          "title": "Inibsa Moisturizing Dermatological Shower Gel for Skin and Hair, 2x1L | Value Pack, Improves Hydration for Soft and Smooth Sk",
+          "url": "https://www.amazon.es/-/en/Inibsa-Moisturizing-Dermatological-Shower-Skin/dp/B01HZN1O2M/ref=zg_bs_g_beauty_d_sccl_100/520-9874919-7649736?psc=1",
+          "canonical_brand": ""
         }
       ],
       "products": [
@@ -4495,6 +4559,13 @@
           "canonical_brand": "메디큐브"
         },
         {
+          "rank": 50,
+          "asin": "B0GCC2JV65",
+          "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptides and Collagen, Reduces Signs of Aging, Improve",
+          "url": "https://www.amazon.es/-/en/medicube-Firming-Serum-Face-Neck/dp/B0GCC2JV65/ref=zg_bs_g_beauty_d_sccl_50/520-9874919-7649736?psc=1",
+          "canonical_brand": "메디큐브"
+        },
+        {
           "rank": 68,
           "asin": "B0BRMYHMS5",
           "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Hydrates and Firms, Helps Improve Skin Firmness and Luminous",
@@ -4526,8 +4597,8 @@
     },
     {
       "code": "IT",
-      "complete": false,
-      "checked_ranks": 92,
+      "complete": true,
+      "checked_ranks": 100,
       "observed_ranks": [
         1,
         2,
@@ -4575,6 +4646,10 @@
         44,
         45,
         46,
+        47,
+        48,
+        49,
+        50,
         51,
         52,
         53,
@@ -4620,7 +4695,11 @@
         93,
         94,
         95,
-        96
+        96,
+        97,
+        98,
+        99,
+        100
       ],
       "all_products": [
         {
@@ -4946,6 +5025,34 @@
           "canonical_brand": ""
         },
         {
+          "rank": 47,
+          "asin": "B004SBLR4U",
+          "title": "Vichy Dercos Energizing Shampoo 400ml | With Aminexil and Niacinamide, for all hair types, anti-hair loss, healthy and strong",
+          "url": "https://www.amazon.it/-/en/Vichy-Dercos-Energizing-Shampoo-400ml/dp/B004SBLR4U/ref=zg_bs_g_beauty_d_sccl_47/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 48,
+          "asin": "B0742CVQW4",
+          "title": "Rimmel London ScandalEyes Kohl Kajal Eye Pencil, Waterproof, Black (001 Black)",
+          "url": "https://www.amazon.it/-/en/Rimmel-London-ScandalEyes-Pencil-Waterproof/dp/B0742CVQW4/ref=zg_bs_g_beauty_d_sccl_48/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 49,
+          "asin": "B0D45KJ86P",
+          "title": "Mixa Urea Cica Repair+ Regenerating Body Cream for Dry Skin, 400 ml | Hydrated and Soothing Skin for 48H, Repaired and Protec",
+          "url": "https://www.amazon.it/-/en/Mixa-Urea-Repair-Regenerating-Cream/dp/B0D45KJ86P/ref=zg_bs_g_beauty_d_sccl_49/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 50,
+          "asin": "B08P4YPB8Q",
+          "title": "Maybelline New York Sensational Eyelash Mascara Sky High, Intense Volume and Unlimited Length, Light Lashes, Defines, Curves",
+          "url": "https://www.amazon.it/-/en/Maybelline-Sensational-Multiplies-Volumizing-Lengthening/dp/B08P4YPB8Q/ref=zg_bs_g_beauty_d_sccl_50/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
           "rank": 51,
           "asin": "B0036K0NBC",
           "title": "Tesori d'Oriente - Shower Cream Dragon Flower and Pitaya, with Notes of White Flowers, Gently Cleanses the Skin Giving a Deep",
@@ -5265,6 +5372,34 @@
           "asin": "B0BBGNXMKT",
           "title": "Essence Hello Fixing Spray, Good Stuff! 48h Hydro Moisturizing Spray (50 ml | Moisturizing effect, Refreshing effect, Fixing",
           "url": "https://www.amazon.it/-/en/Essence-Hello-Fixing-Spray-Moisturizing/dp/B0BBGNXMKT/ref=zg_bs_g_beauty_d_sccl_96/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 97,
+          "asin": "B07C5XPXDC",
+          "title": "CERAVE Moisturising Cleanser 473 ml | Soft non-foaming facial cleanser enriched with 3 essential ceramides, fragrance-free fo",
+          "url": "https://www.amazon.it/-/en/CERAVE-Moisturising-Cleanser-473-ml/dp/B07C5XPXDC/ref=zg_bs_g_beauty_d_sccl_97/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 98,
+          "asin": "B09R82JHVB",
+          "title": "Essence Magic Make-up All In One Skin Gloss Finish Face Cream (30 ml) | Moisturising effect, SPF 10, UVA/UVB filter, Brighten",
+          "url": "https://www.amazon.it/-/en/Essence-Magic-Make-up-Gloss-Finish/dp/B09R82JHVB/ref=zg_bs_g_beauty_d_sccl_98/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 99,
+          "asin": "B00M9B66BU",
+          "title": "Revlon Professional UniqOne Classic, Trattamento per Capelli Senza Risciaquo, All in One, Idrata, Protegge e Ripara (150ml)",
+          "url": "https://www.amazon.it/-/en/Professional-Treatment-Moisturizes-Protects-Fragrance/dp/B00M9B66BU/ref=zg_bs_g_beauty_d_sccl_99/525-0072337-4215435?psc=1",
+          "canonical_brand": ""
+        },
+        {
+          "rank": 100,
+          "asin": "B07MWDRYVW",
+          "title": "Cotton Sound Gold Cotton Sticks, 1 Pack x 300 Pieces, Open and Close Box, Biodegradable Cotton Sticks, 100% Pure Hydrophilic",
+          "url": "https://www.amazon.it/-/en/Cotton-Sound-Gold-Biodegradable-Hydrophilic/dp/B07MWDRYVW/ref=zg_bs_g_beauty_d_sccl_100/525-0072337-4215435?psc=1",
           "canonical_brand": ""
         }
       ],
