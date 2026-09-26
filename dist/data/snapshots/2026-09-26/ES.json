@@ -1,0 +1,706 @@
+{
+  "collected_at_utc": "2026-09-26T12:44:03.5064668Z",
+  "market_code": "ES",
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B09SZ5JX2Y",
+      "title": "d'alba Piedmont White Truffle Double Serum All-in-one Multi Balm | Vegan Skin Care, 3 in 1 Treatment, Wrinkle Balm, Korean Sk",
+      "url": "https://www.amazon.es/-/en/dalba-Piedmont-White-Truffle-Double/dp/B09SZ5JX2Y/ref=zg_bs_g_beauty_d_sccl_1/520-9874919-7649736?psc=1",
+      "canonical_brand": "달바"
+    },
+    {
+      "rank": 2,
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster, 15ml | 0.1% Retinal, 3% Matryxyl, High Potency Retinoid, Anti-Aging, Pore",
+      "url": "https://www.amazon.es/-/en/celimax-Vita-Retinal-Tightening-Booster/dp/B0DK4Y2YP3/ref=zg_bs_g_beauty_d_sccl_2/520-9874919-7649736?psc=1",
+      "canonical_brand": "셀리맥스"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Collagen Jelly Cream | Facial Cream with Hydrolyzed Collagen, Hydration and Glow 24 Hours, Fuller and Firmer Skin, 5",
+      "url": "https://www.amazon.es/-/en/medicube-8800256112227-Collagen-Jelly-Cream/dp/B0DGPSZVW3/ref=zg_bs_g_beauty_d_sccl_3/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 4,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Italian White Truffle First Spray Serum (100 ml) | Vegan Skincare, Moisturizing Face Mist, Multifunctional Sp",
+      "url": "https://www.amazon.es/-/en/dalba-Piedmont-Italian-White-Truffle/dp/B0BFQ9RD5B/ref=zg_bs_g_beauty_d_sccl_4/520-9874919-7649736?psc=1",
+      "canonical_brand": "달바"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA | Niacinamide Peptide Serum for Hydration and Firmer Looking Skin, Improves",
+      "url": "https://www.amazon.es/-/en/medicube-PDRN-Peptide-Serum-Salmon/dp/B0DBF65JYY/ref=zg_bs_g_beauty_d_sccl_5/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 6,
+      "asin": "B00M9B66BU",
+      "title": "REVLON PROFESSIONAL UniqOne All in One Thermal Hair Protector, Deep Hydration Hair, Spray Treatment Without Rinse, Detangler",
+      "url": "https://www.amazon.es/-/en/REVLON-PROFESSIONAL-Protector-Hydration-Treatment/dp/B00M9B66BU/ref=zg_bs_g_beauty_d_sccl_6/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 7,
+      "asin": "B00ST2GSRK",
+      "title": "La Roche-Posay, Cicaplast Baume B5+ Soothing Repair Balm, 40 ml | Ultra-repairing balm, irritated or fragilized skin; with Ma",
+      "url": "https://www.amazon.es/-/en/Roche-Posay-Cicaplast-Baume-Soothing-Repair/dp/B00ST2GSRK/ref=zg_bs_g_beauty_d_sccl_7/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask - Hydrating Night Mask, Minimizes Pores and Improves Elasticity - Deep Hydration Facial",
+      "url": "https://www.amazon.es/-/en/BIODANCE-Bio-Collagen-Real-Deep-Mask/dp/B0B2RM68G2/ref=zg_bs_g_beauty_d_sccl_8/520-9874919-7649736?psc=1",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "rank": 9,
+      "asin": "B087R9HVRR",
+      "title": "Alpecin Caffeine Shampoo C1 2x 375ml | Anti-Hair Loss Shampoo for Men and Caffeine | Treatment for Hair Loss | Alpecin Shampo",
+      "url": "https://www.amazon.es/-/en/Alpecin-Caffeine-Shampoo-Anti-Hair-Treatment/dp/B087R9HVRR/ref=zg_bs_g_beauty_d_sccl_9/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 10,
+      "asin": "B0B7RQ46LD",
+      "title": "CeraVe - Blemish Control, Gel Limpiador para Acné y Piel Grasa, Reduce el Acné, Puntos Negros y Mejora los Poros, Tratamiento",
+      "url": "https://www.amazon.es/-/en/Acne-Purifying-Foam-Gel-Cleans/dp/B0B7RQ46LD/ref=zg_bs_g_beauty_d_sccl_10/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 11,
+      "asin": "B08P4YPB8Q",
+      "title": "Maybelline New York Lash Sensational Sky High Volume and Length, Black | Flexible Brush, Limit Length, Redefined Volume, Defi",
+      "url": "https://www.amazon.es/-/en/Maybelline-York-Sensational-Length-Black/dp/B08P4YPB8Q/ref=zg_bs_g_beauty_d_sccl_11/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 12,
+      "asin": "B071914GGL",
+      "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Tónico Exfoliante con Ácido Glicólico, Tónico diario iluminador y suavizante",
+      "url": "https://www.amazon.es/-/en/Ordinary-Glycolic-Exfoliating-Brightening-Smoothing/dp/B071914GGL/ref=zg_bs_g_beauty_d_sccl_12/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 13,
+      "asin": "B07C5XYT19",
+      "title": "CeraVe, Cerave Face Moisturizing Lotion, Night Moisturizer, 53 ml | Hydrates and helps restore the protective barrier of the",
+      "url": "https://www.amazon.es/-/en/CeraVe-Cerave-Moisturizing-Lotion-Moisturizer/dp/B07C5XYT19/ref=zg_bs_g_beauty_d_sccl_13/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 14,
+      "asin": "B083JKPCFB",
+      "title": "Kérastase, Genesis, Anti-Hair Loss Serum, Fortifying, Activator and Daily Strengthener, For Weak or Fragile Hair, Anti-Chute",
+      "url": "https://www.amazon.es/-/en/K%C3%A9rastase-Genesis-Professional-Anti-Chute-Treatment/dp/B083JKPCFB/ref=zg_bs_g_beauty_d_sccl_14/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 15,
+      "asin": "B0C815WY3Z",
+      "title": "Philips OneBlade 360 Hybrid Shaver, Electric Barber and Shaver, 2 360 Blades, 5-in-1 Adjustable Guide Comb (Model QP2734/30)",
+      "url": "https://www.amazon.es/-/en/OneBlade-Electric-Adjustable-QP2734-30/dp/B0C815WY3Z/ref=zg_bs_g_beauty_d_sccl_15/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 16,
+      "asin": "B09D7QJP1M",
+      "title": "d'alba Waterfull SPF50+PA++++ Italian White Truffle, Tinted Sun Cream with | with UV Filters, Vegan, Illuminating Sunscreen,",
+      "url": "https://www.amazon.es/-/en/dalba-Waterfull-Italian-Truffle-Tinted/dp/B09D7QJP1M/ref=zg_bs_g_beauty_d_sccl_16/520-9874919-7649736?psc=1",
+      "canonical_brand": "달바"
+    },
+    {
+      "rank": 17,
+      "asin": "B0CGJLC8G9",
+      "title": "La Roche-Posay, Effaclar Duo+M, Triple Correcting Cream Gel, 40 ml | Triple anti-pimple concealer care for oily and acne-pron",
+      "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Triple-Correcting-Cream/dp/B0CGJLC8G9/ref=zg_bs_g_beauty_d_sccl_17/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 18,
+      "asin": "B00XA07ZXW",
+      "title": "Scholl Foot Cream for Cracked Heels, with Urea and Keratin, White, 60 ml, 6",
+      "url": "https://www.amazon.es/-/en/Scholl-Cream-Cracked-Heels-Keratin/dp/B00XA07ZXW/ref=zg_bs_g_beauty_d_sccl_18/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 19,
+      "asin": "B0DQDBHGV5",
+      "title": "Essence BRIGHT EYES! Highlighter Natural Finish Eye Stick (0.2 oz) | Brightening effect, Care formula",
+      "url": "https://www.amazon.es/-/en/Essence-BRIGHT-Highlighter-Natural-Finish/dp/B0DQDBHGV5/ref=zg_bs_g_beauty_d_sccl_19/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 20,
+      "asin": "B0FHBJXX9M",
+      "title": "Erborian - CC Crème con Centella Asiática - Crema Facial Iluminadora de Alta Definición y Maquillaje - Protección Solar SPF 3",
+      "url": "https://www.amazon.es/-/en/Erborian-Definition-Illuminating-Protection-Cosmetics/dp/B0FHBJXX9M/ref=zg_bs_g_beauty_d_sccl_20/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 21,
+      "asin": "B017WK9A3I",
+      "title": "Tulip Black Bath Gel Strawberry & Cream, 22 fl oz | Nourishing and Moisturizing Shower Gel with Strawberry Extract and Cream",
+      "url": "https://www.amazon.es/-/en/Tulip-Black-Bath-Strawberry-Cream/dp/B017WK9A3I/ref=zg_bs_g_beauty_d_sccl_21/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 22,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides | 99% Retinol for Fine Lines, PDRN & Niacinamide for Irregular Skin T",
+      "url": "https://www.amazon.es/-/en/medicube-Serum-Salmon-PDRN-Peptides/dp/B0DWMSM6Y9/ref=zg_bs_g_beauty_d_sccl_22/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 23,
+      "asin": "B0B2912ZZ5",
+      "title": "Iroha Nature - Pimple Patches with Salicylic Acid, Tea Tree & Centella | Tea Tree, Centella Asiatica, Facial Use, Combination",
+      "url": "https://www.amazon.es/-/en/Iroha-Nature-Patches-Salicylic-Centella/dp/B0B2912ZZ5/ref=zg_bs_g_beauty_d_sccl_23/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 24,
+      "asin": "B06Y5P4Z5M",
+      "title": "Lancaster Eau de Lancaster Desodorante Crema, 125 ml, Versión actual (Paquete de 2)",
+      "url": "https://www.amazon.es/-/en/LANCASTER-UAE-Lancaster-Deodorant-Cream/dp/B06Y5P4Z5M/ref=zg_bs_g_beauty_d_sccl_24/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 25,
+      "asin": "B07PK2P2XB",
+      "title": "Dr.Althea 345 Relief Cream | Face Moisturizer for Soothing Recovery and Blemish Care with PDRN & Niacinamide | Korean Vegan S",
+      "url": "https://www.amazon.es/-/en/Dr-Althea-Moisturizer-Soothing-Niacinamide-Unscented/dp/B07PK2P2XB/ref=zg_bs_g_beauty_d_sccl_25/520-9874919-7649736?psc=1",
+      "canonical_brand": "닥터엘시아"
+    },
+    {
+      "rank": 26,
+      "asin": "B0D2Z3GGCY",
+      "title": "medicube Capsule Cream with Deep Vitamin C | Cream with Vitamin C Capsules, Luminousness and Skin More Even, Texture Moisturi",
+      "url": "https://www.amazon.es/-/en/medicube-Capsule-Cream-Deep-Vitamin/dp/B0D2Z3GGCY/ref=zg_bs_g_beauty_d_sccl_26/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 27,
+      "asin": "B09WDRFSLN",
+      "title": "La Roche-Posay, Effaclar H Iso-Biome, Moisturizing Day Cream, 40 ml | Hydrates and repairs fragilized skin by anti-acne treat",
+      "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Iso-Biome-Moisturizing-Cream/dp/B09WDRFSLN/ref=zg_bs_g_beauty_d_sccl_27/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 28,
+      "asin": "B0GCC2JV65",
+      "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptides and Collagen, Reduces Signs of Aging, Improve",
+      "url": "https://www.amazon.es/-/en/medicube-Firming-Serum-Face-Neck/dp/B0GCC2JV65/ref=zg_bs_g_beauty_d_sccl_28/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 29,
+      "asin": "B0CQHW6YD8",
+      "title": "Philips OneBlade 360 Authentic Barber, Electric Facial & Body Shaver & Trimmer Connected, 360 Blade, Original Blade, 5in1 Adj",
+      "url": "https://www.amazon.es/-/en/Authentic-Connected-Adjustable-QP4631-65/dp/B0CQHW6YD8/ref=zg_bs_g_beauty_d_sccl_29/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 30,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual Texture Toning Pads for Exfoliation and Pores with AHA and BHA, All Skin Types,",
+      "url": "https://www.amazon.es/-/en/medicube-Toner-Pads-Zero-Pore/dp/B09V7Z4TJG/ref=zg_bs_g_beauty_d_sccl_30/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 31,
+      "asin": "B01MF9YDQN",
+      "title": "Neutrogena, Hydro Boost Water Gel, Normal to Combination Skins, Long-Lasting Non-Oily Hydration, with Hyaluronic Acid and Tre",
+      "url": "https://www.amazon.es/-/en/Neutrogena-Combination-Long-Lasting-Hyaluronic-Dermatologists/dp/B01MF9YDQN/ref=zg_bs_g_beauty_d_sccl_31/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 32,
+      "asin": "B0CNQ4DJRV",
+      "title": "L'Oréal Paris Infaillible Makeup Setting Spray Up to 36 Hours, 75 ml | Hold up to 36 hours, helps maintain makeup, vegan form",
+      "url": "https://www.amazon.es/LOr%C3%A9al-Paris-Infaillible-Makeup-Setting/dp/B0CNQ4DJRV/ref=zg_bs_g_beauty_d_sccl_32/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 33,
+      "asin": "B003JSEGNC",
+      "title": "Roche-Posay Effaclar Cleansing Gel - Purifying Foaming ml",
+      "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Purifying-Combination-Skins/dp/B003JSEGNC/ref=zg_bs_g_beauty_d_sccl_33/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 34,
+      "asin": "B0F2TQW9QD",
+      "title": "BIONOBLE Rosemary Oil for Hair Bio, Pure - Growth - 50 ml | 100% Natural Origin - Rosemary Oil Hair Growth, Castor, Argan, Jo",
+      "url": "https://www.amazon.es/-/en/BIONOBLE-Rosemary-Oil-Hair-Pure/dp/B0F2TQW9QD/ref=zg_bs_g_beauty_d_sccl_34/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 35,
+      "asin": "B07PZ2H67L",
+      "title": "Beter - Natural Fiber Anti-Pull Skeleton Hair Brush Made of Wheat Fibers, Detangling Hair Brush, Anti-Tangle and Anti-Breakag",
+      "url": "https://www.amazon.es/-/en/Beter-Anti-Pull-Detangling-Anti-Tangle-Anti-Breakage/dp/B07PZ2H67L/ref=zg_bs_g_beauty_d_sccl_35/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 36,
+      "asin": "B08DJ18C85",
+      "title": "Remington Ionic Dry 2200 Hair Dryer, Ionic, Frizz Free Hair, 2200 W, Concentrator and Diffuser, 3 Temperatures, 2 Speed, Deta",
+      "url": "https://www.amazon.es/-/en/Remington-Concentrator-Diffuser-Temperatures-Detachable/dp/B08DJ18C85/ref=zg_bs_g_beauty_d_sccl_36/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 37,
+      "asin": "B004SBLR4U",
+      "title": "Vichy Champú Anticaída, Efecto Estimulante, Apto Para Todo Tipo de Cabello, Cuero Cabelludo Sano y Detoxificado, Con Aminexil",
+      "url": "https://www.amazon.es/-/en/Dercos-Anti-fall-Stimulating-Shampoo-Aminexil/dp/B004SBLR4U/ref=zg_bs_g_beauty_d_sccl_37/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 38,
+      "asin": "B00X9WCH9S",
+      "title": "L'Oréal Paris Elvive Extraordinary Oil Multi-Purpose Nourishing Serum, 100 ml | Sérum Enriquecido Con Aceites de Camellia y M",
+      "url": "https://www.amazon.es/-/en/LOr%C3%A9al-Paris-Extraordinary-Multi-Purpose-Nourishing/dp/B00X9WCH9S/ref=zg_bs_g_beauty_d_sccl_38/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 39,
+      "asin": "B07BYMJMJZ",
+      "title": "Kanzy Rosehip Oil 120ml Cold Pressed Unrefined Rosehip Oil for Scars and Stretch Marks, Used as Moisturizer for Body and Skin",
+      "url": "https://www.amazon.es/-/en/Rosehip-Pressed-Unrefined-Stretch-Moisturizer/dp/B07BYMJMJZ/ref=zg_bs_g_beauty_d_sccl_39/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 40,
+      "asin": "B089BNVYKW",
+      "title": "Just For Men Beard and Mustache Gel Dye With Aloe and Coconut Oil, Brown | Beard / Mustache Gel - Removes Gray Hair in 5 Mins",
+      "url": "https://www.amazon.es/-/en/Just-Men-Beard-Mustache-Coconut/dp/B089BNVYKW/ref=zg_bs_g_beauty_d_sccl_40/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 41,
+      "asin": "B0866V21WT",
+      "title": "La Roche Posay Gel Purificante Micro-Exfoliante, Anti-Imperfecciones, Limpia y Exfolia, Enriquecido con Ácido Salicílico, Par",
+      "url": "https://www.amazon.es/-/en/Roche-Posay-Effaclar-Micro-Exfoliating-Purifying-Gel/dp/B0866V21WT/ref=zg_bs_g_beauty_d_sccl_41/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 42,
+      "asin": "B084S5V22N",
+      "title": "VALQUER Oxygenated Water in Stabilized Cream 20 Volumes 6% | 1 L | Oxidizer for Permanent Hair Color and Bleaching | Vegan wi",
+      "url": "https://www.amazon.es/-/en/VALQUER-Oxygenated-Water-Stabilized-Volumes/dp/B084S5V22N/ref=zg_bs_g_beauty_d_sccl_42/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 43,
+      "asin": "B01BHPM36K",
+      "title": "Moisturizing Eye Drops 0,2Ha 10 Ml",
+      "url": "https://www.amazon.es/-/en/Moisturizing-Eye-Drops-2Ha-10/dp/B01BHPM36K/ref=zg_bs_g_beauty_d_sccl_43/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 44,
+      "asin": "B0CVXRFT15",
+      "title": "Philips OneBlade Original 360 Blades, Compatible with All OneBlade and Pro Handles, 3 Pack (Model QP430/60)",
+      "url": "https://www.amazon.es/-/en/OneBlade-Original-Compatible-QP430-60/dp/B0CVXRFT15/ref=zg_bs_g_beauty_d_sccl_44/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 45,
+      "asin": "B094TYNC9T",
+      "title": "L'Oréal Paris Revitalift Filler Day Nº1 Moisturizing Cream with SPF 50, 50 | Hyaluronic Acid, Moisturizing Cream with Facial",
+      "url": "https://www.amazon.es/-/en/LOr%C3%A9al-Paris-Revitalift-Filler-Moisturizing/dp/B094TYNC9T/ref=zg_bs_g_beauty_d_sccl_45/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 46,
+      "asin": "B0DGTMR754",
+      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen | Glass Skin Effect Night Face Mask, Hydration and Firming Effect,",
+      "url": "https://www.amazon.es/-/en/medicube-Jelly-Mask-Salmon-Collagen/dp/B0DGTMR754/ref=zg_bs_g_beauty_d_sccl_46/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 47,
+      "asin": "B00KLXFUW4",
+      "title": "Maybelline New York Instant Anti-Age Eye Concealer, 01 Light | Multi-purpose Concealer, Modulable Coverage, Enriched with Goj",
+      "url": "https://www.amazon.es/-/en/Maybelline-Instant-Anti-Age-Concealer-Light/dp/B00KLXFUW4/ref=zg_bs_g_beauty_d_sccl_47/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 48,
+      "asin": "B0968Z4QSF",
+      "title": "Just For Men Control GX Shampoo & Conditioner for Gray Hair, 118 ml | Reduces gray hair gradually with each use, for all shad",
+      "url": "https://www.amazon.es/-/en/Just-Men-Control-Shampoo-Conditioner/dp/B0968Z4QSF/ref=zg_bs_g_beauty_d_sccl_48/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 49,
+      "asin": "B09JPDXL7V",
+      "title": "ISDIN Lambdapil 5 Alfa Plus, Cápsulas Anticaída del Cabello, Duración 2 a 4 meses, Complemento Alimenticio para la caída Prog",
+      "url": "https://www.amazon.es/-/en/ISDIN-Lambdapil5-Plus-Supplement-Capsules/dp/B09JPDXL7V/ref=zg_bs_g_beauty_d_sccl_49/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 50,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Hydrates and Firms, Helps Improve Skin Firmness and Luminous",
+      "url": "https://www.amazon.es/-/en/medicube-Wrapping-Collagen-Overnight-Facial/dp/B0BRMYHMS5/ref=zg_bs_g_beauty_d_sccl_50/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 51,
+      "asin": "B01MDOJGDK",
+      "title": "Neutrogena Hydro Boost Water Gel Facial Cleanser, 200 ml | With Hyaluronic Acid and Glycerin, Moisturizing, Non-Comedogenic,",
+      "url": "https://www.amazon.es/-/en/Neutrogena-Hydro-Boost-Facial-Cleanser/dp/B01MDOJGDK/ref=zg_bs_g_beauty_d_sccl_1/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 52,
+      "asin": "B0007506U2",
+      "title": "Catwalk by TIGI Curls Rock Amplifier, Styling Cream, 150 ml | Anti-Frizz Moisturizing Definer for Natural Curly & Wavy Hair,",
+      "url": "https://www.amazon.es/-/en/Catwalk-TIGI-Curls-Amplifier-Styling/dp/B0007506U2/ref=zg_bs_g_beauty_d_sccl_2/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 53,
+      "asin": "B07C5XD33D",
+      "title": "Foaming Cleansing Gel 236 ml",
+      "url": "https://www.amazon.es/-/en/CeraVe-Foaming-Cleansing-Removes-Excess/dp/B07C5XD33D/ref=zg_bs_g_beauty_d_sccl_3/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 54,
+      "asin": "B0H294WYY1",
+      "title": "Philips OneBlade Original 360 Blades, Compatible with All OneBlade and Pro Handles, 4 Pack (Model QP440/60)",
+      "url": "https://www.amazon.es/-/en/OneBlade-Original-Compatible-QP440-60/dp/B0H294WYY1/ref=zg_bs_g_beauty_d_sccl_4/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 55,
+      "asin": "B07HF991NV",
+      "title": "CeraVe Gel Limpiador Espumoso, Para Piel Normal a Grasa, Elimina el Exceso de Grasa y Suciedad, Enriquecido Con Ceramidas Ese",
+      "url": "https://www.amazon.es/-/en/CeraVe-Foaming-Cleansing-Hydrates-Removes/dp/B07HF991NV/ref=zg_bs_g_beauty_d_sccl_5/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 56,
+      "asin": "B019OO1R0Y",
+      "title": "Ziaja Goat Milk Hair Mask 200Ml 236g",
+      "url": "https://www.amazon.es/-/en/Ziaja-Goat-Milk-Hair-200Ml/dp/B019OO1R0Y/ref=zg_bs_g_beauty_d_sccl_6/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 57,
+      "asin": "B0DFY92NDB",
+      "title": "CENTELLIAN 24 Madeca Time Reverse Cream (50ml) - Nourishing and Fast Absorption, Hydrates, Firms and Reduces Wrinkles, Low Ir",
+      "url": "https://www.amazon.es/-/en/CENTELLIAN-24-Madeca-Reverse-Cream/dp/B0DFY92NDB/ref=zg_bs_g_beauty_d_sccl_7/520-9874919-7649736?psc=1",
+      "canonical_brand": "센텔리안24"
+    },
+    {
+      "rank": 58,
+      "asin": "B09XN22JBT",
+      "title": "CeraVe, Loción Hidratante de Rostro SPF 50, Para Piel Normal a Seca, Hidratación y Alta Protección Contra los Rayos UVB/UVA,",
+      "url": "https://www.amazon.es/-/en/CERAVE-Loci%C3%B3n-Hidratante-Rostro-SPF50/dp/B09XN22JBT/ref=zg_bs_g_beauty_d_sccl_8/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 59,
+      "asin": "B01676KZCS",
+      "title": "khadi DARK CASTANO VEGETABLE HAIR DYE - Dye for intense and shiny dark brown to intense black brown - 100% certified natural",
+      "url": "https://www.amazon.es/-/en/khadi-DARK-CASTANO-VEGETABLE-HAIR/dp/B01676KZCS/ref=zg_bs_g_beauty_d_sccl_9/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 60,
+      "asin": "B0DWFSJ9Y4",
+      "title": "L'Oréal Paris Elvive Growth Booster Anti-Hair Loss Treatment Serum, 100 ml | Formulated with Aminexil-R™, Stimulates Hair Gro",
+      "url": "https://www.amazon.es/-/en/Paris-Growth-Booster-Anti-Hair-Treatment/dp/B0DWFSJ9Y4/ref=zg_bs_g_beauty_d_sccl_10/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 61,
+      "asin": "B01MYEZPC8",
+      "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Hyaluronic Acid + B5 (with Ceramides), Multi-Dimensional Moisturizing",
+      "url": "https://www.amazon.es/-/en/Ordinary-Hyaluronic-Ceramides-Multidimensional-Moisturizing/dp/B01MYEZPC8/ref=zg_bs_g_beauty_d_sccl_11/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 62,
+      "asin": "B09697WX16",
+      "title": "Just For Men Control GX Hair Reducing Shampoo for Men, with Keratin, 118 ml | Gradually reduces gray hair with each use, for",
+      "url": "https://www.amazon.es/-/en/Just-Men-Control-Reducing-Shampoo/dp/B09697WX16/ref=zg_bs_g_beauty_d_sccl_12/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 63,
+      "asin": "B0F54NW1TL",
+      "title": "Suavinex, Deodorant for Boys and Girls, Alcohol-free, Aluminium-Free, 50 ml | Roll On Format, Suitable for Sensitive Skins, C",
+      "url": "https://www.amazon.es/Suavinex-Deodorant-Girls-Alcohol-free-Aluminium-Free/dp/B0F54NW1TL/ref=zg_bs_g_beauty_d_sccl_13/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 64,
+      "asin": "B07N9LJK5H",
+      "title": "Perspirex ® | Strong | Roll On Underarm Antiperspirant Deodorant with High Efficiency and Anti-Sweat Effectiveness up to 5 Da",
+      "url": "https://www.amazon.es/-/en/Perspirex-Antiperspirant-Efficiency-Anti-Sweat-Effectiveness/dp/B07N9LJK5H/ref=zg_bs_g_beauty_d_sccl_14/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 65,
+      "asin": "B09RN8Q4CW",
+      "title": "Remington Hair Straightener Digital Display, 320-446°F, Heat Protection Sensor to Reduce Hair Damage Keratin Therapy Ceramic",
+      "url": "https://www.amazon.es/-/en/Remington-Straightener-320-446%C2%B0F-Protection-S8593/dp/B09RN8Q4CW/ref=zg_bs_g_beauty_d_sccl_15/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 66,
+      "asin": "B09BD7L35V",
+      "title": "Garnier Sérum Anti Manchas con Vitamina C, Niacinamida y Ácido Salicílico | 4% Niacinamide, Vitamin C, Salicylic Acid and Mel",
+      "url": "https://www.amazon.es/-/en/Garnier-Manchas-Vitamina-Niacinamida-Salic%C3%ADlico/dp/B09BD7L35V/ref=zg_bs_g_beauty_d_sccl_16/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 67,
+      "asin": "B01BPHAD1W",
+      "title": "Vichy, Dercos Technique, Purifying Anti-Dandruff Shampoo, Dry Hair, 390 ml | It acts on visible dandruff from the first use a",
+      "url": "https://www.amazon.es/-/en/Dercos-Technique-Purifying-Anti-Dandruff-Shampoo/dp/B01BPHAD1W/ref=zg_bs_g_beauty_d_sccl_17/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 68,
+      "asin": "B0B4252KGM",
+      "title": "Revlon Magic Flash 10-in-1 200 ml | Provides hydration and shine, protects from heat, detangles, repairs and strengthens hair",
+      "url": "https://www.amazon.es/-/en/Revlon-Magic-Flash-10-200/dp/B0B4252KGM/ref=zg_bs_g_beauty_d_sccl_18/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 69,
+      "asin": "B06XDS7J69",
+      "title": "L'Oréal Paris Revitalift Laser Cream SPF25 Nº1 Anti-Aging and Anti-Stain | Pro Retinol, Hyaluronic Acid and Vitamin Cg, Helps",
+      "url": "https://www.amazon.es/-/en/LOr%C3%A9al-Paris-Revitalift-Anti-Aging-Anti-Stain/dp/B06XDS7J69/ref=zg_bs_g_beauty_d_sccl_19/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 70,
+      "asin": "B06XZNJWZL",
+      "title": "Slick Gorilla Volumizing and Texturizing Hair Powder for Men, 20 g | Vegan, natural formula with silica and glycerin, created",
+      "url": "https://www.amazon.es/-/en/Slick-Gorilla-Volumizing-Texturizing-Powder/dp/B06XZNJWZL/ref=zg_bs_g_beauty_d_sccl_20/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 71,
+      "asin": "B0BS1H1Z2R",
+      "title": "Gillette Fusion5 Men's Razor Blades, Pack of 16 | 5 Blade Razor Refills, Lubricating Gel Band And Precision Trimmer",
+      "url": "https://www.amazon.es/-/en/Gillette-Fusion5-Razor-Pack-16/dp/B0BS1H1Z2R/ref=zg_bs_g_beauty_d_sccl_21/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 72,
+      "asin": "B008Z933UW",
+      "title": "SALERM - Instant Hair Conditioner - Salerm 21 Silk Protein - 100 ml - Rinse or Rinse Conditioner - with Silk Proteins - Heat",
+      "url": "https://www.amazon.es/-/en/SALERM-Conditioner-Proteins-Protector-Moisturizer/dp/B008Z933UW/ref=zg_bs_g_beauty_d_sccl_22/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 73,
+      "asin": "B002SSDHUW",
+      "title": "Elizabeth Arden - Green Tea Honey Drops, Body Cream, with Honey Drops and Green Tea Extract, Revitalizes and Hydrates Skin, R",
+      "url": "https://www.amazon.es/-/en/Elizabeth-Arden-Green-Honey-Drops/dp/B002SSDHUW/ref=zg_bs_g_beauty_d_sccl_23/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 74,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick | PDRN & Collagen Multi-Purpose Balm Stick for Face, Eyes and Neck, Volum",
+      "url": "https://www.amazon.es/-/en/medicube-PDRN-Collagen-Multi-Stick/dp/B0GHMZXX8Y/ref=zg_bs_g_beauty_d_sccl_24/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 75,
+      "asin": "B082WHLTXF",
+      "title": "MASDERM - Radiofrequency Firming Moisturizing Body Gel and Cream 1000ml, Professional for Women, Cavitation and Ultrasound wi",
+      "url": "https://www.amazon.es/-/en/MASDERM-Radiofrequency-Moisturizing-Professional-Cavitation/dp/B082WHLTXF/ref=zg_bs_g_beauty_d_sccl_25/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 76,
+      "asin": "B0BQ6TBD3Z",
+      "title": "Ourmed Life Biodegradable Disposable Facial Wipes - Perfect for Cleaning, Skin Care and Makeup Removal, Suitable for Sensitiv",
+      "url": "https://www.amazon.es/-/en/Ourmed-Biodegradable-Disposable-Facial-Wipes/dp/B0BQ6TBD3Z/ref=zg_bs_g_beauty_d_sccl_26/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 77,
+      "asin": "B08829RTWL",
+      "title": "Perspirex ® | Original | Anti-Perspirant Deodorant Underarms Roll On for Protection and Freshness Anti Sweat for up to 5 Days",
+      "url": "https://www.amazon.es/-/en/Perspirex-Anti-Perspirant-Deodorant-Underarms-Protection/dp/B08829RTWL/ref=zg_bs_g_beauty_d_sccl_27/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 78,
+      "asin": "B00N9506RA",
+      "title": "Olivia Garden Olivia Garden 20 Finger Brush Co for professional use to improve performance with every use with technical deta",
+      "url": "https://www.amazon.es/-/en/Olivia-Garden-professional-performance-technical/dp/B00N9506RA/ref=zg_bs_g_beauty_d_sccl_28/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 79,
+      "asin": "B0FB3H5G4Z",
+      "title": "Tulip Black Bath Gel Jasmine Musk, 22 fl oz | Nourishing and Moisturizing Shower Gel with Floral Fragrance and Musk Jasmine M",
+      "url": "https://www.amazon.es/-/en/Tulip-Black-Bath-Jasmine-Musk/dp/B0FB3H5G4Z/ref=zg_bs_g_beauty_d_sccl_29/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 80,
+      "asin": "B00ILGA1KE",
+      "title": "Otostick | Cosmetic Concealer for Separate Ears | Contains 8 Correctors | Ages 3 and up.",
+      "url": "https://www.amazon.es/-/en/Otostick-Cosmetic-Concealer-Separate-Correctors/dp/B00ILGA1KE/ref=zg_bs_g_beauty_d_sccl_30/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 81,
+      "asin": "B0D1G7XF9X",
+      "title": "medicube Zero Pore Blackhead Mud Facial Mask | Refreshing Korean Mud Mask, Pore Firming, Quick Formula 3 Minute with AHA, BHA",
+      "url": "https://www.amazon.es/-/en/medicube-Zero-Pore-Blackhead-Facial/dp/B0D1G7XF9X/ref=zg_bs_g_beauty_d_sccl_81/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 82,
+      "asin": "B07C5T3DKW",
+      "title": "CeraVe Crema regeneradora de ojos, reduce las ojeras y la hinchazón, con 3 ceramidas esenciales y hialuron, 14 ml | Reduce vi",
+      "url": "https://www.amazon.es/-/en/CeraVe-regeneradora-hinchaz%C3%B3n-ceramidas-esenciales/dp/B07C5T3DKW/ref=zg_bs_g_beauty_d_sccl_82/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 83,
+      "asin": "B083JK13DH",
+      "title": "Kérastase Genesis Bain Nutri-Fortifiant Anti-Hair Loss Shampoo Dry Hair 250 | Nourishing anti-hair loss shampoo. Purifies dry",
+      "url": "https://www.amazon.es/-/en/K%C3%A9rastase-Fortifying-Anti-Hair-Anti-Breakage-Nutri-Fortifiant/dp/B083JK13DH/ref=zg_bs_g_beauty_d_sccl_83/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 84,
+      "asin": "B08R9NZ65K",
+      "title": "Axe Dark Temptation Deodorant - 150ml - Pack of 6, Packaging May Vary",
+      "url": "https://www.amazon.es/-/en/Axe-Dark-Temptation-Deodorant-Packaging/dp/B08R9NZ65K/ref=zg_bs_g_beauty_d_sccl_84/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 85,
+      "asin": "B00Z72U6JQ",
+      "title": "ISDIN Fotoprotección Fusion Water MAGIC SPF 50, Protector Solar Facial de Textura Ligera y Fase Externa Acuosa con Tacto Fina",
+      "url": "https://www.amazon.es/-/en/ISDIN-Fotoprotector-Facial-Fusion-SPF50-50ml/dp/B00Z72U6JQ/ref=zg_bs_g_beauty_d_sccl_85/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 86,
+      "asin": "B09NN88V83",
+      "title": "d'alba Piedmont Italian White Truffle Double Serum and Cream (70g) | Vegan Cream, 2 in 1 Care, Elasticity and Nutrition, For",
+      "url": "https://www.amazon.es/-/en/dalba-Piedmont-Italian-Truffle-Double/dp/B09NN88V83/ref=zg_bs_g_beauty_d_sccl_86/520-9874919-7649736?psc=1",
+      "canonical_brand": "달바"
+    },
+    {
+      "rank": 87,
+      "asin": "B008OUY6QM",
+      "title": "L'Oréal Paris Excellence Crème Permanent Dye, 9.1 Very Light Ash Blonde | 100% Gray Coverage, Rich and Radiant Color, Triple",
+      "url": "https://www.amazon.es/-/en/LOr%C3%A9al-Paris-Excellence-Permanent-Blonde/dp/B008OUY6QM/ref=zg_bs_g_beauty_d_sccl_87/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 88,
+      "asin": "B0BQ28V9FV",
+      "title": "Cecotec Bamba PrecisionCare Pro 5-in-1 Multifunction Shaver, Lithium Battery, Battery Life 60 mins, Waterproof, Titanium Coat",
+      "url": "https://www.amazon.es/-/en/Cecotec-PrecisionCare-Multifunction-Waterproof-Titanium/dp/B0BQ28V9FV/ref=zg_bs_g_beauty_d_sccl_88/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 89,
+      "asin": "B08HZZ8TXS",
+      "title": "REVLON PROFESSIONAL ProYou The Twister Scrunch, Curl Activator Gel, For Curly or Wavy Hair, Defined and Hydrated Curls, Curly",
+      "url": "https://www.amazon.es/-/en/REVLON-PROFESSIONAL-Activator-Hydrated-Friendly/dp/B08HZZ8TXS/ref=zg_bs_g_beauty_d_sccl_89/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 90,
+      "asin": "B0C8ZN274P",
+      "title": "Trofolastin Antistretch mark cream Centella asiatica Flexible skin 400 ml | Prevents and reduces stretch marks, suitable for",
+      "url": "https://www.amazon.es/-/en/Trofolastin-Antistretch-Centella-asiatica-Flexible/dp/B0C8ZN274P/ref=zg_bs_g_beauty_d_sccl_90/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 91,
+      "asin": "B08VBHS5L5",
+      "title": "Gillette Fusion 5 Men's Razor Blades, Pack of 5 Replacement Blades | 5 Blade Razor Refills, Lubricating Gel Band And Precisio",
+      "url": "https://www.amazon.es/-/en/Gillette-Fusion-Razor-Blades-Replacement/dp/B08VBHS5L5/ref=zg_bs_g_beauty_d_sccl_91/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 92,
+      "asin": "B0DGGC6M8C",
+      "title": "Pantene Pro-V Repara Y Protege Champú 1L, Acondicionador 800ml Con Dispensador, Pelo Seco Y Dañado. Limpia Y Protege Los Enla",
+      "url": "https://www.amazon.es/-/en/Pantene-Pro-V-Acondicionador-Dispensador-Capilares/dp/B0DGGC6M8C/ref=zg_bs_g_beauty_d_sccl_92/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 93,
+      "asin": "B0DX122DHW",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive Skin, Hyaluronic Acid, Niacinamide, Spot Car",
+      "url": "https://www.amazon.es/-/en/Hyaluron-Soothing-Sensitive-Hyaluronic-Niacinamide/dp/B0DX122DHW/ref=zg_bs_g_beauty_d_sccl_93/520-9874919-7649736?psc=1",
+      "canonical_brand": "아누아"
+    },
+    {
+      "rank": 94,
+      "asin": "B0DQCLFJCB",
+      "title": "medicube Exosome Shot PDRN Pink Collagen 7,500 PPM Spicule Facial Serum | Liquid Booster with Exosomes & Salmon DNA Spicules,",
+      "url": "https://www.amazon.es/-/en/medicube-Exosome-Collagen-Spicule-Facial/dp/B0DQCLFJCB/ref=zg_bs_g_beauty_d_sccl_94/520-9874919-7649736?psc=1",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 95,
+      "asin": "B0CDXR9PYQ",
+      "title": "Pilopeptan Intensive | Hair & Nails Hair Loss | 30 Sachets | Men and Women · Boosts Growth, Keratin Formation, Anchor, Bright",
+      "url": "https://www.amazon.es/-/en/Pilopeptan-Intensive-Hair-Nails-Sachets/dp/B0CDXR9PYQ/ref=zg_bs_g_beauty_d_sccl_95/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 96,
+      "asin": "B01598S1OY",
+      "title": "Eucerin Sun Gel Oil Control Dry Touch SPF 50+ (50ml), 50+ Face Sun Protection with UVA/UVB Filters, Sun Cream for Oily & Acne",
+      "url": "https://www.amazon.es/-/en/Eucerin-Control-Protection-Filters-Textured/dp/B01598S1OY/ref=zg_bs_g_beauty_d_sccl_96/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 97,
+      "asin": "B097WL6QWT",
+      "title": "L'Oréal Paris Accord Parfait Color Serum, Light (2-3), 1 fl oz | Hyaluronic Acid*, Glycerin, Smoother, Brighter Skin, Natural",
+      "url": "https://www.amazon.es/-/en/LOr%C3%A9al-Paris-Accord-Parfait-Color/dp/B097WL6QWT/ref=zg_bs_g_beauty_d_sccl_97/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 98,
+      "asin": "B01773JH10",
+      "title": "Bepanthol Tattoo Ointment with Panthenol 30g, Unscented | Moisturizes and repairs skin after tattooing and preserves its beau",
+      "url": "https://www.amazon.es/-/en/Bepanthol-Tattoo-Ointment-Panthenol-Unscented/dp/B01773JH10/ref=zg_bs_g_beauty_d_sccl_98/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 99,
+      "asin": "B009VZJD8K",
+      "title": "ZZ | Anti-lice | Hair Lotion for Lice and Nits Removal | With Permethrin | Integral Treatment | Children from 2 Years | 100 m",
+      "url": "https://www.amazon.es/-/en/ZZ-Anti-lice-Permethrin-Integral-Treatment/dp/B009VZJD8K/ref=zg_bs_g_beauty_d_sccl_99/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    },
+    {
+      "rank": 100,
+      "asin": "B003Q3FPR6",
+      "title": "Trofolastin Antistretch mark cream Centella asiatica Flexible skin 250 ml | Prevents and reduces stretch marks, suitable for",
+      "url": "https://www.amazon.es/-/en/Trofolastin-Antistretch-Centella-asiatica-Flexible/dp/B003Q3FPR6/ref=zg_bs_g_beauty_d_sccl_100/520-9874919-7649736?psc=1",
+      "canonical_brand": null
+    }
+  ]
+}
