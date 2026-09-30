@@ -1,0 +1,76 @@
+{
+  "collected_at_utc": "2026-09-30T22:21:27.106Z",
+  "market_code": "UK",
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid - For All, Korean Skin Care, 70 Pads, 1 Pack",
+      "url": "https://www.amazon.co.uk/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 7,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Hydrogel Overnight Face Mask. 4 PCs | [Original Korean Hydrogel Face Mask] - Pore Minimizing, Elasticity Improvement | Korean Face Mask for Glass Skin",
+      "url": "https://www.amazon.co.uk/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "rank": 15,
+      "asin": "B0DGTMR754",
+      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, 4EA | Overnight Face Mask for Glass Glow Skin - Elasticity, Hydrating, Firming and Moisturizing, Korean Skincare, 28g x 4ea",
+      "url": "https://www.amazon.co.uk/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 22,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Jelly Cream with Collagen & Niacinamide, 1.69 fl.oz | Freeze-Dried Hydrolyzed Collagen for Skin Barrier Hydration, 24H Glow & Lifted Look, Korean skincare, 1.69 fl.oz",
+      "url": "https://www.amazon.co.uk/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 36,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum - Peptides & Niacinamide for Hydration & Firm-Looking Skin, Uneven Tone Care, Korean Skincare, 1.01 fl. Oz",
+      "url": "https://www.amazon.co.uk/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 58,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm | Volufiline, PDRN, NAD, Collagen - Under-Eyes, Neck, Forehead, Smile Lines, Lips, Plumping & Radiance for Line Care, K-Beauty",
+      "url": "https://www.amazon.co.uk/dp/B0GHMZXX8Y",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 59,
+      "asin": "B09JVNZVH3",
+      "title": "Beauty of Joseon Relief Sun : Rice + Probiotics SPF 50+ PA++++ 50ml",
+      "url": "https://www.amazon.co.uk/dp/B09JVNZVH3",
+      "canonical_brand": "조선미녀"
+    },
+    {
+      "rank": 61,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides | 99% Purity Retinol for Fine Lines - PDRN & Niacinamide for Uneven Skin Tone, Korean Skincare, 1.01 fl.oz",
+      "url": "https://www.amazon.co.uk/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브"
+    },
+    {
+      "rank": 71,
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Collagen Peptide Hydrogel Under Eye Patches. 60 Counts | [Deep Absorption with Advanced Hydrogel] - Eye Masks for Dark Circles, Puffy Eyes and Fine Lines | Eye Bags & Wrinkles",
+      "url": "https://www.amazon.co.uk/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스"
+    },
+    {
+      "rank": 100,
+      "asin": "B000ORV3NC",
+      "title": "Weleda Skin Food, Dry Skin Moisturiser, Moisturising Cream & Primer, Face & Body, For Men & Women, Multiple Uses, 100% Certified Natural, Organic, 75ml",
+      "url": "https://www.amazon.co.uk/dp/B000ORV3NC",
+      "canonical_brand": "스킨푸드"
+    }
+  ]
+}
