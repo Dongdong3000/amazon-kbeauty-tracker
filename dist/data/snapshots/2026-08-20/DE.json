@@ -1,6 +1,9 @@
 {
-  "collected_at_utc": "2026-10-01T01:40:28.455Z",
+  "collected_at_utc": "2026-10-01T01:51:52.578Z",
   "market_code": "DE",
+  "complete": false,
+  "checked_ranks": 2,
+  "all_products_complete": false,
   "all_products": [
     {
       "asin": "B0DBF65JYY",

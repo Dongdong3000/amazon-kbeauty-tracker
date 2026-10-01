@@ -1,6 +1,9 @@
 {
-  "collected_at_utc": "2026-10-01T01:40:28.456Z",
+  "collected_at_utc": "2026-10-01T01:51:52.579Z",
   "market_code": "ES",
+  "complete": false,
+  "checked_ranks": 21,
+  "all_products_complete": false,
   "all_products": [
     {
       "asin": "B0DK4Y2YP3",

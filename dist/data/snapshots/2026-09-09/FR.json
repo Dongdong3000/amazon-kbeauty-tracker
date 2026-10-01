@@ -1,6 +1,9 @@
 {
-  "collected_at_utc": "2026-10-01T01:40:28.461Z",
+  "collected_at_utc": "2026-10-01T01:51:52.590Z",
   "market_code": "FR",
+  "complete": false,
+  "checked_ranks": 15,
+  "all_products_complete": false,
   "all_products": [
     {
       "asin": "B0B2RM68G2",
