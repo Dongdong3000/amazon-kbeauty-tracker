@@ -1,118 +1,936 @@
 {
-  "collected_at_utc": "2026-09-30T01:56:49.585Z",
+  "collected_at_utc": "2026-10-01T01:06:03.727Z",
   "market_code": "DE",
-  "products": [
+  "all_products": [
+    {
+      "rank": 1,
+      "asin": "B08P4YPB8Q",
+      "title": "Maybelline New York Sky High Mascara für extreme Länge & volles Volumen, Tower Flex Bürste für Definition bis in die Spitzen, Formel mit Bambusextrakt, Schwarz (Very Black)",
+      "url": "https://www.amazon.de/dp/B08P4YPB8Q",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
     {
       "rank": 2,
       "asin": "B0B2RM68G2",
       "title": "Biodance Bio-Collagen Real Deep Mask 4er Pack - Gesichtsmasken, Maske Gesicht, Gesichtsmaske Frauen, Gesichtsmaske, Face Mask, Porenverfeinerung, Faltenbehandlung",
       "url": "https://www.amazon.de/dp/B0B2RM68G2",
-      "canonical_brand": "바이오던스"
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 3,
+      "asin": "B0B7RQ46LD",
+      "title": "CeraVe Porentiefe Reinigung Waschgel für das Gesicht gegen Pickel, 236 ml | Für unreine Haut. Befreit Poren mit Salicylsäure & Tonerde. Dermatologisch getestet, Ohne Parfum",
+      "url": "https://www.amazon.de/dp/B0B7RQ46LD",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 4,
+      "asin": "B0CS62LY6P",
+      "title": "by Amazon Milk & Honey Handseife Nachfüllpack, 2 x 1000 ml",
+      "url": "https://www.amazon.de/dp/B0CS62LY6P",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 5,
+      "asin": "B08DJ18C85",
+      "title": "Remington Haartrockner Ionen [leicht, Diffusor & Stylingdüse] schwarz (2200W, Keramik-Ionen: schonendes Styling & gleichmäßige Wärmeverteilung, 3 Heiz- & 2 separate Gebläsestufen + Abkühlstufe) D3198",
+      "url": "https://www.amazon.de/dp/B08DJ18C85",
+      "canonical_brand": null,
+      "brand": "Remington"
+    },
+    {
+      "rank": 6,
+      "asin": "B0F2TQW9QD",
+      "title": "BIONOBLE Rosmarinöl Haare Bio - Haaröl Wachstum, Kopfhaut Öl, Bart - 50ml | 100% Natürlich, Hexanfrei - Rosmarin Öl, Rosemary Oil for Hair Growth, Scalp Oil - Made in Germany - Glasflasche, Pipette",
+      "url": "https://www.amazon.de/dp/B0F2TQW9QD",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 7,
+      "asin": "B01MDTVZTZ",
+      "title": "THE ORDINARY Niacinamid 10% + Zink 1%, 30ml",
+      "url": "https://www.amazon.de/dp/B01MDTVZTZ",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
     },
     {
       "rank": 8,
       "asin": "B0DK4Y2YP3",
       "title": "celimax The Vita A Retinal Shot Tightening Booster, 15ml | 0,1% Retinal, 3% Matryxyl, Hochwirksames Retinoid, Anti-Aging, Porenverfeinerung, Feine Linien, Hautstraffung",
       "url": "https://www.amazon.de/dp/B0DK4Y2YP3",
-      "canonical_brand": "셀리맥스"
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 9,
+      "asin": "B07FFJ2FZV",
+      "title": "Wella Professionals Koleston Perfect Pure Naturals - Permanente Haarfarbe - Professionelle Coloration mit bis zu 100% Grauabdeckung & Me+ Farbtechnologie – 5/00 Hellbraun Natur Intensiv, 60ml",
+      "url": "https://www.amazon.de/dp/B07FFJ2FZV",
+      "canonical_brand": null,
+      "brand": "Wella"
     },
     {
       "rank": 10,
       "asin": "B09V7Z4TJG",
       "title": "medicube Zero Pore Pad 2.0 Peeling Tonerpads für Porenpflege | Doppelseitiges Gesichtspad mit 4,5% AHA & 0,45% BHA, Milchsäure, Salicylsäure, Peelingpflege, Für alle Hauttypen, 70 Stück",
       "url": "https://www.amazon.de/dp/B09V7Z4TJG",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 11,
+      "asin": "B09QXNHHK5",
+      "title": "Ninabella Haarbürste ohne Ziepen - Detangler Bürste, Entwirrbürste & Lockenbürste für feines und langes Haar - Haarbürste Damen Herren Kinder - für nasse und trockene Haare - Schwarz",
+      "url": "https://www.amazon.de/dp/B09QXNHHK5",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 12,
+      "asin": "B071914GGL",
+      "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täglicher Toner für einen gleichmäßigeren Hautton",
+      "url": "https://www.amazon.de/dp/B071914GGL",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 13,
+      "asin": "B0BJFLVCZK",
+      "title": "La Roche-Posay Cicaplast Baume B5+ Reparierender Wundpflege-Balsam, 100 ml | Bei geschädigter, gereizter Haut, SOS-Pflege ohne Duftstoffe. Mit Dexpanthenol & Madecassosid, Nr.1 Apotheke*",
+      "url": "https://www.amazon.de/dp/B0BJFLVCZK",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 14,
+      "asin": "B0CGJLC8G9",
+      "title": "Effaclar Duo+M Anti-Pickel Creme, gegen Unreinheiten & Pickelmale, 40 ml | Tiefenwirksame Anti-Pickel Creme. Mildert Mitesser & Pickelmale, korrigiert das Hautbild & spendet Feuchtigkeit",
+      "url": "https://www.amazon.de/dp/B0CGJLC8G9",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 15,
       "asin": "B0BFQ9RD5B",
       "title": "d'alba Piedmont Italienischer Weißer Trüffel First Spray Serum (100ml) | Feuchtigkeitsspendendes Gesichtsspray, Strahlende Haut, Hautberuhigend, Vegan, Koreanische Hautpflege",
       "url": "https://www.amazon.de/dp/B0BFQ9RD5B",
-      "canonical_brand": "달바"
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 16,
+      "asin": "B01N5QC1CL",
+      "title": "M. Asam Magic Finish Make Up Mousse Classic (30ml) | 4-in-1 Primer, Make up, Puder & Concealer, Kaschiert, Gleicht aus, Verschönert & Perfektioniert, für helle bis mittlere Haut",
+      "url": "https://www.amazon.de/dp/B01N5QC1CL",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 17,
+      "asin": "B07FFFDV8C",
+      "title": "Wella Professionals KOLESTON PERFECT – 7/1 Mittelblond Asch (60ml) | Rich Naturals - Permanente Haarfarbe - Professionelle Coloration mit bis zu 100% Grauabdeckung & Me+ Farbtechnologie",
+      "url": "https://www.amazon.de/dp/B07FFFDV8C",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 18,
+      "asin": "B0FPDB8ZGS",
+      "title": "by Amazon Wattestäbchen, 100% Baumwolle, 200 Stück",
+      "url": "https://www.amazon.de/dp/B0FPDB8ZGS",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 19,
       "asin": "B09JVNZVH3",
       "title": "Beauty of Joseon Relief Sun Rice + Niacinamide | Korean Skincare Koreanische Kosmetik Kein Weißer Schleier, Hydratisierende Sonnencreme Gesicht SPF 50+ PA++++, 50ml",
       "url": "https://www.amazon.de/dp/B09JVNZVH3",
-      "canonical_brand": "조선미녀"
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 20,
+      "asin": "B07CG2TD9F",
+      "title": "CeraVe Feuchtigkeitslotion für trockene Haut, Körper & Gesicht | Leichte Lotion mit Hyaluron und 3 Essenziellen Ceramiden, 48H Feuchtigkeit, ohne Duftstoffe",
+      "url": "https://www.amazon.de/dp/B07CG2TD9F",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 21,
+      "asin": "B003JSEGNC",
+      "title": "Effaclar Schäumendes Reinigungsgel für zu Akne neigende Haut | Reinigungsgel gegen Pickel & Mitesser. Reguliert Talg, mattiert & verfeinert das Hautbild. Sanft & beruhigend",
+      "url": "https://www.amazon.de/dp/B003JSEGNC",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 22,
+      "asin": "B07LGPCY2B",
+      "title": "Golecha Henna-Kegel, rotbraun, 4er-Pack",
+      "url": "https://www.amazon.de/dp/B07LGPCY2B",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 23,
+      "asin": "B00M9B66BU",
+      "title": "REVLON PROFESSIONAL UniqOne Hair Treatment Classic, 150 ml, Leave in Haarkur für bessere Kämmbarkeit & Glanz, Haarpflege ohne Ausspülen, Anti Frizz Spray mit Hitzeschutz, vegan",
+      "url": "https://www.amazon.de/dp/B00M9B66BU",
+      "canonical_brand": null,
+      "brand": "Revlon"
+    },
+    {
+      "rank": 24,
+      "asin": "B07PQSRXR6",
+      "title": "Paula's Choice 2% BHA Liquid Peeling, Bekämpft Mitesser und Poren, 118 ml | klinisch Geprüfte Gesichtspeeling mit Salicylsäure - Für ein ebenmäßiges Hautbild & gesunden Glow - Für Fettige Haut",
+      "url": "https://www.amazon.de/dp/B07PQSRXR6",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 25,
+      "asin": "B0FH3SR2RG",
+      "title": "by Amazon Wattepads, doppelte Textur, 100% Baumwolle, 120 Pads",
+      "url": "https://www.amazon.de/dp/B0FH3SR2RG",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 26,
+      "asin": "B01BPHAD1W",
+      "title": "Vichy Dercos Anti-Schuppen Pflegeshampoo für trockene Kopfhaut | Mildert Anzeichen von juckender und fördert das Gleichgewicht des Mikrobioms, Mit Salicylsäure",
+      "url": "https://www.amazon.de/dp/B01BPHAD1W",
+      "canonical_brand": null,
+      "brand": "Vichy"
     },
     {
       "rank": 27,
       "asin": "B09SZ5JX2Y",
       "title": "d'alba Piedmont Weißer Trüffel Double Serum All-in-one Multi Balm | Vegane Hautpflege, 3-in-1 Augenpflege mit Weißem Trüffel gegen Falten, Stick Eye Treatment Balm, Koreanische Hautpflege",
       "url": "https://www.amazon.de/dp/B09SZ5JX2Y",
-      "canonical_brand": "달바"
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 28,
+      "asin": "B0BQJBFZT2",
+      "title": "Old Spice Captain 3-in-1 Duschgel & Shampoo für Männer, 1L, langanhaltender, frischer Duft in Parfümqualität, Tiefenreinigung für Haare-Gesicht-Körper, sanftes Hautgefühl",
+      "url": "https://www.amazon.de/dp/B0BQJBFZT2",
+      "canonical_brand": null,
+      "brand": "Old Spice"
+    },
+    {
+      "rank": 29,
+      "asin": "B0DRCQ4PBG",
+      "title": "Wavytalk Thermobürste Rundbürste Blowout Boost für trockenes Haar Volumen | Für Blowouts, Wellen & Pony-Styling, Ionentechnik senkt Haarschäden, 38 mm, 5 Temperaturstufen, Dual Voltage, Sakura Rosa",
+      "url": "https://www.amazon.de/dp/B0DRCQ4PBG",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 30,
+      "asin": "B099S3M76F",
+      "title": "Kanzy Rizinusöl Kaltgepresst 100ml, Castor Oil for Hair Growth Natürlich Rizinus Öl für Körper, Haare, Nägel, Wimpern, Augenbrauen",
+      "url": "https://www.amazon.de/dp/B099S3M76F",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 31,
+      "asin": "B07D38HKCS",
+      "title": "Tangle Teezer Ultimate Detangler Haarbürste – Für Nasses & Trockenes Haar – Entwirrungsbürste für Alle Haartypen – Zweistufige Borsten Reduzieren Haarbruch & Entfernen Knoten – Schwarz",
+      "url": "https://www.amazon.de/dp/B07D38HKCS",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 32,
+      "asin": "B083JKPCFB",
+      "title": "Kérastase Genesis Sérum Anti-Chute Fortifiant, Stärkende Haarkur für feines und brüchiges Haar, Gegen Haarausfall und Haarbruch",
+      "url": "https://www.amazon.de/dp/B083JKPCFB",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 33,
+      "asin": "B0C6XJMSGP",
+      "title": "Botanic Hearth Rosmarin Haaröl mit Biotin, Jojobaöl & Rizinusöl 198 ml | Leichte Formel spendet Feuchtigkeit, verbessert die Kämmbarkeit und verleiht natürlichen Glanz, ohne zu fetten",
+      "url": "https://www.amazon.de/dp/B0C6XJMSGP",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 34,
+      "asin": "B0C2B7WGQM",
+      "title": "MERODA® Changing Foundation SPF 15 [LIGHT TO MEDIUM SKIN] - Foundation Color Changing - Farbwechselnde Foundation für Reife Haut - Make Up Hautton Anpassend - Foundation Gesichts Make Up",
+      "url": "https://www.amazon.de/dp/B0C2B7WGQM",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 35,
+      "asin": "B0CS623NCL",
+      "title": "by Amazon Sensitive Handseife, 4 x 500 ml",
+      "url": "https://www.amazon.de/dp/B0CS623NCL",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 36,
+      "asin": "B0CQHWV2QX",
+      "title": "L'Oréal Men Expert XXXL Duschgel und Shampoo für Männer, Duschbad zur Reinigung von Körper, Haar und Gesicht, Herren Körperpflege für langanhaltende Frische mit Taurin, Hydra Energy, 1 x 1000 ml",
+      "url": "https://www.amazon.de/dp/B0CQHWV2QX",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 37,
+      "asin": "B007CST74S",
+      "title": "Remington Haartrockner [extrem klein & klappbar] On The Go (1400 W, weltweite Spannungsanpassung 120/220-240V, Stylingdüse, 2 kombinierte Heiz- & Gebläsestufen) Reisehaartrockner D2400",
+      "url": "https://www.amazon.de/dp/B007CST74S",
+      "canonical_brand": null,
+      "brand": "Remington"
+    },
+    {
+      "rank": 38,
+      "asin": "B093VK76NH",
+      "title": "KIKO Milano 3D Hydra Lipgloss - Farbton 32 Pearly Natural Rose | Feuchtigkeitsspendend | 3D-Volumeneffekt | Nicht Klebrig | Flockierter Applikator | Langanhaltend",
+      "url": "https://www.amazon.de/dp/B093VK76NH",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 39,
+      "asin": "B00MCSW8X0",
+      "title": "Remington Glätteisen breit Pro-Ceramic Extra (extra breite 45mm Stylingplatten -speziell für dickes, krauses, lockiges und sehr langes Haar) LCD-Display, 150-230°C, Haarglätter S5525",
+      "url": "https://www.amazon.de/dp/B00MCSW8X0",
+      "canonical_brand": null,
+      "brand": "Remington"
+    },
+    {
+      "rank": 40,
+      "asin": "B0B18RNMDZ",
+      "title": "Wella Professionals Shinefinity Glaze Haarschonende Tönung – demi-permanent | pH-neutral & ohne Ammoniak - Für natürlichen Glanz bis zu 20 Haarwäschen – vegan",
+      "url": "https://www.amazon.de/dp/B0B18RNMDZ",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 41,
+      "asin": "B0996HN6Q9",
+      "title": "by Amazon Vanille und Kokosnuss Duschgel, 2 x 500ml",
+      "url": "https://www.amazon.de/dp/B0996HN6Q9",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 42,
       "asin": "B0DFMGBZ9Z",
       "title": "Beauty of Joseon Relief Sun Aqua-Fresh Rice + B5 | Korean Skincare Kein Weißer Schleie, Leichte sonnencreme gesicht SPF 50+ PA++++, 50ml",
       "url": "https://www.amazon.de/dp/B0DFMGBZ9Z",
-      "canonical_brand": "조선미녀"
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 43,
+      "asin": "B0HGY9S56P",
+      "title": "ivyclip - Haarspangen Damen - Haarklammer groß und klein - weiche Haarclips | Elastische Haarklemmen für dickes und dünnes Haar - Flexibler Claw Clip - Haaraccessoires - Original-Design von ivyclip",
+      "url": "https://www.amazon.de/dp/B0HGY9S56P",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 44,
+      "asin": "B01G3NW5UK",
+      "title": "Sagrotan No‑Touch Nachfüller Aloe Vera – Handseife für den automatischen Seifenspender – Sanfte Reinigung für die Hände – Flüssigseife – 5 X 250 ml",
+      "url": "https://www.amazon.de/dp/B01G3NW5UK",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 45,
+      "asin": "B00CZCD63O",
+      "title": "REVLON PROFESSIONAL EQUAVE Hydro Instant Detangling Conditioner, 500 ml, entwirrender Leave in Sprühconditioner für normales bis trockenes Haar, Haarpflege mit 2-Phasen Formel & Hitzeschutz",
+      "url": "https://www.amazon.de/dp/B00CZCD63O",
+      "canonical_brand": null,
+      "brand": "Revlon"
+    },
+    {
+      "rank": 46,
+      "asin": "B0B6CLFY48",
+      "title": "UNA GELLA Kurze Mandel Nail Tips 504 Stück | Short Almond Soft Gel Tips für Gelnägel Full Cover Nails Tips für Acrylnägel, Nagelkunst & DIY Nagelstudio zu Hause 12 Größen",
+      "url": "https://www.amazon.de/dp/B0B6CLFY48",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 47,
+      "asin": "B01MYEZPC8",
+      "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Hyaluronsäure + B5 (mit Ceramiden), Tiefenwirksames Hydrationsserum für vitalere, glattere Haut, 30ml",
+      "url": "https://www.amazon.de/dp/B01MYEZPC8",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 48,
+      "asin": "B0BM4TWB1D",
+      "title": "Wella Professionals COLOR FRESH MASK Farbauffrischende Haarkur & Tönung | Mit pflegendem Avocadoöl, verschiedene Farben & Größen – Für blondes, braunes und dunkles Haar",
+      "url": "https://www.amazon.de/dp/B0BM4TWB1D",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 49,
+      "asin": "B07NYTY2QG",
+      "title": "Syoss Augenbrauen Kit Augenbrauenfarbe 4-1 Dunkelbraun Stufe 3 (17 ml) | Permanente Augenbrauenfarbe, wasser- und wischfest, natürlicher Look, für bis zu 40 Tage Halt & bis zu 10 Anwendungen",
+      "url": "https://www.amazon.de/dp/B07NYTY2QG",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 50,
       "asin": "B0FVT77ZLL",
       "title": "Anua Pdrn Collagen Glow Facial Serum Spray, Korean Skincare, 100ml | Feuchtigkeitsspendender Gesichtsspray, mit Hyaluronsäure, für Alle Hauttypen, Feuchtigkeit & Aufpolsternde, Straffende Pflege",
       "url": "https://www.amazon.de/dp/B0FVT77ZLL",
-      "canonical_brand": "아누아"
+      "canonical_brand": "아누아",
+      "brand": "아누아"
     },
     {
       "rank": 51,
       "asin": "B0F8P69FBV",
       "title": "Hero Mighty Patch Original Hydrokolloid Pickelpflaster, 144 Stück | Verbessert das Hautbild von Pickeln über Nacht, Schützt vor Berühren und Ausdrücken, Sichtbar bessere Haut nach 6 Stunden",
       "url": "https://www.amazon.de/dp/B0F8P69FBV",
-      "canonical_brand": "Hero Cosmetics"
+      "canonical_brand": "Hero Cosmetics",
+      "brand": "Hero Cosmetics"
+    },
+    {
+      "rank": 52,
+      "asin": "B00JEBK6JG",
+      "title": "Weleda For Men 3in1 Duschgel Shampoo Active Fresh 200 ml vegan | Eukalyptus Vetiver Duft, milde Zuckertenside, waschaktive Aminosäuren, dermatologisch getestet, ohne Silikone",
+      "url": "https://www.amazon.de/dp/B00JEBK6JG",
+      "canonical_brand": null,
+      "brand": "Weleda"
     },
     {
       "rank": 53,
       "asin": "B0B45LL4DD",
       "title": "Beauty of Joseon Revive eye serum Ginseng + Retinal | Korean Skincare Augencreme-ideal mit Augenpads, Gegen falten, ungleichmäßigen Hautton Serum zur Augenpflege, 30ml",
       "url": "https://www.amazon.de/dp/B0B45LL4DD",
-      "canonical_brand": "조선미녀"
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 54,
+      "asin": "B00017Y63O",
+      "title": "Biotherm Lait Corporel L'Original, feuchtigkeitsspendende Körperlotion mit Life Plankton für geschmeidige Haut, sanfte Körperpflege mit zartem Duft, Bodylotion für hydratisierte Haut",
+      "url": "https://www.amazon.de/dp/B00017Y63O",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 55,
+      "asin": "B07YYHQN85",
+      "title": "IMPERIO Ansatzpuder - Haar Concealer zur Haarverdichtung für Frauen und Männer, wasserfestes Haar Make-up zum Ansatz kaschieren - 4g (Mittelbraun) Pulver Natürlich",
+      "url": "https://www.amazon.de/dp/B07YYHQN85",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 56,
+      "asin": "B00E63ACZK",
+      "title": "Priorin Kapseln I Haarausfall bei Frauen I mehr Haarwachstum I 120 Stück | Produkt bei Haarausfall für Frauen. Nr. 1 Empfehlung von Ärztinnen. Nährstoffe: Hirseextrakt, Vitamin B5 und Cystin",
+      "url": "https://www.amazon.de/dp/B00E63ACZK",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 57,
       "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptid Serum mit Lachs-DNA 30ml | Glow Serum, Peptide, Niacinamid, Feuchtigkeit, Straffende Pflege, Ebenmäßiger Teint, Koreanische Hautpflege",
       "url": "https://www.amazon.de/dp/B0DBF65JYY",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 58,
+      "asin": "B0CGMBM6D4",
+      "title": "L'Oréal Paris Setting Spray zum Fixieren von Make up, Transferfest in 3 Sekunden, Fixier-Spray für bis zu 36 Stunden Halt, Infaillible 3-Second Setting Mist, 1 x 75 ml",
+      "url": "https://www.amazon.de/dp/B0CGMBM6D4",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 59,
+      "asin": "B0CWV72MHN",
+      "title": "bedrop Propolis Nagelserum bei Nagelproblemen - 10ml | hochdosierte Behandlung der Haut & Nagel I Nail Care Formel für Nagelpilz I Schnelle & Intensive Wirkung",
+      "url": "https://www.amazon.de/dp/B0CWV72MHN",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 60,
+      "asin": "B07L9DK5TK",
+      "title": "Beurer MP 64 Maniküre/Pediküreset, elektrisches Nagelpflegeset mit Akku | 10 Aufsätze zur Nagelpflege für schöne Hände und Füße, mit LED Licht, Einheitsgröße, White and gold",
+      "url": "https://www.amazon.de/dp/B07L9DK5TK",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 61,
+      "asin": "B0F9P6X4Q9",
+      "title": "POFIBO Nagelfräser Kabellose Elektrische Nagelfeile - 35000 U/Min Nagelfräser für Gelnägel, 12 IN 1 Professionell Fräser für Nägel & Acrylnägel, Maniküre Pediküre Set mit 5 Geschwindigkeiten",
+      "url": "https://www.amazon.de/dp/B0F9P6X4Q9",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 62,
+      "asin": "B0CB121J49",
+      "title": "Wella Professionals Welloxon Perfect Entwickler – Wasserstoffperoxid für Haarfarbe & Tönung – Oxidant für Koleston, Illumina & Magma",
+      "url": "https://www.amazon.de/dp/B0CB121J49",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 63,
+      "asin": "B08TTP8589",
+      "title": "Geek & Gorgeous A-Game 5 – Leichtes Serum mit 0,05% Retinal – Mildert Falten & Hautunreinheiten – Anti-Aging Gesichtspflege für alle Hauttypen – 30 ml",
+      "url": "https://www.amazon.de/dp/B08TTP8589",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 64,
+      "asin": "B0CB6T1ZP6",
+      "title": "Wella Professionals – Wella Fusion Intense Repair Shampoo – Tiefenreinigungsshampoo – Haarpflege für kaputtes Haar – Haarshampoo für bessere Kämmbarkeit – 250 ml",
+      "url": "https://www.amazon.de/dp/B0CB6T1ZP6",
+      "canonical_brand": null,
+      "brand": "Wella"
     },
     {
       "rank": 65,
       "asin": "B0DX122DHW",
       "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01oz | Gesichtsserum für Unreine & Empfindliche Haut, Hydratisierende Hautpflege bei Unreinheiten, Hyaluronserum, Korean Skincare",
       "url": "https://www.amazon.de/dp/B0DX122DHW",
-      "canonical_brand": "아누아"
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 66,
+      "asin": "B08F7QZ475",
+      "title": "Pantene Pro-V Repair & Care Shampoo 1000ml Pumpspender | Schwaches, Trockenes, Geschädigtes Haar, Reinigt Sanft, Schützt Haarbindungen, ohne Silikone, Mineralöle und Farbstoffe",
+      "url": "https://www.amazon.de/dp/B08F7QZ475",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 67,
+      "asin": "B00CDO12Z8",
+      "title": "Maybelline New York Instant Anti-Age Effekt Löscher Concealer gegen Augenringe & Falten, Mit Goji-Beere & Haloxyl, Mikro-Lösch-Applikator für präzises Abdecken, Nr. 01 Light, 6,8ml",
+      "url": "https://www.amazon.de/dp/B00CDO12Z8",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
+    {
+      "rank": 68,
+      "asin": "B0C3QV923Z",
+      "title": "Schaebens Reine Haut Anti-Pickel Patches die Soforthilfe gegen Pickel mit Salicylsäure für unreine Haut",
+      "url": "https://www.amazon.de/dp/B0C3QV923Z",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 69,
+      "asin": "B01N5TO559",
+      "title": "Manhattan Endless Stay Waterproof Gel Eyeliner – Schwarzer Gel Eyeliner mit herausdrehbarer Mine ohne Anspitzen – Farbe Blackest Black 006 – 2,6g , (1er Pack)",
+      "url": "https://www.amazon.de/dp/B01N5TO559",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 70,
+      "asin": "B0916DV6VH",
+      "title": "UNA GELLA Mandel Nail Tips 216 Stück | Almond Soft Gel Nageltips Full Cover für Gelnägel, Französische Nail Tips für Nagelkunst, DIY & Nagelstudio 12 Größen",
+      "url": "https://www.amazon.de/dp/B0916DV6VH",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 71,
+      "asin": "B0FD3SSVRZ",
+      "title": "L'Oréal Men Expert XXXL Duschgel und Shampoo für Männer, Duschbad zur Reinigung von Körper, Haar, Gesicht und Bart, Herren Körperpflege mit holzigem Duft und Zedernholzöl, Barber Club, 1 x 1000 ml",
+      "url": "https://www.amazon.de/dp/B0FD3SSVRZ",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 72,
+      "asin": "B09XN22JBT",
+      "title": "CeraVe Feuchtigkeitsspendende Gesichtscreme LSF 50, UVA- & UVB-Schutz, 50ml | Für normale bis trockene Haut, leichte Textur, mit Hyaluronsäure, Niacinamid, Vitamin E & Ceramiden, dermatologisch getestet",
+      "url": "https://www.amazon.de/dp/B09XN22JBT",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 73,
+      "asin": "B01KLXFBVI",
+      "title": "Remington Haartrockner Profi Ionen PROluxe (2400W, 150km/h, 3 Stylingaufsätze, OPTIheat-Technologie für lang anhaltende Styling-Ergebnisse, Ionenpflege - Anti Frizz, langlebiger AC-Motor) AC9140",
+      "url": "https://www.amazon.de/dp/B01KLXFBVI",
+      "canonical_brand": null,
+      "brand": "Remington"
+    },
+    {
+      "rank": 74,
+      "asin": "B00AI7COA4",
+      "title": "Rexona Women Maximum Protection Anti Transpirant Deo Creme Clean Scent45 ml",
+      "url": "https://www.amazon.de/dp/B00AI7COA4",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 75,
+      "asin": "B0DG5ZCMZ7",
+      "title": "Wella Professionals Color Touch Rich Naturals – Ammoniakfreie, vegane Intensivtönung mit Metal Purifier – für tiefe,natürliche Nuancen bis zu 28 Haarwäschen -",
+      "url": "https://www.amazon.de/dp/B0DG5ZCMZ7",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 76,
+      "asin": "B0CQHXCP1X",
+      "title": "L'Oréal Men Expert XXXL 5in1 Duschgel und Shampoo für Männer, Duschbad zur Reinigung von Körper, Haar und Gesicht, Herren Körperpflege für langanhaltende Frische mit Karbon, Pure Carbon, 1 x 1000 ml",
+      "url": "https://www.amazon.de/dp/B0CQHXCP1X",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 77,
+      "asin": "B0BBXZ2LYF",
+      "title": "Neutrogena Sofort einziehende Handcreme, 75 ml | Leichte und nicht fettende Feuchtigkeitscreme, Handcreme mit Glycerin + Vitamin E, bei trockenen, rissigen Händen",
+      "url": "https://www.amazon.de/dp/B0BBXZ2LYF",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 78,
+      "asin": "B01FTBDBJ6",
+      "title": "REVLON PROFESSIONAL EQUAVE Hydro Instant Detangling Conditioner, 200 ml, entwirrender Leave in Sprühconditioner für normales bis trockenes Haar, Haarpflege mit 2-Phasen Formel & Hitzeschutz",
+      "url": "https://www.amazon.de/dp/B01FTBDBJ6",
+      "canonical_brand": null,
+      "brand": "Revlon"
+    },
+    {
+      "rank": 79,
+      "asin": "B07C5XD33D",
+      "title": "CeraVe Schäumendes Reinigungsgel für Gesicht & Körper, Waschgel | Für normale bis fettige Haut. Reguliert Talg mit Ceramiden, Hyaluron & Niacinamid. Dermatologisch getestet. Ohne Parfum",
+      "url": "https://www.amazon.de/dp/B07C5XD33D",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 80,
+      "asin": "B0F1YFQ8TJ",
+      "title": "Tesori d'Oriente Cremedusche Ikigai | Kirschblüte & Reiswasser | 250 ml | Aromatische Cremedusche für ein Wellness-Ritual für Körper & Sinne.",
+      "url": "https://www.amazon.de/dp/B0F1YFQ8TJ",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 81,
+      "asin": "B07G1VKCND",
+      "title": "Rael Miracle Anti Pickel Patch Unsichtbar (2 Größen, 96 Stück) | Korean Skincare, Ultradünne Ränder, Hydrokolloid Akne Pflaster, Pimple Patches für Gesicht, Vegan, Tierversuchsfrei",
+      "url": "https://www.amazon.de/dp/B07G1VKCND",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 82,
+      "asin": "B09RN8Q4CW",
+      "title": "Remington Glätteisen Profi [Hitzeschutzsensor um Haarschäden zu verringern] Keratin Protect (hochwertige Keratin-Keramikbeschichtung mit Mandelöl) Digitales Display, 160-230°C, Haarglätter S8593",
+      "url": "https://www.amazon.de/dp/B09RN8Q4CW",
+      "canonical_brand": null,
+      "brand": "Remington"
+    },
+    {
+      "rank": 83,
+      "asin": "B0BWFLY91K",
+      "title": "L'Oréal Paris Elvital Hydra Hyaluronic feuchtigkeitsspendendes XXXL Shampoo für glänzendes Haar, Hyaluron Shampoo für einen Feuchtigkeitsboost & Schutz, langanhaltende Feuchtigkeit und Pflege, 1000ml",
+      "url": "https://www.amazon.de/dp/B0BWFLY91K",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 84,
+      "asin": "B003JKFEL8",
+      "title": "Moroccanoil-Behandlung Haar-Öl",
+      "url": "https://www.amazon.de/dp/B003JKFEL8",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 85,
+      "asin": "B00X5N25AM",
+      "title": "Wella EIMI Extra Volume Schaumfestiger – Haarschaum für extra Volumen – schützt vor Hitze und Austrocknung – starker Halt ohne zu Verkleben und Beschweren",
+      "url": "https://www.amazon.de/dp/B00X5N25AM",
+      "canonical_brand": null,
+      "brand": "Wella"
+    },
+    {
+      "rank": 86,
+      "asin": "B01G3NW5XM",
+      "title": "Sagrotan No-Touch Nachfüller Wildbeeren – Für den automatischen Seifenspender – 5 x 250 ml Handseife",
+      "url": "https://www.amazon.de/dp/B01G3NW5XM",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 87,
       "asin": "B01LEJ5MSK",
       "title": "COSRX Advanced Snail 92% All in One Cream | Schneckenschleim Creme mit Hyaluron | Anti Pickel Anti Falten Gesichtscreme | für trockene und empfindliche Haut | Korean Skincare",
       "url": "https://www.amazon.de/dp/B01LEJ5MSK",
-      "canonical_brand": "코스알엑스"
+      "canonical_brand": "코스알엑스",
+      "brand": "코스알엑스"
+    },
+    {
+      "rank": 88,
+      "asin": "B0BPSWK6Y5",
+      "title": "Mixa Hautberuhigende Panthenol Creme gegen Neurodermitis, 400 ml | Spendet intensive Feuchtigkeit, unterstützt die Hautbarriere, Formel mit Panthenol, Glycerin und Omega 6 und 9",
+      "url": "https://www.amazon.de/dp/B0BPSWK6Y5",
+      "canonical_brand": null,
+      "brand": "Mixa"
+    },
+    {
+      "rank": 89,
+      "asin": "B0H75Y8G21",
+      "title": "RITUALS Duschschaum Geschenkset – Luxuriöses Pflegeset The Ritual of Sakura, Karma und Yozakura 3x200ml",
+      "url": "https://www.amazon.de/dp/B0H75Y8G21",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
     },
     {
       "rank": 90,
       "asin": "B0D2Z3GGCY",
       "title": "medicube Kapsel Creme mit Deep Vitamin C für strahlende Haut | Liposomale Vitamin C Goldkapseln, Glow-Gel-Textur, Feuchtigkeit, strahlender Teint & Straffung, Koreanische Hautpflege, 55 g",
       "url": "https://www.amazon.de/dp/B0D2Z3GGCY",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 91,
+      "asin": "B0B913JC2W",
+      "title": "CeraVe Hautbilderneuerndes Retinol Serum für das Gesicht, 30 ml | Für unreine Haut. Mildert Pickelmale mit Retinol, Niacinamid & Süßholz. Dermatologisch getestet. Ohne Parfum",
+      "url": "https://www.amazon.de/dp/B0B913JC2W",
+      "canonical_brand": null,
+      "brand": "CeraVe"
     },
     {
       "rank": 92,
       "asin": "B0FX418XT8",
       "title": "Arencia Vitamin C Booster Shot Serum mit Glutathion, Niacinamid und Vitamin E für strahlende Haut, 29,9 ml",
       "url": "https://www.amazon.de/dp/B0FX418XT8",
-      "canonical_brand": "아렌시아"
+      "canonical_brand": "아렌시아",
+      "brand": "아렌시아"
+    },
+    {
+      "rank": 93,
+      "asin": "B08Q68CBQK",
+      "title": "Old Spice Captain Deostick für Männer 50 ml, 24/7 Frischhh bei täglicher Anwendung, langanhaltender Duft in Parfumqualität, Schutz vor Gerüchen, Ohne Aluminiumsalze, unsichtbar auf Schwarz und Weiß",
+      "url": "https://www.amazon.de/dp/B08Q68CBQK",
+      "canonical_brand": null,
+      "brand": "Old Spice"
     },
     {
       "rank": 94,
       "asin": "B0FKGJYFC8",
       "title": "Dr. Althea 345 Relief Cream, Feuchtigkeits-Gel-Creme mit Niacinamid und Panthenol für empfindliche Haut, 50 ml",
       "url": "https://www.amazon.de/dp/B0FKGJYFC8",
-      "canonical_brand": "닥터엘시아"
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 95,
+      "asin": "B09SLF5ZH8",
+      "title": "La Roche-Posay Anthelios Invisible Fluid Sonnencreme Gesicht, LSF 50+ 50 ml | Bei Sonnenallergie & empfindlicher Haut, Ohne Duftstoffe, Mexoryl 400, Dermatologisch getestet, UVA-/UVB-Schutz, Sonnencreme",
+      "url": "https://www.amazon.de/dp/B09SLF5ZH8",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 96,
+      "asin": "B0B1Q95HNF",
+      "title": "Prreal Body Glitter Gel 50ml, Mermaid Sequins Liquid Gel Kit | Long-Lasting Glitter Chunky Powder For Festival Masquerade Birthday Makeup#White",
+      "url": "https://www.amazon.de/dp/B0B1Q95HNF",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 97,
+      "asin": "B0D4Y6MNTF",
+      "title": "PURITO Panthenol 10% Cream für empfindliche Haut, 100 ml | Repariert die Hautbarriere, spendet Feuchtigkeit, für unreine Haut, nicht komedogen & vegan",
+      "url": "https://www.amazon.de/dp/B0D4Y6MNTF",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 98,
+      "asin": "B0DT4DFQHW",
+      "title": "Pantene ProV Repair&Care Active Nutri-Plex Pflegespülung 800ml Pumpspender | Schwaches, Trockenes, Geschädigtes Haar,Schwerelose, tägliche Spülung, Fettet Nicht. Mit Pro-Vitamin B5 & Nährstoff-Formel",
+      "url": "https://www.amazon.de/dp/B0DT4DFQHW",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 99,
+      "asin": "B0BGWXP2C8",
+      "title": "Kneipp Aroma-Pflegeschaumbad Muskel Entspannung - mit wertvollem Extrakt der Arnika - 400 ml",
+      "url": "https://www.amazon.de/dp/B0BGWXP2C8",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 100,
+      "asin": "B08TWV3S41",
+      "title": "OLAPLEX N°.5 Bond Maintenance Conditioner Reparatur, 250 ml | Für mittleres bis kräftiges Haar, farbschonende, sulfatfreie Formel für alle Haartypen und Haarstrukturen",
+      "url": "https://www.amazon.de/dp/B08TWV3S41",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    }
+  ],
+  "products": [
+    {
+      "rank": 2,
+      "asin": "B0B2RM68G2",
+      "title": "Biodance Bio-Collagen Real Deep Mask 4er Pack - Gesichtsmasken, Maske Gesicht, Gesichtsmaske Frauen, Gesichtsmaske, Face Mask, Porenverfeinerung, Faltenbehandlung",
+      "url": "https://www.amazon.de/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 8,
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster, 15ml | 0,1% Retinal, 3% Matryxyl, Hochwirksames Retinoid, Anti-Aging, Porenverfeinerung, Feine Linien, Hautstraffung",
+      "url": "https://www.amazon.de/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 10,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Zero Pore Pad 2.0 Peeling Tonerpads für Porenpflege | Doppelseitiges Gesichtspad mit 4,5% AHA & 0,45% BHA, Milchsäure, Salicylsäure, Peelingpflege, Für alle Hauttypen, 70 Stück",
+      "url": "https://www.amazon.de/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 15,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Italienischer Weißer Trüffel First Spray Serum (100ml) | Feuchtigkeitsspendendes Gesichtsspray, Strahlende Haut, Hautberuhigend, Vegan, Koreanische Hautpflege",
+      "url": "https://www.amazon.de/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 19,
+      "asin": "B09JVNZVH3",
+      "title": "Beauty of Joseon Relief Sun Rice + Niacinamide | Korean Skincare Koreanische Kosmetik Kein Weißer Schleier, Hydratisierende Sonnencreme Gesicht SPF 50+ PA++++, 50ml",
+      "url": "https://www.amazon.de/dp/B09JVNZVH3",
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 27,
+      "asin": "B09SZ5JX2Y",
+      "title": "d'alba Piedmont Weißer Trüffel Double Serum All-in-one Multi Balm | Vegane Hautpflege, 3-in-1 Augenpflege mit Weißem Trüffel gegen Falten, Stick Eye Treatment Balm, Koreanische Hautpflege",
+      "url": "https://www.amazon.de/dp/B09SZ5JX2Y",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 42,
+      "asin": "B0DFMGBZ9Z",
+      "title": "Beauty of Joseon Relief Sun Aqua-Fresh Rice + B5 | Korean Skincare Kein Weißer Schleie, Leichte sonnencreme gesicht SPF 50+ PA++++, 50ml",
+      "url": "https://www.amazon.de/dp/B0DFMGBZ9Z",
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 50,
+      "asin": "B0FVT77ZLL",
+      "title": "Anua Pdrn Collagen Glow Facial Serum Spray, Korean Skincare, 100ml | Feuchtigkeitsspendender Gesichtsspray, mit Hyaluronsäure, für Alle Hauttypen, Feuchtigkeit & Aufpolsternde, Straffende Pflege",
+      "url": "https://www.amazon.de/dp/B0FVT77ZLL",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 51,
+      "asin": "B0F8P69FBV",
+      "title": "Hero Mighty Patch Original Hydrokolloid Pickelpflaster, 144 Stück | Verbessert das Hautbild von Pickeln über Nacht, Schützt vor Berühren und Ausdrücken, Sichtbar bessere Haut nach 6 Stunden",
+      "url": "https://www.amazon.de/dp/B0F8P69FBV",
+      "canonical_brand": "Hero Cosmetics",
+      "brand": "Hero Cosmetics"
+    },
+    {
+      "rank": 53,
+      "asin": "B0B45LL4DD",
+      "title": "Beauty of Joseon Revive eye serum Ginseng + Retinal | Korean Skincare Augencreme-ideal mit Augenpads, Gegen falten, ungleichmäßigen Hautton Serum zur Augenpflege, 30ml",
+      "url": "https://www.amazon.de/dp/B0B45LL4DD",
+      "canonical_brand": "조선미녀",
+      "brand": "조선미녀"
+    },
+    {
+      "rank": 57,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptid Serum mit Lachs-DNA 30ml | Glow Serum, Peptide, Niacinamid, Feuchtigkeit, Straffende Pflege, Ebenmäßiger Teint, Koreanische Hautpflege",
+      "url": "https://www.amazon.de/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 65,
+      "asin": "B0DX122DHW",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01oz | Gesichtsserum für Unreine & Empfindliche Haut, Hydratisierende Hautpflege bei Unreinheiten, Hyaluronserum, Korean Skincare",
+      "url": "https://www.amazon.de/dp/B0DX122DHW",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 87,
+      "asin": "B01LEJ5MSK",
+      "title": "COSRX Advanced Snail 92% All in One Cream | Schneckenschleim Creme mit Hyaluron | Anti Pickel Anti Falten Gesichtscreme | für trockene und empfindliche Haut | Korean Skincare",
+      "url": "https://www.amazon.de/dp/B01LEJ5MSK",
+      "canonical_brand": "코스알엑스",
+      "brand": "코스알엑스"
+    },
+    {
+      "rank": 90,
+      "asin": "B0D2Z3GGCY",
+      "title": "medicube Kapsel Creme mit Deep Vitamin C für strahlende Haut | Liposomale Vitamin C Goldkapseln, Glow-Gel-Textur, Feuchtigkeit, strahlender Teint & Straffung, Koreanische Hautpflege, 55 g",
+      "url": "https://www.amazon.de/dp/B0D2Z3GGCY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 92,
+      "asin": "B0FX418XT8",
+      "title": "Arencia Vitamin C Booster Shot Serum mit Glutathion, Niacinamid und Vitamin E für strahlende Haut, 29,9 ml",
+      "url": "https://www.amazon.de/dp/B0FX418XT8",
+      "canonical_brand": "아렌시아",
+      "brand": "아렌시아"
+    },
+    {
+      "rank": 94,
+      "asin": "B0FKGJYFC8",
+      "title": "Dr. Althea 345 Relief Cream, Feuchtigkeits-Gel-Creme mit Niacinamid und Panthenol für empfindliche Haut, 50 ml",
+      "url": "https://www.amazon.de/dp/B0FKGJYFC8",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
     }
   ]
 }
