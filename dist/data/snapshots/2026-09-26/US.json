@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-01T01:06:03.707Z",
+  "collected_at_utc": "2026-10-01T01:40:28.750Z",
   "market_code": "US",
   "all_products": [
     {
@@ -32,7 +32,7 @@
       "title": "Amazon Essentials Cotton Swabs, 500 Count (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH/ref=zg_bs_g_beauty_d_sccl_4/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon Essentials"
+      "brand": "Amazon"
     },
     {
       "rank": 5,
@@ -56,7 +56,7 @@
       "title": "Amazon Essentials 100% Cotton Rounds, 100 Count (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Rounds-Count/dp/B09542G9ZN/ref=zg_bs_g_beauty_d_sccl_7/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon Essentials"
+      "brand": "Amazon"
     },
     {
       "rank": 8,
@@ -80,7 +80,7 @@
       "title": "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Builda",
       "url": "https://www.amazon.com/Maybelline-Volumizing-Buildable-Lengthening-Multiplying/dp/B08H3JPH74/ref=zg_bs_g_beauty_d_sccl_10/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Maybelline New York"
     },
     {
       "rank": 11,
@@ -120,7 +120,7 @@
       "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz | Anti-Fungal Shampoo, Dandruff Shampoo for Dandruff",
       "url": "https://www.amazon.com/Nizoral-Anti-Dandruff-Shampoo-Ketoconazole-Dandruff/dp/B00AINMFAC/ref=zg_bs_g_beauty_d_sccl_15/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Nizoral"
     },
     {
       "rank": 16,
@@ -128,7 +128,7 @@
       "title": "Native Deodorant Contains Naturally Derived Ingredients, 72 Hour Odor Control, Deodorant for Women and Men, Aluminum Free, Co",
       "url": "https://www.amazon.com/Native-Deodorant-without-Aluminum-Parabens/dp/B07GB3NVN1/ref=zg_bs_g_beauty_d_sccl_16/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Native"
     },
     {
       "rank": 17,
@@ -176,7 +176,7 @@
       "title": "e.l.f. Cream Glide Lip Liner, Highly-Pigmented Pencil For Shaping & Sculpting Lips, Semi-Matte Finish, Vegan & Cruelty-Free",
       "url": "https://www.amazon.com/l-f-Highly-Pigmented-Sculpting-Semi-Matte-Cruelty-Free/dp/B0CMYR1CNK/ref=zg_bs_g_beauty_d_sccl_22/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "e.l.f."
     },
     {
       "rank": 23,
@@ -184,7 +184,7 @@
       "title": "grace & stella Award Winning Eye Patches for Puffy Eyes - Birthday Gifts for Women - Under Eye Mask for Dark Circles and Unde",
       "url": "https://www.amazon.com/Under-Eye-Patches-Gold-24-Pairs/dp/B014E2D6BY/ref=zg_bs_g_beauty_d_sccl_23/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "grace & stella"
     },
     {
       "rank": 24,
@@ -200,7 +200,7 @@
       "title": "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Blonde | Retractable Precision-Tip Brow Pencil with Grooming Spoolie for Buildab",
       "url": "https://www.amazon.com/Instant-Dual-Sided-Precise-Defines-Contours/dp/B07PBQZ3KF/ref=zg_bs_g_beauty_d_sccl_25/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "e.l.f."
     },
     {
       "rank": 26,
@@ -232,7 +232,7 @@
       "title": "Degree Men UltraClear Antiperspirant Deodorant, 2 Count, 2.7 oz | For long days, provides 72-hour sweat and odor protection w",
       "url": "https://www.amazon.com/Degree-Men-UltraClear-Antiperspirant-Deodorant/dp/B075JRT85B/ref=zg_bs_g_beauty_d_sccl_29/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Degree"
     },
     {
       "rank": 30,
@@ -256,7 +256,7 @@
       "title": "Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 15g Tube | Over-The-Counter Retinoid, Clears Acne And Prevents Breakout",
       "url": "https://www.amazon.com/Differin-Adapalene-0-1-Acne-Treatment/dp/B07L1PHSY9/ref=zg_bs_g_beauty_d_sccl_32/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Differin"
     },
     {
       "rank": 33,
@@ -264,7 +264,7 @@
       "title": "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, Dermatologist-Tested, pH Balanced, Cruelty-Free, 5",
       "url": "https://www.amazon.com/Amazon-Basics-Gentle-Liquid-Triclosan-free/dp/B09HHDHXWX/ref=zg_bs_g_beauty_d_sccl_33/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon Essentials"
+      "brand": "Amazon"
     },
     {
       "rank": 34,
@@ -312,7 +312,7 @@
       "title": "L'Oreal Paris Infallible 3-Second Setting Spray, Up to 36HR Wear, 1.76 oz | Microfine Mist Dries Instantly to Lock in Makeup,",
       "url": "https://www.amazon.com/Paris-Infallible-3-Second-Setting-Microfine/dp/B0CZF2T7CK/ref=zg_bs_g_beauty_d_sccl_39/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "L'Oréal Paris"
     },
     {
       "rank": 40,
@@ -320,7 +320,7 @@
       "title": "Salt & Stone Aluminum-Free Deodorant, Women & Men Santal & Vetiver 2.6 oz | Extra Strength 48 Hour Protection, Gender Neutral",
       "url": "https://www.amazon.com/Salt-Stone-Deodorant-Aluminum-protection/dp/B08WYXNVQ7/ref=zg_bs_g_beauty_d_sccl_40/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Salt & Stone"
     },
     {
       "rank": 41,
@@ -336,7 +336,7 @@
       "title": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+",
       "url": "https://www.amazon.com/Nutrafol-Supplements-Clinically-Dermatologist-Recommended/dp/B07QZ5CTTF/ref=zg_bs_g_beauty_d_sccl_42/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Nutrafol"
     },
     {
       "rank": 43,
@@ -344,7 +344,7 @@
       "title": "Luxe Color Changing Foundation – Medium",
       "url": "https://www.amazon.com/Luxe-Color-Changing-Foundation-Medium/dp/B0G1VBDXYF/ref=zg_bs_g_beauty_d_sccl_43/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Luxe"
     },
     {
       "rank": 44,
@@ -424,7 +424,7 @@
       "title": "Goddvenus Lash Clusters Kit Wispy Eyelash Clusters Lashes Natural DIY Lash Extension Kit 10-16mm Cluster Eyelash Extensions K",
       "url": "https://www.amazon.com/Goddvenus-Clusters-Extension-Extensions-Individual/dp/B0DK8DCVK7/ref=zg_bs_g_beauty_d_sccl_3/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Goddvenus"
     },
     {
       "rank": 54,
@@ -432,7 +432,7 @@
       "title": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Leave-On Exfoliant | Gentle Salicylic Acid Leave-On Facial Exfoliator for Blackh",
       "url": "https://www.amazon.com/Paulas-Choice-SKIN-PERFECTING-Exfoliant-Facial-Blackheads/dp/B00949CTQQ/ref=zg_bs_g_beauty_d_sccl_4/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Paula's Choice"
     },
     {
       "rank": 55,
@@ -472,7 +472,7 @@
       "title": "Amazon Essentials Epsom Salt Soak, Magnesium Sulfate USP, 3 Pound, 1-Pack (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Magnesium-Sulfate-1-Pack/dp/B0BXTS6L35/ref=zg_bs_g_beauty_d_sccl_9/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon Essentials"
+      "brand": "Amazon"
     },
     {
       "rank": 60,
@@ -488,7 +488,7 @@
       "title": "L'Oreal Paris Excellence Crème Permanent Hair Dye, Triple Care Hair Color with Hyaluronic Acid for 100% Gray Coverage, 4 Dark",
       "url": "https://www.amazon.com/LOreal-Paris-Excellence-Creme-Color/dp/B004INIW1Y/ref=zg_bs_g_beauty_d_sccl_11/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "L'Oréal Paris"
     },
     {
       "rank": 62,
@@ -496,7 +496,7 @@
       "title": "Secret Clinical Strength 100HR Antiperspirant Deodorant for Women, 3X Sweat & Odor Protection vs. Ordinary Antiperspirant, Hy",
       "url": "https://www.amazon.com/Secret-Antiperspirant-Deodorant-Invisible-Completely/dp/B00HF3XSO0/ref=zg_bs_g_beauty_d_sccl_12/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Secret"
     },
     {
       "rank": 63,
@@ -504,7 +504,7 @@
       "title": "Kitsch Dermaplane Razor for Women Face – Terracotta, 12 pcs | Face Razors for Women & Men, Eyebrow Razor & Face Shaver – Exfo",
       "url": "https://www.amazon.com/Kitsch-Dermaplaning-Tool-Eyebrow-Dermaplane/dp/B08V3JGB1F/ref=zg_bs_g_beauty_d_sccl_13/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Kitsch"
     },
     {
       "rank": 64,
@@ -520,7 +520,7 @@
       "title": "L3 Level 3 Hair Texture Powder for Men, Volume, Natural Look, 30 g | Styling powder, hair texturizer, non-greasy finish, buil",
       "url": "https://www.amazon.com/Level-Styling-Powder-Natural-Delivers/dp/B08SNSSTPZ/ref=zg_bs_g_beauty_d_sccl_15/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "L3VEL3"
     },
     {
       "rank": 66,
@@ -536,7 +536,7 @@
       "title": "Gillette Venus Sensitive Women's Disposable Razors - Single Package of 3 Razors",
       "url": "https://www.amazon.com/Gillette-Venus-Womens-Disposable-Sensitive/dp/B0039LMTAQ/ref=zg_bs_g_beauty_d_sccl_17/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Gillette"
     },
     {
       "rank": 68,
@@ -552,7 +552,7 @@
       "title": "Kenra Professional Volume Spray 25 | Super Hold Finishing & Styling Hairspray | Flake-free & Fast-drying | Wind & Humidity Re",
       "url": "https://www.amazon.com/Kenra-Finishing-Flake-free-Fast-drying-Resistance/dp/B000YACKO0/ref=zg_bs_g_beauty_d_sccl_19/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Kenra Professional"
     },
     {
       "rank": 70,
@@ -568,7 +568,7 @@
       "title": "L’Oreal Paris Original Telescopic Mascara, Lengthening, Blackest Black | Extreme Lengthening Mascara For Lash By Lash Separat",
       "url": "https://www.amazon.com/Paris-Telescopic-Original-Lengthening-Blackest/dp/B004BD107O/ref=zg_bs_g_beauty_d_sccl_21/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "L'Oréal Paris"
     },
     {
       "rank": 72,
@@ -584,7 +584,7 @@
       "title": "Ivory Body Wash, Designed for the Whole Family, Gentle Formula, Free of Dyes Heavy Perfumes Parabens Phthalates & Silicones,",
       "url": "https://www.amazon.com/Designed-Perfumes-Parabens-Phthalates-Silicones/dp/B09M7SPFSJ/ref=zg_bs_g_beauty_d_sccl_23/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Ivory"
     },
     {
       "rank": 74,
@@ -608,7 +608,7 @@
       "title": "UNA GELLA Solid Nail Glue Super Strong for Press On Nails & Nail Tips 15g | Lamp Curing Needed, Long-Lasting Glue Gel for Cle",
       "url": "https://www.amazon.com/UNA-GELLA-Curing-Acrylic-Extension/dp/B0B6CMT476/ref=zg_bs_g_beauty_d_sccl_26/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "UNA GELLA"
     },
     {
       "rank": 77,
@@ -624,7 +624,7 @@
       "title": "Schick Hydro Silk Touch-Up Dermaplane Razor for Women Face, 3 ct | 3-in-1 dermaplaning tool, Removes peach fuzz, Exfoliating",
       "url": "https://www.amazon.com/Schick-Hydro-Silk-Touch-Up-Razor/dp/B0787GLBMV/ref=zg_bs_g_beauty_d_sccl_28/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Schick"
     },
     {
       "rank": 79,
@@ -632,7 +632,7 @@
       "title": "Goody Ouchless Elastic Hair Ties, 30 Ct, Black, 4MM Rubber Bands, Pain-Free | Hair Styling Accessories for Women & Men, Made",
       "url": "https://www.amazon.com/Goody-WoMens-Ouchless-Braided-Elastics/dp/B00IGJ1XOO/ref=zg_bs_g_beauty_d_sccl_29/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Goody"
     },
     {
       "rank": 80,
@@ -640,7 +640,7 @@
       "title": "Maybelline Instant Age Rewind Eraser Dark Circles Multi-Use Concealer, 110 | Use to Conceal, Contour, and Correct, Crease-Res",
       "url": "https://www.amazon.com/Maybelline-New-York-Treatment-Multi-Use/dp/B004Y9GTOO/ref=zg_bs_g_beauty_d_sccl_30/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Maybelline New York"
     },
     {
       "rank": 81,
@@ -648,7 +648,7 @@
       "title": "Tree Hut Vanilla Body Scrub, Exfoliating Sugar Scrub, Vegan, 18 Oz | Exfoliating & Nourishing with Shea Butter & Essential Oi",
       "url": "https://www.amazon.com/Tree-Hut-Variety-Strawberry-Champaine/dp/B0BX2TZZWG/ref=zg_bs_g_beauty_d_sccl_81/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Tree Hut"
     },
     {
       "rank": 82,
@@ -664,7 +664,7 @@
       "title": "e.l.f. Sheer For It Blush Tint, Cherry Cola | Multi-Use, Long-Lasting Lip & Cheek Makeup, Creates A Natural Flush Finish, Veg",
       "url": "https://www.amazon.com/l-f-Multi-Use-Long-Lasting-Creates-Cruelty-Free/dp/B0F3J6W5KW/ref=zg_bs_g_beauty_d_sccl_83/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "e.l.f."
     },
     {
       "rank": 84,
@@ -672,7 +672,7 @@
       "title": "Degree Men Antiperspirant Deodorant, Cool Rush, Twin Pack, 2.7 oz | For everyday wear, provides 48-hour sweat and odor protec",
       "url": "https://www.amazon.com/Degree-Men-Protection-Antiperspirant-Deodorant/dp/B00TPRG5D0/ref=zg_bs_g_beauty_d_sccl_84/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Degree"
     },
     {
       "rank": 85,
@@ -688,7 +688,7 @@
       "title": "Native Clean Body Wash, Gentle & pH-balanced for Sensitive Skin, 24-Hr Freshness for Women & Men, Vegan & Cruelty-Free, Free",
       "url": "https://www.amazon.com/Native-pH-balanced-Sensitive-Cruelty-Free-Phthalates/dp/B0B9CHS3LR/ref=zg_bs_g_beauty_d_sccl_86/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Native"
     },
     {
       "rank": 87,
@@ -696,7 +696,7 @@
       "title": "UNA GELLA Gel Nail Glue, Solid Nails Gl ue Gel 40g Lamp Curing Needed Soak Off G LUE Strong Nail G LUE G el for Acrylic Fake",
       "url": "https://www.amazon.com/UNA-GELLA-NAIL-TIPS-578/dp/B0B854YTCF/ref=zg_bs_g_beauty_d_sccl_87/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "UNA GELLA"
     },
     {
       "rank": 88,
@@ -704,7 +704,7 @@
       "title": "Sol de Janeiro Cheirosa Hair & Body Perfume Mist | Body Spray for Women",
       "url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Hair-Fragrance/dp/B09W18N3GT/ref=zg_bs_g_beauty_d_sccl_88/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Sol de Janeiro"
     },
     {
       "rank": 89,
@@ -712,7 +712,7 @@
       "title": "Keracolor Color + Clenditioner, Semi-Permanent Hair Color, 23 Shades | Color depositing conditioner softens & tones while cle",
       "url": "https://www.amazon.com/Keracolor-Clenditioner-COPPER-Hair-Dye/dp/B078PPV6SZ/ref=zg_bs_g_beauty_d_sccl_89/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Keracolor"
     },
     {
       "rank": 90,
@@ -720,7 +720,7 @@
       "title": "Sacheu Lip Liner STAY-N Peel Off Lip Stain, Longwear, p-INKED | Water-resistant, transfer & smudge-proof, lip tint with hyalu",
       "url": "https://www.amazon.com/Sacheu-Lip-Liner-Stay-N-Hyaluronic/dp/B0BVPNQW1C/ref=zg_bs_g_beauty_d_sccl_90/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Sacheu"
     },
     {
       "rank": 91,
@@ -736,7 +736,7 @@
       "title": "Burt's Bees 100% Natural Moisturizing Lip Balm (Original Beeswax) | Lip Moisturizer with Beeswax, Tint-Free, 100 Percent Natu",
       "url": "https://www.amazon.com/Burts-Bees-Moisturizing-Original-Peppermint/dp/B0054LHI5A/ref=zg_bs_g_beauty_d_sccl_92/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Burt's Bees"
     },
     {
       "rank": 93,
@@ -760,7 +760,7 @@
       "title": "Carpe 100-Hour Antiperspirant Deodorant, Mountain Breeze - 2 Pack | Dermatologist Tested - 100 Hr Sweat & Odor Control - Free",
       "url": "https://www.amazon.com/Carpe-Underarm-Antiperspirant-Deodorant-Protection/dp/B0DCL275RK/ref=zg_bs_g_beauty_d_sccl_95/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Carpe"
     },
     {
       "rank": 96,
@@ -784,7 +784,7 @@
       "title": "Aquaphor Advanced Therapy Healing Ointment, Skin Protectant, 7 OZ | Clinically Proven Skin Protectant Moisturizer for Cracked",
       "url": "https://www.amazon.com/Aquaphor-Advanced-Therapy-Ointment-Protectant/dp/B0107QPFBU/ref=zg_bs_g_beauty_d_sccl_98/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Aquaphor"
     },
     {
       "rank": 99,
@@ -792,7 +792,7 @@
       "title": "Good Molecules Yerba Mate Wake Up Eye Gel, Caffeine Under Eye Cream, 15 ml | Refreshes and hydrates tired under eyes with caf",
       "url": "https://www.amazon.com/Good-Molecules-Formulated-Revitalize-Fragrance/dp/B091NJQ29P/ref=zg_bs_g_beauty_d_sccl_99/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Good Molecules"
     },
     {
       "rank": 100,
@@ -800,7 +800,7 @@
       "title": "Cutex Nail Polish Remover, Strength Shield, Leaves Nails Looking Healthy, Contains Vitamins E, B5 & Hydrolyzed Silk, 6.76 Fl",
       "url": "https://www.amazon.com/Cutex-strength-shield-Polish-Remover/dp/B06XB43LPM/ref=zg_bs_g_beauty_d_sccl_100/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Cutex"
     }
   ],
   "products": [
