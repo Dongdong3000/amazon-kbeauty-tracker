@@ -1,21 +1,21 @@
 {
-  "collected_at_utc": "2026-10-02T23:13:32.477Z",
+  "collected_at_utc": "2026-10-03T05:39:38.283Z",
   "market_code": "DE",
   "complete": false,
   "checked_ranks": 2,
   "all_products_complete": false,
   "all_products": [
     {
-      "asin": "B0DBF65JYY",
       "rank": 16,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptide Serum with Salmon DNA 30 ml",
       "url": "https://www.amazon.de/dp/B0DBF65JYY",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 75,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum for Face & Neck",
       "url": "https://www.amazon.de/dp/B0GCC2JV65",
       "canonical_brand": "메디큐브",
@@ -24,18 +24,20 @@
   ],
   "products": [
     {
-      "asin": "B0DBF65JYY",
       "rank": 16,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptide Serum with Salmon DNA 30 ml",
       "url": "https://www.amazon.de/dp/B0DBF65JYY",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 75,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum for Face & Neck",
       "url": "https://www.amazon.de/dp/B0GCC2JV65",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     }
   ]
 }

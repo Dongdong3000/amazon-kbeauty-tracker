@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-02T23:13:33.173Z",
+  "collected_at_utc": "2026-10-03T05:39:38.689Z",
   "market_code": "UK",
   "complete": true,
   "checked_ranks": 100,
@@ -747,7 +747,7 @@
       "title": "Calvin Klein CKIN2U For Him, Eau de Toilette for Men, Aromatic Fragrance With Notes of Tangelo, Pimiento, Cool Musk’s, Medium Longevity",
       "url": "https://www.amazon.co.uk/dp/B000VOLKEA",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Calvin Klein"
     },
     {
       "rank": 94,
@@ -802,8 +802,8 @@
       "asin": "B000ORV3NC",
       "title": "Weleda Skin Food, Dry Skin Moisturiser, Moisturising Cream & Primer, Face & Body, For Men & Women, Multiple Uses, 100% Certified Natural, Organic, 75ml",
       "url": "https://www.amazon.co.uk/dp/B000ORV3NC",
-      "canonical_brand": "스킨푸드",
-      "brand": "스킨푸드"
+      "canonical_brand": null,
+      "brand": "Weleda"
     }
   ],
   "products": [
@@ -878,14 +878,6 @@
       "url": "https://www.amazon.co.uk/dp/B0GD6R7CFJ",
       "canonical_brand": "바이오던스",
       "brand": "바이오던스"
-    },
-    {
-      "rank": 100,
-      "asin": "B000ORV3NC",
-      "title": "Weleda Skin Food, Dry Skin Moisturiser, Moisturising Cream & Primer, Face & Body, For Men & Women, Multiple Uses, 100% Certified Natural, Organic, 75ml",
-      "url": "https://www.amazon.co.uk/dp/B000ORV3NC",
-      "canonical_brand": "스킨푸드",
-      "brand": "스킨푸드"
     }
   ]
 }

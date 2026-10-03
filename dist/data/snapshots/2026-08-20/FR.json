@@ -1,37 +1,37 @@
 {
-  "collected_at_utc": "2026-10-02T23:13:32.481Z",
+  "collected_at_utc": "2026-10-03T05:39:38.286Z",
   "market_code": "FR",
   "complete": false,
   "checked_ranks": 4,
   "all_products_complete": false,
   "all_products": [
     {
-      "asin": "B0DBF65JYY",
       "rank": 21,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptides Serum with Salmon DNA",
       "url": "https://www.amazon.fr/dp/B0DBF65JYY",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 32,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum Face & Neck 1 fl oz",
       "url": "https://www.amazon.fr/dp/B0GCC2JV65",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0GHMZXX8Y",
       "rank": 42,
+      "asin": "B0GHMZXX8Y",
       "title": "medicube Stick Balm Multi Volume PDRN Pink Collagen Face & Body",
       "url": "https://www.amazon.fr/dp/B0GHMZXX8Y",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0DWMSM6Y9",
       "rank": 49,
+      "asin": "B0DWMSM6Y9",
       "title": "medicube Eye Contour Serum PDRN Salmon & Pink Peptides",
       "url": "https://www.amazon.fr/dp/B0DWMSM6Y9",
       "canonical_brand": "메디큐브",
@@ -40,32 +40,36 @@
   ],
   "products": [
     {
-      "asin": "B0DBF65JYY",
       "rank": 21,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptides Serum with Salmon DNA",
       "url": "https://www.amazon.fr/dp/B0DBF65JYY",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 32,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum Face & Neck 1 fl oz",
       "url": "https://www.amazon.fr/dp/B0GCC2JV65",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0GHMZXX8Y",
       "rank": 42,
+      "asin": "B0GHMZXX8Y",
       "title": "medicube Stick Balm Multi Volume PDRN Pink Collagen Face & Body",
       "url": "https://www.amazon.fr/dp/B0GHMZXX8Y",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0DWMSM6Y9",
       "rank": 49,
+      "asin": "B0DWMSM6Y9",
       "title": "medicube Eye Contour Serum PDRN Salmon & Pink Peptides",
       "url": "https://www.amazon.fr/dp/B0DWMSM6Y9",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     }
   ]
 }

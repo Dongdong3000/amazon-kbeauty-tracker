@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-02T23:13:32.760Z",
+  "collected_at_utc": "2026-10-03T05:39:38.425Z",
   "market_code": "UK",
   "complete": true,
   "checked_ranks": 100,
@@ -722,8 +722,8 @@
       "asin": "B000ORV3NC",
       "title": "Weleda Skin Food, Dry Skin Moisturiser, Moisturising Cream & Primer, Face & Body, For Men & Women, Multiple Uses, 100% Certif",
       "url": "https://www.amazon.co.uk/Moisturiser-Moisturising-Multiple-Certified-Natural/dp/B000ORV3NC/ref=zg_bs_g_beauty_d_sccl_90/522-0270681-9666870?psc=1",
-      "canonical_brand": "스킨푸드",
-      "brand": "스킨푸드"
+      "canonical_brand": null,
+      "brand": "Weleda"
     },
     {
       "rank": 91,
@@ -918,14 +918,6 @@
       "url": "https://www.amazon.co.uk/medicube-Zero-Foam-Cleanser-120g/dp/B09C1B7BH5/ref=zg_bs_g_beauty_d_sccl_28/522-0270681-9666870?psc=1",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
-    },
-    {
-      "rank": 90,
-      "asin": "B000ORV3NC",
-      "title": "Weleda Skin Food, Dry Skin Moisturiser, Moisturising Cream & Primer, Face & Body, For Men & Women, Multiple Uses, 100% Certif",
-      "url": "https://www.amazon.co.uk/Moisturiser-Moisturising-Multiple-Certified-Natural/dp/B000ORV3NC/ref=zg_bs_g_beauty_d_sccl_90/522-0270681-9666870?psc=1",
-      "canonical_brand": "스킨푸드",
-      "brand": "스킨푸드"
     },
     {
       "rank": 94,

@@ -1,37 +1,37 @@
 {
-  "collected_at_utc": "2026-10-02T23:13:32.482Z",
+  "collected_at_utc": "2026-10-03T05:39:38.287Z",
   "market_code": "UK",
   "complete": false,
   "checked_ranks": 4,
   "all_products_complete": false,
   "all_products": [
     {
-      "asin": "B0GHMZXX8Y",
       "rank": 8,
+      "asin": "B0GHMZXX8Y",
       "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick - Face & Body Balm",
       "url": "https://www.amazon.co.uk/dp/B0GHMZXX8Y",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0DBF65JYY",
       "rank": 10,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptide Serum with Salmon DNA",
       "url": "https://www.amazon.co.uk/dp/B0DBF65JYY",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0DWMSM6Y9",
       "rank": 15,
+      "asin": "B0DWMSM6Y9",
       "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides",
       "url": "https://www.amazon.co.uk/dp/B0DWMSM6Y9",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 47,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum for Face & Neck",
       "url": "https://www.amazon.co.uk/dp/B0GCC2JV65",
       "canonical_brand": "메디큐브",
@@ -40,32 +40,36 @@
   ],
   "products": [
     {
-      "asin": "B0GHMZXX8Y",
       "rank": 8,
+      "asin": "B0GHMZXX8Y",
       "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick - Face & Body Balm",
       "url": "https://www.amazon.co.uk/dp/B0GHMZXX8Y",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0DBF65JYY",
       "rank": 10,
+      "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptide Serum with Salmon DNA",
       "url": "https://www.amazon.co.uk/dp/B0DBF65JYY",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0DWMSM6Y9",
       "rank": 15,
+      "asin": "B0DWMSM6Y9",
       "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides",
       "url": "https://www.amazon.co.uk/dp/B0DWMSM6Y9",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
-      "asin": "B0GCC2JV65",
       "rank": 47,
+      "asin": "B0GCC2JV65",
       "title": "medicube NAD EGF Firming Serum for Face & Neck",
       "url": "https://www.amazon.co.uk/dp/B0GCC2JV65",
-      "canonical_brand": "메디큐브"
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     }
   ]
 }
