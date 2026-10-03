@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-03T07:28:26.674Z",
+  "collected_at_utc": "2026-10-03T07:43:55.223Z",
   "market_code": "US",
   "complete": true,
   "checked_ranks": 100,
@@ -19,7 +19,7 @@
       "title": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, Cotton, Versatile, Baby Safe, 500 Count",
       "url": "https://www.amazon.com/dp/B09541P9WH",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 3,
@@ -51,7 +51,7 @@
       "title": "Amazon Basics Hypoallergenic Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack",
       "url": "https://www.amazon.com/dp/B09542G9ZN",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 7,
@@ -131,7 +131,7 @@
       "title": "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, Dermatologist-Tested, pH Balanced, Cruelty-Free, 50 Fluid Ounces, 1-Pack (Previously Solimo)",
       "url": "https://www.amazon.com/dp/B09HHDHXWX",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 17,
@@ -595,7 +595,7 @@
       "title": "Amazon Essentials Epsom Salt Soak, Magnesium Sulfate USP, 3 Pound, 1-Pack (Previously Amazon Basics)",
       "url": "https://www.amazon.com/dp/B0BXTS6L35",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 75,

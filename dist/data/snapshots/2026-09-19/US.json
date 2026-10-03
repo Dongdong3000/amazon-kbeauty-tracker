@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-03T07:28:26.807Z",
+  "collected_at_utc": "2026-10-03T07:43:55.341Z",
   "market_code": "US",
   "complete": true,
   "checked_ranks": 100,
@@ -43,7 +43,7 @@
       "title": "Amazon Essentials Cotton Swabs, 500 Count (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH/ref=zg_bs_g_beauty_d_sccl_5/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 6,
@@ -59,7 +59,7 @@
       "title": "Amazon Essentials 100% Cotton Rounds, 100 Count (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Cotton-Rounds-Count/dp/B09542G9ZN/ref=zg_bs_g_beauty_d_sccl_7/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 8,
@@ -323,7 +323,7 @@
       "title": "Amazon Basics Original Fresh Liquid Hand Soap with Moisturizers, 7.5 Fl Oz (Pack of 6)",
       "url": "https://www.amazon.com/Amazon-Brand-Solimo-Original-Liquid/dp/B08BPY986S/ref=zg_bs_g_beauty_d_sccl_40/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 41,
@@ -451,7 +451,7 @@
       "title": "Amazon Essentials Epsom Salt Soak, Magnesium Sulfate USP, 3 Pound, 1-Pack (Previously Amazon Basics)",
       "url": "https://www.amazon.com/Amazon-Basics-Magnesium-Sulfate-1-Pack/dp/B0BXTS6L35/ref=zg_bs_g_beauty_d_sccl_6/134-7866026-8219843?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 57,

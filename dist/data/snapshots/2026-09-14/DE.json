@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-03T07:28:26.757Z",
+  "collected_at_utc": "2026-10-03T07:43:55.253Z",
   "market_code": "DE",
   "complete": true,
   "checked_ranks": 100,
@@ -27,7 +27,7 @@
       "title": "by Amazon Sensitive Handseife Nachfüllpack, 2 x 1000 ml",
       "url": "https://www.amazon.de/Amazon-Sensitive-Handseife-Nachf%C3%BCllpack-1000/dp/B0CS68SFRB/ref=zg_bs_g_beauty_d_sccl_3/700-2610445-5054119?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 4,
@@ -179,7 +179,7 @@
       "title": "by Amazon Wattepads, doppelte Textur, 100% Baumwolle, 120 Pads",
       "url": "https://www.amazon.de/Amazon-Wattepads-doppelte-Textur-Baumwolle/dp/B0FH3SR2RG/ref=zg_bs_g_beauty_d_sccl_22/700-2610445-5054119?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 23,
@@ -219,7 +219,7 @@
       "title": "by Amazon Wattestäbchen, 100% Baumwolle, 200 Stück",
       "url": "https://www.amazon.de/Amazon-Wattest%C3%A4bchen-100-Baumwolle-St%C3%BCck/dp/B0FPDB8ZGS/ref=zg_bs_g_beauty_d_sccl_27/700-2610445-5054119?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 28,
@@ -275,7 +275,7 @@
       "title": "by Amazon Vanille und Kokosnuss Duschgel, 2 x 500ml",
       "url": "https://www.amazon.de/Amazon-Duschgel-Vanille-Kokosnuss-2er-Pack/dp/B0996HN6Q9/ref=zg_bs_g_beauty_d_sccl_34/700-2610445-5054119?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 35,
@@ -475,7 +475,7 @@
       "title": "by Amazon Sensitive Handseife, 4 x 500 ml",
       "url": "https://www.amazon.de/Amazon-Sensitive-Handseife-500/dp/B0CS623NCL/ref=zg_bs_g_beauty_d_sccl_9/700-2610445-5054119?psc=1",
       "canonical_brand": null,
-      "brand": "Amazon"
+      "brand": "Amazon PB"
     },
     {
       "rank": 60,
