@@ -1,9 +1,8 @@
-﻿{
-    "date":  "2026-10-07",
-    "sent_at_utc":  "2026-10-06T23:37:54.3980868Z",
-    "source":  "C:\\Users\\allwi\\OneDrive\\Desktop\\새 폴더 (2)\\아마존랭킹트래킹\\daily-brief\\amazon-kbeauty-2026-10-07.txt",
-    "message_ids":  [
-                        99,
-                        100
-                    ]
+{
+  "date": "2026-10-07",
+  "sent_at_utc": "2026-10-06T23:37:54.3980868Z",
+  "message_ids": [
+    99,
+    100
+  ]
 }
