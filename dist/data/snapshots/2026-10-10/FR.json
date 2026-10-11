@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-09T19:34:23.680Z",
+  "collected_at_utc": "2026-10-09T22:13:55.037Z",
   "market_code": "FR",
   "complete": true,
   "checked_ranks": 100,
@@ -679,19 +679,19 @@
     },
     {
       "rank": 85,
-      "asin": "B06XZQCNS9",
-      "title": "PODERM - MYCOSIS NAIL TREATMENT 2in1 | With exceptional powerful antifungal and repairing plants | Professional foot care | Easy & fast | Swiss Made",
-      "url": "https://www.amazon.fr/dp/B06XZQCNS9",
-      "canonical_brand": null,
-      "brand": "PODERM"
-    },
-    {
-      "rank": 86,
       "asin": "B07C5XYT19",
       "title": "CeraVe - Moisturizing Face Cream, Normal to Dry Skin, 24h Hydration and Skin Protection with MME Technology, Hyaluronic Acid and Niacinamide, and Ceramides.",
       "url": "https://www.amazon.fr/dp/B07C5XYT19",
       "canonical_brand": null,
       "brand": "CeraVe"
+    },
+    {
+      "rank": 86,
+      "asin": "B06XZQCNS9",
+      "title": "PODERM - MYCOSIS NAIL TREATMENT 2in1 | With exceptional powerful antifungal and repairing plants | Professional foot care | Easy & fast | Swiss Made",
+      "url": "https://www.amazon.fr/dp/B06XZQCNS9",
+      "canonical_brand": null,
+      "brand": "PODERM"
     },
     {
       "rank": 87,

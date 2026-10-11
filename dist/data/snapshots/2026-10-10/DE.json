@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-10-09T19:34:23.679Z",
+  "collected_at_utc": "2026-10-09T22:13:55.035Z",
   "market_code": "DE",
   "complete": true,
   "checked_ranks": 100,
@@ -407,19 +407,19 @@
     },
     {
       "rank": 51,
-      "asin": "B01N5QC1CL",
-      "title": "M.Asam Magic Finish, 30 ml | 4-in-1 primer, make-up, powder & concealer, concealed, balances, beautifies and perfected, for light to medium skin",
-      "url": "https://www.amazon.de/dp/B01N5QC1CL",
-      "canonical_brand": null,
-      "brand": "M. Asam"
-    },
-    {
-      "rank": 52,
       "asin": "B093VK76NH",
       "title": "KIKO Milano 3D Hydra Lip Gloss - Shade 32 Pearly Natural Rose | Moisturising | 3D volume effect | non sticky | flocked applicator | long-lasting",
       "url": "https://www.amazon.de/dp/B093VK76NH",
       "canonical_brand": null,
       "brand": "KIKO Milano"
+    },
+    {
+      "rank": 52,
+      "asin": "B01N5QC1CL",
+      "title": "M.Asam Magic Finish, 30 ml | 4-in-1 primer, make-up, powder & concealer, concealed, balances, beautifies and perfected, for light to medium skin",
+      "url": "https://www.amazon.de/dp/B01N5QC1CL",
+      "canonical_brand": null,
+      "brand": "M. Asam"
     },
     {
       "rank": 53,
@@ -431,19 +431,19 @@
     },
     {
       "rank": 54,
-      "asin": "B0DGPSZVW3",
-      "title": "medicube Jelly Cream with Collagen & Niacinamide 50 ml | Freeze Dried Hydrolysed Collagen for Skin Barrier, 24H Glow & Firm Skin, Korean Skin Care, 50ml",
-      "url": "https://www.amazon.de/dp/B0DGPSZVW3",
-      "canonical_brand": "메디큐브",
-      "brand": "메디큐브"
-    },
-    {
-      "rank": 55,
       "asin": "B0FJLNLKSJ",
       "title": "d'alba Piedmont White Truffle Intensive The Real Eye Pads (Pack of 68) | Against bags and dark circles, anti-ageing, moisturising, brightening, Korean skin care",
       "url": "https://www.amazon.de/dp/B0FJLNLKSJ",
       "canonical_brand": "달바",
       "brand": "달바"
+    },
+    {
+      "rank": 55,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Jelly Cream with Collagen & Niacinamide 50 ml | Freeze Dried Hydrolysed Collagen for Skin Barrier, 24H Glow & Firm Skin, Korean Skin Care, 50ml",
+      "url": "https://www.amazon.de/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
       "rank": 56,
@@ -937,19 +937,19 @@
     },
     {
       "rank": 54,
-      "asin": "B0DGPSZVW3",
-      "title": "medicube Jelly Cream with Collagen & Niacinamide 50 ml | Freeze Dried Hydrolysed Collagen for Skin Barrier, 24H Glow & Firm Skin, Korean Skin Care, 50ml",
-      "url": "https://www.amazon.de/dp/B0DGPSZVW3",
-      "canonical_brand": "메디큐브",
-      "brand": "메디큐브"
-    },
-    {
-      "rank": 55,
       "asin": "B0FJLNLKSJ",
       "title": "d'alba Piedmont White Truffle Intensive The Real Eye Pads (Pack of 68) | Against bags and dark circles, anti-ageing, moisturising, brightening, Korean skin care",
       "url": "https://www.amazon.de/dp/B0FJLNLKSJ",
       "canonical_brand": "달바",
       "brand": "달바"
+    },
+    {
+      "rank": 55,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Jelly Cream with Collagen & Niacinamide 50 ml | Freeze Dried Hydrolysed Collagen for Skin Barrier, 24H Glow & Firm Skin, Korean Skin Care, 50ml",
+      "url": "https://www.amazon.de/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
       "rank": 57,
