@@ -1,0 +1,987 @@
+{
+  "collected_at_utc": "2026-10-28T20:34:07.463Z",
+  "market_code": "ES",
+  "complete": true,
+  "checked_ranks": 100,
+  "all_products_complete": true,
+  "all_products": [
+    {
+      "rank": 1,
+      "asin": "B0DK4Y2YP3",
+      "title": "Celimax The Vita A Retinal Shot Tightening Booster, 15ml | 0.1% Retinal, 3% Matryxyl, High Potency Retinoid, Anti-Aging, Pore Minimizer, Fine Lines, Skin Firmness",
+      "url": "https://www.amazon.es/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 2,
+      "asin": "B09SZ5JX2Y",
+      "title": "d'alba Piedmont Truffle White Double Serum All-in-one Multi Balm | Vegan Skin Care, 3 in 1 Treatment, Wrinkle Balm, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B09SZ5JX2Y",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA | Niacinamide Peptide Serum for Hydration and Firmer Looking Skin, Improves Skin Tone, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 4,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Truffle White Italian First Spray Serum (100 ml) | Vegan Skincare, Moisturizing Face Mist, Multifunctional Spray, For All Skin Types, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 5,
+      "asin": "B00ST2GSRK",
+      "title": "La Roche-Posay, Cicaplast Baume B5+ Soothing Repair Balm, 40 ml | Ultra-repairing balm, irritated or fragilized skin; with Madecassoside, soothing agent derived from Centella Asiatica",
+      "url": "https://www.amazon.es/dp/B00ST2GSRK",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 6,
+      "asin": "B00M9B66BU",
+      "title": "REVLON PROFESSIONAL UniqOne All in One Thermal Hair Protector, Deep Hydration Hair, Spray Treatment Without Rinse, Detangler Hair Women, Fragrance Classic 150 ml",
+      "url": "https://www.amazon.es/dp/B00M9B66BU",
+      "canonical_brand": null,
+      "brand": "REVLON PROFESSIONAL"
+    },
+    {
+      "rank": 7,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick | PDRN & Collagen Multi-Purpose Balm Stick for Face, Eyes and Neck, Volumizing and Firming Effect, Korean Cosmetics",
+      "url": "https://www.amazon.es/dp/B0GHMZXX8Y",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 8,
+      "asin": "B0FHBJXX9M",
+      "title": "Erborian - CC Crème con Centella Asiática - Crema Facial Iluminadora de Alta Definición y Maquillaje - Protección Solar SPF 30 - Cosmética Coreana",
+      "url": "https://www.amazon.es/dp/B0FHBJXX9M",
+      "canonical_brand": null,
+      "brand": "Erborian"
+    },
+    {
+      "rank": 9,
+      "asin": "B0B7RQ46LD",
+      "title": "CeraVe - Blemish Control, Gel Limpiador para Acné y Piel Grasa, Reduce el Acné, Puntos Negros y Mejora los Poros, Tratamiento en Gel con Ácido Salicílico, 473 ml",
+      "url": "https://www.amazon.es/dp/B0B7RQ46LD",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 10,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Collagen Jelly Cream | Facial Cream with Hydrolyzed Collagen, Hydration and Glow 24 Hours, Fuller and Firmer Skin, 50 ml",
+      "url": "https://www.amazon.es/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 11,
+      "asin": "B07C5XYT19",
+      "title": "CeraVe, Cerave Face Moisturizing Lotion, Night Moisturizer, 53 ml | Hydrates and helps restore the protective barrier of the face with ultra-light texture designed to repair.",
+      "url": "https://www.amazon.es/dp/B07C5XYT19",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 12,
+      "asin": "B09V7Z4TJG",
+      "title": "Medicube Toner Pads Zero Pore Pad 2.0 | Dual Texture Toning Pads for Exfoliation and Pores with AHA and BHA, All Skin Types, Korean Cosmetics, 70 Discs",
+      "url": "https://www.amazon.es/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 13,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides | 99% Retinol for Fine Lines, PDRN & Niacinamide for Irregular Skin Tone, Korean Cosmetics, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 14,
+      "asin": "B087R9HVRR",
+      "title": "Alpecin Caffeine Shampoo C1 2x 375ml | Anti-Hair Loss Shampoo for Men and Caffeine | Treatment for Hair Loss | Alpecin Shampoo Anti Hair Loss Treatment Men",
+      "url": "https://www.amazon.es/dp/B087R9HVRR",
+      "canonical_brand": null,
+      "brand": "Alpecin"
+    },
+    {
+      "rank": 15,
+      "asin": "B0DCFP3Z14",
+      "title": "Philips OneBlade 360 Authentic Electric Beard Trimmer and Shaver, 2 x 360 Blades, 3 x Fledgling Beard Combs (1.3.5 in), QP2724/31",
+      "url": "https://www.amazon.es/dp/B0DCFP3Z14",
+      "canonical_brand": null,
+      "brand": "Philips"
+    },
+    {
+      "rank": 16,
+      "asin": "B08P4YPB8Q",
+      "title": "Maybelline New York Lash Sensational Sky High Volume and Length, Black | Flexible Brush, Limit Length, Redefined Volume, Defined Eyelashes, Daily Use, Lash Sensational Sky High",
+      "url": "https://www.amazon.es/dp/B08P4YPB8Q",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
+    {
+      "rank": 17,
+      "asin": "B0DFY92NDB",
+      "title": "CENTELLIAN 24 Madeca Time Reverse Cream (50ml) - Nourishing and Fast Absorption, Hydrates, Firms and Reduces Wrinkles, Low Irritation, Korean Skin Care",
+      "url": "https://www.amazon.es/dp/B0DFY92NDB",
+      "canonical_brand": "센텔리안24",
+      "brand": "센텔리안24"
+    },
+    {
+      "rank": 18,
+      "asin": "B07PK2P2XB",
+      "title": "Dr.Althea 345 Relief Cream | Face Moisturizer for Soothing Recovery and Blemish Care with PDRN & Niacinamide | Korean Vegan Skin Care for All Skin Types, 50ml (50ml, Unscented, Pack of 1)",
+      "url": "https://www.amazon.es/dp/B07PK2P2XB",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 19,
+      "asin": "B0B2912ZZ5",
+      "title": "Iroha Nature - Pimple Patches with Salicylic Acid, Tea Tree & Centella | Tea Tree, Centella Asiatica, Hydrocolloid, Acting in 8 Hours, Vegan, Combination or Oily Skin",
+      "url": "https://www.amazon.es/dp/B0B2912ZZ5",
+      "canonical_brand": null,
+      "brand": "Iroha Nature"
+    },
+    {
+      "rank": 20,
+      "asin": "B0GCC2JV65",
+      "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptides and Collagen, Reduces Signs of Aging, Improves Elasticity and Pores, Korean Cosmetics, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0GCC2JV65",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DTKCN3Z4",
+      "title": "Medicube Capsule Cream with Salmon DNA PDRN Pink Collagen | Lightweight Moisturizing Cream with PDRN and Niacinamide, Improves Skin Tone and Texture, Glow Hydration, Korean Cosmetics",
+      "url": "https://www.amazon.es/dp/B0DTKCN3Z4",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 22,
+      "asin": "B083JKPCFB",
+      "title": "Kérastase, Genesis, Anti-Hair Loss Serum, Fortifying, Activator and Daily Strengthener, For Weak or Fragile Hair, Anti-Chute Fortifiant Serum, 3 fl oz",
+      "url": "https://www.amazon.es/dp/B083JKPCFB",
+      "canonical_brand": null,
+      "brand": "Kérastase"
+    },
+    {
+      "rank": 23,
+      "asin": "B00WN2BY7G",
+      "title": "Vichy, Dercos Technique, Anti-Dandruff Shampoo, For Oily Hair, 390 ml | Double effectiveness against adherent dandruff and its reappearance; reduces itching and purifies the scalp.",
+      "url": "https://www.amazon.es/dp/B00WN2BY7G",
+      "canonical_brand": null,
+      "brand": "Vichy"
+    },
+    {
+      "rank": 24,
+      "asin": "B0D1G7XF9X",
+      "title": "Medicube Zero Pore Blackhead Mud Facial Mask | Refreshing Korean Mud Mask, Pore Firming, Quick Formula 3 Minute with AHA, BHA, PHA and Clay 100g",
+      "url": "https://www.amazon.es/dp/B0D1G7XF9X",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 25,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask - Hydrating Night Mask, Minimizes Pores and Improves Elasticity - Deep Hydration Facial Mask with Collagen - 34g x 4 Units",
+      "url": "https://www.amazon.es/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 26,
+      "asin": "B01MF9YDQN",
+      "title": "Neutrogena, Hydro Boost Water Gel, Normal to Combination Skins, Long-Lasting Non-Oily Hydration, with Hyaluronic Acid and Trehalose of Naturally Origin, Developed with Dermatologists, 50 ml | Con Ácido Hialurónico y Aminoácidos, 72h de Hidratación, Oil-Free, No Comedogénico, Piel Normal/ Mixta y Sensible",
+      "url": "https://www.amazon.es/dp/B01MF9YDQN",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 27,
+      "asin": "B0CB2W9DSN",
+      "title": "immetee Washable Fake Blood Gel, Fake Blood Halloween Makeup Special Effects, Sfx Fake Blood For Skin and Clothing.55g",
+      "url": "https://www.amazon.es/dp/B0CB2W9DSN",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 28,
+      "asin": "B00KLXFUW4",
+      "title": "Maybelline New York Instant Anti-Age Eye Concealer, 01 Light | Multi-purpose Concealer, Modulable Coverage, Enriched with Goji Berries and Haloxyl, Finish and Hydrate, Instant Anti-Age",
+      "url": "https://www.amazon.es/dp/B00KLXFUW4",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
+    {
+      "rank": 29,
+      "asin": "B07BYMJMJZ",
+      "title": "Kanzy Rosehip Oil 120ml Cold Pressed Unrefined Rosehip Oil for Scars and Stretch Marks, Used as Moisturizer for Body and Skin",
+      "url": "https://www.amazon.es/dp/B07BYMJMJZ",
+      "canonical_brand": null,
+      "brand": "Kanzy"
+    },
+    {
+      "rank": 30,
+      "asin": "B0CNQ4DJRV",
+      "title": "L'Oréal Paris Infaillible Makeup Setting Spray Up to 36 Hours, 75 ml | Hold up to 36 hours, helps maintain makeup, vegan formula, daily use, infaillible setting spray",
+      "url": "https://www.amazon.es/dp/B0CNQ4DJRV",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 31,
+      "asin": "B0CV5J2ZZJ",
+      "title": "Green Hair Lacquer 125 ml – Spray Colours for Fast Hair Colouring, Washable",
+      "url": "https://www.amazon.es/dp/B0CV5J2ZZJ",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 32,
+      "asin": "B0D1GS929J",
+      "title": "Professional Halloween Makeup, 3 Colours, 20 g, Children and Adults | Reaches for about 30 faces - black, red and white with three sponges and a brush included",
+      "url": "https://www.amazon.es/dp/B0D1GS929J",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 33,
+      "asin": "B071914GGL",
+      "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Tónico Exfoliante con Ácido Glicólico, Tónico diario iluminador y suavizante para un tono de piel más uniforme",
+      "url": "https://www.amazon.es/dp/B071914GGL",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 34,
+      "asin": "B09D7QJP1M",
+      "title": "d'alba Waterfull SPF50+PA++++ Italian White Truffle, Tinted Sun Cream with | with UV Filters, Vegan, Illuminating Sunscreen, Korean Skincare, Daily Use (50ml)",
+      "url": "https://www.amazon.es/dp/B09D7QJP1M",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 35,
+      "asin": "B0CGJLC8G9",
+      "title": "La Roche-Posay, Effaclar Duo+M, Triple Correcting Cream Gel, 40 ml | Triple anti-pimple concealer care for oily and acne-prone skin, enhanced with microbiome science.",
+      "url": "https://www.amazon.es/dp/B0CGJLC8G9",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 36,
+      "asin": "B07KXVYL62",
+      "title": "Cantabria Labs - Iraltone AGA Plus - 60 Capsules - Formulated to Address Severe Chronic Hair Loss - Strengthens Hair - Gluten & Lactose Free",
+      "url": "https://www.amazon.es/dp/B07KXVYL62",
+      "canonical_brand": null,
+      "brand": "Cantabria Labs"
+    },
+    {
+      "rank": 37,
+      "asin": "B089BNVYKW",
+      "title": "Just For Men Gel Dye Moreno M45 | Beard / Mustache Gel - Removes Gray Hair in 5 Mins - Dense Look - Ammonia Free - Long Lasting Dye for Dark Hair",
+      "url": "https://www.amazon.es/dp/B089BNVYKW",
+      "canonical_brand": null,
+      "brand": "Just For Men"
+    },
+    {
+      "rank": 38,
+      "asin": "B08J4NMBL2",
+      "title": "Braun Mini Facial Epilator for Women FS1000, White | with Built-in Smartlight Light, Precision Shaver, Upper Lip, Chin & Cheek Hair Removal",
+      "url": "https://www.amazon.es/dp/B08J4NMBL2",
+      "canonical_brand": null,
+      "brand": "Braun"
+    },
+    {
+      "rank": 39,
+      "asin": "B017WK9A3I",
+      "title": "Tulip Black Bath Gel Strawberry & Cream, 22 fl oz | Nourishing and Moisturizing Shower Gel with Strawberry Extract and Cream Fragrance for Soft, Scented Skin",
+      "url": "https://www.amazon.es/dp/B017WK9A3I",
+      "canonical_brand": null,
+      "brand": "Tulip"
+    },
+    {
+      "rank": 40,
+      "asin": "B00X9WCH9S",
+      "title": "L'Oréal Paris Elvive Extraordinary Oil Multi-Purpose Nourishing Serum, 100 ml | Sérum Enriquecido Con Aceites de Camellia y Marula, para Pelo Seco, Aporta Brillo, Hidratación Profunda, Nutre sin Apelmazar",
+      "url": "https://www.amazon.es/dp/B00X9WCH9S",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 41,
+      "asin": "B094TYNC9T",
+      "title": "L'Oréal Paris Revitalift Filler Day Nº1 Moisturizing Cream with SPF 50, 50 | Hyaluronic Acid, Moisturizing Cream with Facial Sunscreen, Fills and Reduces Wrinkles, Light Texture, Revitalift Filler",
+      "url": "https://www.amazon.es/dp/B094TYNC9T",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 42,
+      "asin": "B0F32ZKF6P",
+      "title": "Dove Dragon Fruit Face Body Hand Soap Bar 90g",
+      "url": "https://www.amazon.es/dp/B0F32ZKF6P",
+      "canonical_brand": null,
+      "brand": "Dove"
+    },
+    {
+      "rank": 43,
+      "asin": "B06Y5P4Z5M",
+      "title": "LANCASTER UAE DE Lancaster – Deodorant Cream for Men and Women – For All Skin Types – 125 ml",
+      "url": "https://www.amazon.es/dp/B06Y5P4Z5M",
+      "canonical_brand": null,
+      "brand": "Lancaster"
+    },
+    {
+      "rank": 44,
+      "asin": "B0F2TQW9QD",
+      "title": "BIONOBLE Rosemary Oil for Hair Bio, Pure - Growth - 50 ml | 100% Natural Origin - Rosemary Oil Hair Growth, Castor, Argan, Jojoba - Rosemary Oil Vegan Hair - Glass Bottle, Pipette",
+      "url": "https://www.amazon.es/dp/B0F2TQW9QD",
+      "canonical_brand": null,
+      "brand": "BIONOBLE"
+    },
+    {
+      "rank": 45,
+      "asin": "B004SBLR4U",
+      "title": "Vichy Champú Anticaída, Efecto Estimulante, Apto Para Todo Tipo de Cabello, Cuero Cabelludo Sano y Detoxificado, Con Aminexil, Energy+, Dercos Technique",
+      "url": "https://www.amazon.es/dp/B004SBLR4U",
+      "canonical_brand": null,
+      "brand": "Vichy"
+    },
+    {
+      "rank": 46,
+      "asin": "B07C5XD33D",
+      "title": "Foaming Cleansing Gel 236 ml",
+      "url": "https://www.amazon.es/dp/B07C5XD33D",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 47,
+      "asin": "B07M8J529S",
+      "title": "Philips Electric Lint Remover, Blade 8800RPM, 3 Mesh Sizes, Black | For all types of garments, 3 blades, compact electric ball remover, easy to empty tank, 2 AA batteries (GC026/80)",
+      "url": "https://www.amazon.es/dp/B07M8J529S",
+      "canonical_brand": null,
+      "brand": "Philips"
+    },
+    {
+      "rank": 48,
+      "asin": "B0GP648128",
+      "title": "Dr.Althea Melaclear Cream | Helps to Unify Skin Tone with Niacinamide and Tranexamic Acid (TXA) | Moisturizing Face Cream for Dark Spot Care and Hyperpigmentation | Cosmetics v",
+      "url": "https://www.amazon.es/dp/B0GP648128",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 49,
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Collagen Peptide Eye Patches, Anti-Wrinkle for Expression Lines and Bags, Eye Contour, Korean Skin Care (60 Pcs)",
+      "url": "https://www.amazon.es/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 50,
+      "asin": "B08B21PRLM",
+      "title": "L'Oréal Paris Revitalift Filler Hyaluronic Acid and PDRN Facial Serum, 1 fl oz | Ácido Hialurónico y PDRN, Rellena Arrugas Profundas en 1H, Hidratación Intensa 48H e Ilumina al Instante, Revitalift Filler",
+      "url": "https://www.amazon.es/dp/B08B21PRLM",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 51,
+      "asin": "B07PZ2H67L",
+      "title": "Beter - Natural Fiber Anti-Pull Skeleton Hair Brush Made of Wheat Fibers, Detangling Hair Brush, Anti-Tangle and Anti-Breakage Brush, Soft and No Pull, For All Hair Types",
+      "url": "https://www.amazon.es/dp/B07PZ2H67L",
+      "canonical_brand": null,
+      "brand": "Beter"
+    },
+    {
+      "rank": 52,
+      "asin": "B082DDM32Y",
+      "title": "Cecotec Bamba PrecisionCare Wet&Dry Hair Clipper. Stainless Steel Blades with Titanium Coating, Lithium Battery, Autonomy up to 120 min, Lengths 0.5-30 mm, 8 Combs",
+      "url": "https://www.amazon.es/dp/B082DDM32Y",
+      "canonical_brand": null,
+      "brand": "Cecotec"
+    },
+    {
+      "rank": 53,
+      "asin": "B072DXLHFS",
+      "title": "BELLA AURORA CC Cream Anti-Stain SPF50+ Medium Tone Cream 1 fl oz | Protects, depigments, evens · SPF50+ UVA, UVB, IR and HEV · Immediate good face effect · Water resistant",
+      "url": "https://www.amazon.es/dp/B072DXLHFS",
+      "canonical_brand": null,
+      "brand": "BELLA AURORA"
+    },
+    {
+      "rank": 54,
+      "asin": "B0FJM3MZ9T",
+      "title": "Philips Body Shaver series 3000 - Male epilator with protection system, Trims and depiles intimate areas, Soft and close shaving, 100% waterproof, 80 min. of autonomy, BG3480/15.",
+      "url": "https://www.amazon.es/dp/B0FJM3MZ9T",
+      "canonical_brand": null,
+      "brand": "Philips"
+    },
+    {
+      "rank": 55,
+      "asin": "B019OO1R0Y",
+      "title": "Ziaja Goat Milk Hair Mask 200Ml 236g",
+      "url": "https://www.amazon.es/dp/B019OO1R0Y",
+      "canonical_brand": null,
+      "brand": "Ziaja"
+    },
+    {
+      "rank": 56,
+      "asin": "B07ZRR8LJF",
+      "title": "Cecotec Bamba IoniCare 5200 Aura Black Ionic Hair Dryer. 2300W, Concentrator and Diffuser, Frizz Free Hair, DC Motor, Real Ion, High Air Flow, 2 Speeds and 3 Temperatures",
+      "url": "https://www.amazon.es/dp/B07ZRR8LJF",
+      "canonical_brand": null,
+      "brand": "Cecotec"
+    },
+    {
+      "rank": 57,
+      "asin": "B0DVLG7GD1",
+      "title": "CeraVe Gel Limpiador Espumoso, Para Piel Normal a Grasa, Elimina el Exceso de Grasa y Suciedad, Enriquecido Con Ceramidas Esenciales, Niacinamida y Ácido Hialurónico, Apto para Rostro y Cuerpo",
+      "url": "https://www.amazon.es/dp/B0DVLG7GD1",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 58,
+      "asin": "B09JPDXL7V",
+      "title": "ISDIN Lambdapil Anticaída (R) 5 Alfa Plus Cápsulas. Duración 2 a 4 meses. Complemento Alimenticio para la caída progresiva del cabello. Contiene Biotina, Zinc, Equisetum arvense y Serenoa repens",
+      "url": "https://www.amazon.es/dp/B09JPDXL7V",
+      "canonical_brand": null,
+      "brand": "ISDIN"
+    },
+    {
+      "rank": 59,
+      "asin": "B01MYEZPC8",
+      "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Hyaluronic Acid + B5 (with Ceramides), Multi-Dimensional Moisturizing Serum for Softer, Smoother Skin, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B01MYEZPC8",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 60,
+      "asin": "B0DGTMR754",
+      "title": "Medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen | Medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen",
+      "url": "https://www.amazon.es/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 61,
+      "asin": "B01MDOJGDK",
+      "title": "Neutrogena Hydro Boost Water Gel Facial Cleanser, 200 ml | With Hyaluronic Acid and Glycerin, Moisturizing, Non-Comedogenic, Gentle Makeup Remover, For All Skin Types, Daily Use",
+      "url": "https://www.amazon.es/dp/B01MDOJGDK",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 62,
+      "asin": "B084S5V22N",
+      "title": "VALQUER Oxygenated Water in Stabilized Cream 20 Volumes 6% | 1 L | Oxidizer for Permanent Hair Color and Bleaching | Vegan with Naturally Sourced Ingredients | Professional",
+      "url": "https://www.amazon.es/dp/B084S5V22N",
+      "canonical_brand": null,
+      "brand": "VALQUER"
+    },
+    {
+      "rank": 63,
+      "asin": "B0BQ6TBD3Z",
+      "title": "Ourmed Life Biodegradable Disposable Facial Wipes - Perfect for Cleaning, Skin Care and Makeup Removal, Suitable for Sensitive Skin - Disposable Face Towels (100 Unit)",
+      "url": "https://www.amazon.es/dp/B0BQ6TBD3Z",
+      "canonical_brand": null,
+      "brand": "Ourmed Life"
+    },
+    {
+      "rank": 64,
+      "asin": "B09XN22JBT",
+      "title": "CeraVe, Loción Hidratante de Rostro SPF 50, Para Piel Normal a Seca, Hidratación y Alta Protección Contra los Rayos UVB/UVA, Enriquecida con Ceramidas, 52ml",
+      "url": "https://www.amazon.es/dp/B09XN22JBT",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 65,
+      "asin": "B01AT9FI80",
+      "title": "khadi CASTANO HAZELNUT Vegetable hair dye - Hair dye for shiny hair with an intense chocolate color - Natural dye 100% certified natural cosmetics - 100 g",
+      "url": "https://www.amazon.es/dp/B01AT9FI80",
+      "canonical_brand": null,
+      "brand": "khadi"
+    },
+    {
+      "rank": 66,
+      "asin": "B0DWFSJ9Y4",
+      "title": "L'Oréal Paris Elvive Growth Booster Anti-Hair Loss Treatment Serum, 100 ml | Formulated with Aminexil-R™, Stimulates Hair Growth, Strengthens and Increases Hair Density, Clinically Tested",
+      "url": "https://www.amazon.es/dp/B0DWFSJ9Y4",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 67,
+      "asin": "B01BHPM36K",
+      "title": "Moisturizing Eye Drops 0,2Ha 10 Ml",
+      "url": "https://www.amazon.es/dp/B01BHPM36K",
+      "canonical_brand": null,
+      "brand": "Senti2"
+    },
+    {
+      "rank": 68,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Hydrates and Firms, Helps Improve Skin Firmness and Radiance with Hydrolyzed Collagen, Korean Cosmetics, 2.5 fl oz",
+      "url": "https://www.amazon.es/dp/B0BRMYHMS5",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 69,
+      "asin": "B0866V21WT",
+      "title": "La Roche Posay Gel Purificante Micro-Exfoliante, Anti-Imperfecciones, Limpia y Exfolia, Enriquecido con Ácido Salicílico, Para Pieles con Acné, Effaclar",
+      "url": "https://www.amazon.es/dp/B0866V21WT",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 70,
+      "asin": "B0007506U2",
+      "title": "Catwalk by TIGI Curls Rock Amplifier, Styling Cream, 150 ml | Anti-Frizz Moisturizing Definer for Natural Curly & Wavy Hair, Power Shine & Body",
+      "url": "https://www.amazon.es/dp/B0007506U2",
+      "canonical_brand": null,
+      "brand": "Catwalk by TIGI"
+    },
+    {
+      "rank": 71,
+      "asin": "B0D62G6NLV",
+      "title": "77 Sheets Temporary Tattoos, Fake Tattoos Chicanos Guadeloupe Gangster Prisoner Day of the Dead, Culture Lowrider Mexico Clown Fake Tattoo for Men Women Adults",
+      "url": "https://www.amazon.es/dp/B0D62G6NLV",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 72,
+      "asin": "B0DX122DHW",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive Skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30 ml/ 30 ml.)",
+      "url": "https://www.amazon.es/dp/B0DX122DHW",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 73,
+      "asin": "B0FB3H5G4Z",
+      "title": "Tulip Black Bath Gel Jasmine Musk, 22 fl oz | Nourishing and Moisturizing Shower Gel with Floral Fragrance and Musk Jasmine Musk for Smooth Skin",
+      "url": "https://www.amazon.es/dp/B0FB3H5G4Z",
+      "canonical_brand": null,
+      "brand": "Tulip"
+    },
+    {
+      "rank": 74,
+      "asin": "B07C5T3DKW",
+      "title": "CeraVe Crema regeneradora de ojos, reduce las ojeras y la hinchazón, con 3 ceramidas esenciales y hialuron, 14 ml | Reduce visiblemente bolsas y ojeras mientras hidrata, aporta luminosidad y restaura la barrera protectora.",
+      "url": "https://www.amazon.es/dp/B07C5T3DKW",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 75,
+      "asin": "B08CFSS35N",
+      "title": "Rimmel London Lasting Finish Lip Liner, Lip Liner, Shade 705 - 1.2 g",
+      "url": "https://www.amazon.es/dp/B08CFSS35N",
+      "canonical_brand": null,
+      "brand": "Rimmel London"
+    },
+    {
+      "rank": 76,
+      "asin": "B09697WX16",
+      "title": "Just For Men Control GX Anti-Anticana Shampoo 4 fl oz | Gradually reduces gray hair with each use, for all shades and gives a natural look. Packaging received may vary.",
+      "url": "https://www.amazon.es/dp/B09697WX16",
+      "canonical_brand": null,
+      "brand": "Just For Men"
+    },
+    {
+      "rank": 77,
+      "asin": "B06XDS7J69",
+      "title": "L'Oréal Paris Revitalift Laser Cream SPF25 Nº1 Anti-Aging and Anti-Stain | Pro Retinol, Hyaluronic Acid and Vitamin Cg, Helps Firm, Reduces Wrinkles and Dark Spots, Triple Laser Radiant Skin",
+      "url": "https://www.amazon.es/dp/B06XDS7J69",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 78,
+      "asin": "B0761W9JBZ",
+      "title": "Neutrogena Norway Formula Pack Lip Balm SPF 20, 0.2 oz, 2 pcs | For Chapped Lips, UVA/UVB Protection, Repairs, Moisturizes and Soothes, With Cocoa Butter, Colorless Application, Stick",
+      "url": "https://www.amazon.es/dp/B0761W9JBZ",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 79,
+      "asin": "B0CD4421TM",
+      "title": "Halloween Makeup Kit Black and White - Halloween Makeup Paint 100g | Face Paint and Body Halloween Makeup for Children Adult, Face Paint Body Painting for Theatrical Party Cosplay",
+      "url": "https://www.amazon.es/dp/B0CD4421TM",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 80,
+      "asin": "B0CVXRFT15",
+      "title": "Philips OneBlade Original 360 Blades, Compatible with All OneBlade and Pro Handles, 3 Pack (Model QP430/60)",
+      "url": "https://www.amazon.es/dp/B0CVXRFT15",
+      "canonical_brand": null,
+      "brand": "Philips"
+    },
+    {
+      "rank": 81,
+      "asin": "B083JJHLT4",
+      "title": "Kérastase Genesis Hydra-Fortifiant Professional Anti-Hair Loss Shampoo 250 | Professional moisturizing shampoo that strengthens the hair fiber, reduces hair loss and makes it more resistant.",
+      "url": "https://www.amazon.es/dp/B083JJHLT4",
+      "canonical_brand": null,
+      "brand": "Kérastase"
+    },
+    {
+      "rank": 82,
+      "asin": "B09NN88V83",
+      "title": "d'alba Piedmont Truffle White Italian Double Serum and Cream (70g) | Vegan Cream, 2 in 1 Care, Elasticity and Nutrition, For All Skin Types, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B09NN88V83",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 83,
+      "asin": "B07C5XPXDC",
+      "title": "CeraVe, Hydrating Cleanser, Moisturizing Cream Cleansing Gel, 16 fl oz | Cleanses and moisturizes for 24 hours respecting the skin's protective barrier. Prolonged hydration throughout the day",
+      "url": "https://www.amazon.es/dp/B07C5XPXDC",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 84,
+      "asin": "B0CSSN8GZF",
+      "title": "Lictin Face and Body Paints-18Colors+5Brushes+5stencils | Face Paint Body Safe and Healthy Washable Face Paint for Art Halloween Party, Birthday, Great Gift",
+      "url": "https://www.amazon.es/dp/B0CSSN8GZF",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 85,
+      "asin": "B077N513Z1",
+      "title": "Maybelline New York SuperStay Matte Ink Long Lasting 65 Seductres | Lipstick, Highly Pigmented Color, Liquid Matt, Vegan Formula, Daily Use, SuperStay Matte Ink",
+      "url": "https://www.amazon.es/dp/B077N513Z1",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
+    {
+      "rank": 86,
+      "asin": "B09BD7L35V",
+      "title": "Garnier Sérum Anti Manchas con Vitamina C, Niacinamida y Ácido Salicílico | 4% Niacinamide, Vitamin C, Salicylic Acid and Melasyl, Reduces 70% Dark Spots, Evens Tone and Brightens in 3 Days",
+      "url": "https://www.amazon.es/dp/B09BD7L35V",
+      "canonical_brand": null,
+      "brand": "Garnier"
+    },
+    {
+      "rank": 87,
+      "asin": "B0DHKSF81K",
+      "title": "Celimax Pore+Dark Spot Brightening Cream, 35 ml | Niacinamide, Tranexamic Acid, TXA Cream, Pore Minimizer, Moisturizer, Dark Spot Remover for Face",
+      "url": "https://www.amazon.es/dp/B0DHKSF81K",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 88,
+      "asin": "B008Z933UW",
+      "title": "SALERM - Instant Hair Conditioner - Salerm 21 Silk Protein - 100 ml - Rinse or Rinse Conditioner - with Silk Proteins - Heat Protector and Moisturizer",
+      "url": "https://www.amazon.es/dp/B008Z933UW",
+      "canonical_brand": null,
+      "brand": "SALERM"
+    },
+    {
+      "rank": 89,
+      "asin": "B000W9FS2Y",
+      "title": "REVLON Super Lustrous Lipstick, Creamy Lipstick, 720 FIRE & ICE | Revlon's iconic lipstick is the perfect combination of intense color in a super hydrating formula.",
+      "url": "https://www.amazon.es/dp/B000W9FS2Y",
+      "canonical_brand": null,
+      "brand": "Revlon"
+    },
+    {
+      "rank": 90,
+      "asin": "B09WDRFSLN",
+      "title": "La Roche-Posay, Effaclar H Iso-Biome, Moisturizing Day Cream, 40 ml | Hydrates and repairs fragilized skin by anti-acne treatments, rebalances the microbiome and reduces imperfections.",
+      "url": "https://www.amazon.es/dp/B09WDRFSLN",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 91,
+      "asin": "B097WL6QWT",
+      "title": "L'Oréal Paris Accord Parfait Color Serum, Light (2-3), 1 fl oz | Hyaluronic Acid*, Glycerin, Smoother, Brighter Skin, Natural Finish, Accord Parfait Serum",
+      "url": "https://www.amazon.es/dp/B097WL6QWT",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 92,
+      "asin": "B0BRKBSM7H",
+      "title": "SWEET VIEW Silk Bonnet, Soft and Comfortable Satin Sleep Cap, Black, Peacock Blue",
+      "url": "https://www.amazon.es/dp/B0BRKBSM7H",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 93,
+      "asin": "B0B2RX1W2C",
+      "title": "Flormar Extreme Tattoo Gel Pencil with Glitter - Waterproof Eye Pencil - High Pigmentation, Long Lasting, Waterproof - Eyeliner for Eye Makeup, 005 Very Berry",
+      "url": "https://www.amazon.es/dp/B0B2RX1W2C",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 94,
+      "asin": "B0DZNV1677",
+      "title": "Hanyousheng 4 Pieces Zigzag Comb with Shark Teeth Wavy Plastic Headband for Outdoor Activities Yoga Sports and Daily Hairstyle",
+      "url": "https://www.amazon.es/dp/B0DZNV1677",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 95,
+      "asin": "B0BBLZ2YBP",
+      "title": "The Ordinary Azelaic Acid Suspension 10%, Suspensión de Ácido Azelaico, Fórmula iluminadora para pieles irregulares y con tendencia a las imperfecciones, 30 ml",
+      "url": "https://www.amazon.es/dp/B0BBLZ2YBP",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 96,
+      "asin": "B00ILGA1KE",
+      "title": "Otostick | Cosmetic Concealer for Separate Ears | Contains 8 Correctors | Ages 3 and up.",
+      "url": "https://www.amazon.es/dp/B00ILGA1KE",
+      "canonical_brand": null,
+      "brand": "Otostick"
+    },
+    {
+      "rank": 97,
+      "asin": "B0CJ5GW8RY",
+      "title": "L'Oréal Paris Panorama Volumizing Mascara, Black | Panoramic Brush for 360º Volume, for All Types of Eyelashes, Up to 24 Hours of Duration, Volume Million Lashes",
+      "url": "https://www.amazon.es/dp/B0CJ5GW8RY",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 98,
+      "asin": "B0FT4HQPR5",
+      "title": "Gillette Fusion5 Men's Razor Blades, Pack of 4 | Replacement Razor Blades with 5 Blades and Lubricant Band, Compatible with Gillette Proglide and Fusion 5",
+      "url": "https://www.amazon.es/dp/B0FT4HQPR5",
+      "canonical_brand": null,
+      "brand": "Gillette"
+    },
+    {
+      "rank": 99,
+      "asin": "B0BZZJWGPQ",
+      "title": "Kérastase Nutritive Night Repair Serum for Dry Hair, Revitalizes, Nourishes and Repairs, With Anti-Dryness Niacinamide, 8H Magic Night Serum, 90 ml",
+      "url": "https://www.amazon.es/dp/B0BZZJWGPQ",
+      "canonical_brand": null,
+      "brand": "Kérastase"
+    },
+    {
+      "rank": 100,
+      "asin": "B009VZJD8K",
+      "title": "ZZ | Anti-lice | Hair Lotion for Lice and Nits Removal | With Permethrin | Integral Treatment | Children from 2 Years | 100 ml",
+      "url": "https://www.amazon.es/dp/B009VZJD8K",
+      "canonical_brand": null,
+      "brand": "ZZ"
+    }
+  ],
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B0DK4Y2YP3",
+      "title": "Celimax The Vita A Retinal Shot Tightening Booster, 15ml | 0.1% Retinal, 3% Matryxyl, High Potency Retinoid, Anti-Aging, Pore Minimizer, Fine Lines, Skin Firmness",
+      "url": "https://www.amazon.es/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 2,
+      "asin": "B09SZ5JX2Y",
+      "title": "d'alba Piedmont Truffle White Double Serum All-in-one Multi Balm | Vegan Skin Care, 3 in 1 Treatment, Wrinkle Balm, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B09SZ5JX2Y",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA | Niacinamide Peptide Serum for Hydration and Firmer Looking Skin, Improves Skin Tone, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 4,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Truffle White Italian First Spray Serum (100 ml) | Vegan Skincare, Moisturizing Face Mist, Multifunctional Spray, For All Skin Types, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 7,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Pink Collagen Volume Multi Balm Stick | PDRN & Collagen Multi-Purpose Balm Stick for Face, Eyes and Neck, Volumizing and Firming Effect, Korean Cosmetics",
+      "url": "https://www.amazon.es/dp/B0GHMZXX8Y",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 10,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Collagen Jelly Cream | Facial Cream with Hydrolyzed Collagen, Hydration and Glow 24 Hours, Fuller and Firmer Skin, 50 ml",
+      "url": "https://www.amazon.es/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 12,
+      "asin": "B09V7Z4TJG",
+      "title": "Medicube Toner Pads Zero Pore Pad 2.0 | Dual Texture Toning Pads for Exfoliation and Pores with AHA and BHA, All Skin Types, Korean Cosmetics, 70 Discs",
+      "url": "https://www.amazon.es/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 13,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN & Pink Peptides | 99% Retinol for Fine Lines, PDRN & Niacinamide for Irregular Skin Tone, Korean Cosmetics, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 17,
+      "asin": "B0DFY92NDB",
+      "title": "CENTELLIAN 24 Madeca Time Reverse Cream (50ml) - Nourishing and Fast Absorption, Hydrates, Firms and Reduces Wrinkles, Low Irritation, Korean Skin Care",
+      "url": "https://www.amazon.es/dp/B0DFY92NDB",
+      "canonical_brand": "센텔리안24",
+      "brand": "센텔리안24"
+    },
+    {
+      "rank": 18,
+      "asin": "B07PK2P2XB",
+      "title": "Dr.Althea 345 Relief Cream | Face Moisturizer for Soothing Recovery and Blemish Care with PDRN & Niacinamide | Korean Vegan Skin Care for All Skin Types, 50ml (50ml, Unscented, Pack of 1)",
+      "url": "https://www.amazon.es/dp/B07PK2P2XB",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 20,
+      "asin": "B0GCC2JV65",
+      "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with Peptides and Collagen, Reduces Signs of Aging, Improves Elasticity and Pores, Korean Cosmetics, 1 fl oz",
+      "url": "https://www.amazon.es/dp/B0GCC2JV65",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DTKCN3Z4",
+      "title": "Medicube Capsule Cream with Salmon DNA PDRN Pink Collagen | Lightweight Moisturizing Cream with PDRN and Niacinamide, Improves Skin Tone and Texture, Glow Hydration, Korean Cosmetics",
+      "url": "https://www.amazon.es/dp/B0DTKCN3Z4",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 24,
+      "asin": "B0D1G7XF9X",
+      "title": "Medicube Zero Pore Blackhead Mud Facial Mask | Refreshing Korean Mud Mask, Pore Firming, Quick Formula 3 Minute with AHA, BHA, PHA and Clay 100g",
+      "url": "https://www.amazon.es/dp/B0D1G7XF9X",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 25,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask - Hydrating Night Mask, Minimizes Pores and Improves Elasticity - Deep Hydration Facial Mask with Collagen - 34g x 4 Units",
+      "url": "https://www.amazon.es/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 34,
+      "asin": "B09D7QJP1M",
+      "title": "d'alba Waterfull SPF50+PA++++ Italian White Truffle, Tinted Sun Cream with | with UV Filters, Vegan, Illuminating Sunscreen, Korean Skincare, Daily Use (50ml)",
+      "url": "https://www.amazon.es/dp/B09D7QJP1M",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 48,
+      "asin": "B0GP648128",
+      "title": "Dr.Althea Melaclear Cream | Helps to Unify Skin Tone with Niacinamide and Tranexamic Acid (TXA) | Moisturizing Face Cream for Dark Spot Care and Hyperpigmentation | Cosmetics v",
+      "url": "https://www.amazon.es/dp/B0GP648128",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 49,
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Collagen Peptide Eye Patches, Anti-Wrinkle for Expression Lines and Bags, Eye Contour, Korean Skin Care (60 Pcs)",
+      "url": "https://www.amazon.es/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 60,
+      "asin": "B0DGTMR754",
+      "title": "Medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen | Medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen",
+      "url": "https://www.amazon.es/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 68,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Hydrates and Firms, Helps Improve Skin Firmness and Radiance with Hydrolyzed Collagen, Korean Cosmetics, 2.5 fl oz",
+      "url": "https://www.amazon.es/dp/B0BRMYHMS5",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 72,
+      "asin": "B0DX122DHW",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, Facial Serum for Sensitive Skin, Hyaluronic Acid, Niacinamide, Spot Care, Natural Color, Vegan, Korean Skincare (30 ml/ 30 ml.)",
+      "url": "https://www.amazon.es/dp/B0DX122DHW",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 82,
+      "asin": "B09NN88V83",
+      "title": "d'alba Piedmont Truffle White Italian Double Serum and Cream (70g) | Vegan Cream, 2 in 1 Care, Elasticity and Nutrition, For All Skin Types, Korean Skincare",
+      "url": "https://www.amazon.es/dp/B09NN88V83",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 87,
+      "asin": "B0DHKSF81K",
+      "title": "Celimax Pore+Dark Spot Brightening Cream, 35 ml | Niacinamide, Tranexamic Acid, TXA Cream, Pore Minimizer, Moisturizer, Dark Spot Remover for Face",
+      "url": "https://www.amazon.es/dp/B0DHKSF81K",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    }
+  ]
+}
