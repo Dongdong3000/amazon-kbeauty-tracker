@@ -82,7 +82,7 @@
       "asin": "B0C8224KK9",
       "title": "Hero Cosmetics Mighty Patch Invisible+ Day Button Patch",
       "url": "https://www.amazon.fr/dp/B0C8224KK9",
-      "canonical_brand": "Hero Cosmetics",
+      "canonical_brand": null,
       "brand": "Hero Cosmetics"
     },
     {
@@ -114,7 +114,7 @@
       "asin": "B0C81Z1SQH",
       "title": "Hero Cosmetics Mighty Patch Original Night Button Patches",
       "url": "https://www.amazon.fr/dp/B0C81Z1SQH",
-      "canonical_brand": "Hero Cosmetics",
+      "canonical_brand": null,
       "brand": "Hero Cosmetics"
     },
     {
@@ -208,14 +208,6 @@
       "brand": "메디큐브"
     },
     {
-      "rank": 61,
-      "asin": "B0C8224KK9",
-      "title": "Hero Cosmetics Mighty Patch Invisible+ Day Button Patch",
-      "url": "https://www.amazon.fr/dp/B0C8224KK9",
-      "canonical_brand": "Hero Cosmetics",
-      "brand": "Hero Cosmetics"
-    },
-    {
       "rank": 69,
       "asin": "B0DWMSM6Y9",
       "title": "medicube Salmon & Pink Peptides PDRN DNA Eye Contour Serum",
@@ -238,14 +230,6 @@
       "url": "https://www.amazon.fr/dp/B0BRMYHMS5",
       "canonical_brand": "메디큐브",
       "brand": "메디큐브"
-    },
-    {
-      "rank": 83,
-      "asin": "B0C81Z1SQH",
-      "title": "Hero Cosmetics Mighty Patch Original Night Button Patches",
-      "url": "https://www.amazon.fr/dp/B0C81Z1SQH",
-      "canonical_brand": "Hero Cosmetics",
-      "brand": "Hero Cosmetics"
     },
     {
       "rank": 88,
