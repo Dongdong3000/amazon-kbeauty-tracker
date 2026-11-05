@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "collected_at_kst": "2026-11-06 06:13:22",
+  "collected_at_kst": "2026-11-06 08:34:58",
   "source": "Local scheduled Playwright browser; no Codex Browser Use dependency",
   "markets": [
     {
@@ -2134,7 +2134,7 @@
         100
       ],
       "fresh_complete": true,
-      "preserved_from_earlier_run": false,
+      "preserved_from_earlier_run": true,
       "attempts": 1,
       "error": null,
       "collected_at_kst": "2026-11-06 06:11:02",
