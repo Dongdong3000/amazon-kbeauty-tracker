@@ -1,5 +1,5 @@
 {
-  "collected_at_utc": "2026-11-14T01:53:53.202Z",
+  "collected_at_utc": "2026-11-14T13:45:31.443Z",
   "market_code": "US",
   "complete": true,
   "checked_ranks": 100,
@@ -103,19 +103,19 @@
     },
     {
       "rank": 13,
-      "asin": "B00AINMFAC",
-      "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz | Anti-Fungal Shampoo, Dandruff Shampoo for Dandruff Relief, Ketoconazole Shampoo, Dandruff Treatment, 1% Ketoconazole",
-      "url": "https://www.amazon.com/dp/B00AINMFAC",
-      "canonical_brand": null,
-      "brand": "Nizoral"
-    },
-    {
-      "rank": 14,
       "asin": "B0B2RM68G2",
       "title": "BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea) | Overnight Hydrogel Hydrating Face Masks, Glass Skin, Gifts for Women, Travel Essentials, Stocking Stuffers, Korean Skin Care",
       "url": "https://www.amazon.com/dp/B0B2RM68G2",
       "canonical_brand": "바이오던스",
       "brand": "바이오던스"
+    },
+    {
+      "rank": 14,
+      "asin": "B00AINMFAC",
+      "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz | Anti-Fungal Shampoo, Dandruff Shampoo for Dandruff Relief, Ketoconazole Shampoo, Dandruff Treatment, 1% Ketoconazole",
+      "url": "https://www.amazon.com/dp/B00AINMFAC",
+      "canonical_brand": null,
+      "brand": "Nizoral"
     },
     {
       "rank": 15,
@@ -191,17 +191,17 @@
     },
     {
       "rank": 24,
-      "asin": "B0CMYR1CNK",
-      "title": "e.l.f. Cream Glide Lip Liner, Highly-Pigmented Pencil For Shaping & Sculpting Lips, Semi-Matte Finish, Vegan & Cruelty-Free",
-      "url": "https://www.amazon.com/dp/B0CMYR1CNK",
+      "asin": "B07PBQZ3KF",
+      "title": "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Blonde | Retractable Precision-Tip Brow Pencil with Grooming Spoolie for Buildable Natural-Looking Color, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B07PBQZ3KF",
       "canonical_brand": null,
       "brand": "e.l.f."
     },
     {
       "rank": 25,
-      "asin": "B07PBQZ3KF",
-      "title": "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Blonde | Retractable Precision-Tip Brow Pencil with Grooming Spoolie for Buildable Natural-Looking Color, Vegan & Cruelty-Free",
-      "url": "https://www.amazon.com/dp/B07PBQZ3KF",
+      "asin": "B0CMYR1CNK",
+      "title": "e.l.f. Cream Glide Lip Liner, Highly-Pigmented Pencil For Shaping & Sculpting Lips, Semi-Matte Finish, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B0CMYR1CNK",
       "canonical_brand": null,
       "brand": "e.l.f."
     },
@@ -263,11 +263,11 @@
     },
     {
       "rank": 33,
-      "asin": "B0GD6R7CFJ",
-      "title": "BIODANCE Hydrogel Eye Patches for Under Eye, Collagen Peptide (60 Count) | Under Eye Patches for Wrinkles, Smile Line Patches, Depuffing Eye Mask, Stocking Stuffers, Gifts for Women, Korean Skin Care",
-      "url": "https://www.amazon.com/dp/B0GD6R7CFJ",
-      "canonical_brand": "바이오던스",
-      "brand": "바이오던스"
+      "asin": "B01MDTVZTZ",
+      "title": "The Ordinary Niacinamide 10% + Zinc 1%, Smoothing Serum for Blemish-Prone Skin",
+      "url": "https://www.amazon.com/dp/B01MDTVZTZ",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
     },
     {
       "rank": 34,
@@ -279,11 +279,11 @@
     },
     {
       "rank": 35,
-      "asin": "B01MDTVZTZ",
-      "title": "The Ordinary Niacinamide 10% + Zinc 1%, Smoothing Serum for Blemish-Prone Skin",
-      "url": "https://www.amazon.com/dp/B01MDTVZTZ",
-      "canonical_brand": null,
-      "brand": "The Ordinary"
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Hydrogel Eye Patches for Under Eye, Collagen Peptide (60 Count) | Under Eye Patches for Wrinkles, Smile Line Patches, Depuffing Eye Mask, Stocking Stuffers, Gifts for Women, Korean Skin Care",
+      "url": "https://www.amazon.com/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
     },
     {
       "rank": 36,
@@ -303,22 +303,6 @@
     },
     {
       "rank": 38,
-      "asin": "B06WD5J8KY",
-      "title": "The Ordinary Azelaic Acid Suspension 10%, Formula for Uneven and Blemish-Prone Skin",
-      "url": "https://www.amazon.com/dp/B06WD5J8KY",
-      "canonical_brand": null,
-      "brand": "The Ordinary"
-    },
-    {
-      "rank": 39,
-      "asin": "B07QZ5CTTF",
-      "title": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle | #1 Dermatologist-Recommended Hair Growth Supplement Brand, Clinically Tested for Visibly Thicker Hair and Scalp Coverage",
-      "url": "https://www.amazon.com/dp/B07QZ5CTTF",
-      "canonical_brand": null,
-      "brand": "Nutrafol"
-    },
-    {
-      "rank": 40,
       "asin": "B000H3I2JG",
       "title": "Revlon ColorStay Pencil Waterproof Eyeliner, 202 Black Brown, 0.01 oz | Waterproof pencil eyeliner with built-in sharpener. Smudge-proof, long-lasting, intense matte color.",
       "url": "https://www.amazon.com/dp/B000H3I2JG",
@@ -326,7 +310,31 @@
       "brand": "Revlon"
     },
     {
+      "rank": 39,
+      "asin": "B06WD5J8KY",
+      "title": "The Ordinary Azelaic Acid Suspension 10%, Formula for Uneven and Blemish-Prone Skin",
+      "url": "https://www.amazon.com/dp/B06WD5J8KY",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 40,
+      "asin": "B07QZ5CTTF",
+      "title": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle | #1 Dermatologist-Recommended Hair Growth Supplement Brand, Clinically Tested for Visibly Thicker Hair and Scalp Coverage",
+      "url": "https://www.amazon.com/dp/B07QZ5CTTF",
+      "canonical_brand": null,
+      "brand": "Nutrafol"
+    },
+    {
       "rank": 41,
+      "asin": "B08BW46XXK",
+      "title": "Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy, 3 Fl Oz | Formulated Without Common Irritants for Sensitive Skin, Moisturizing Face Cream with 5 Key Ceramides and Hyaluronic Acid",
+      "url": "https://www.amazon.com/dp/B08BW46XXK",
+      "canonical_brand": null,
+      "brand": "Vanicream"
+    },
+    {
+      "rank": 42,
       "asin": "B00365DABC",
       "title": "CeraVe PM Daily Facial Moisturizer, Skin Care for Dry Skin, Oil-Free, 3oz | Travel Sized Face Lotion with Hyaluronic Acid, Niacinamide & Ceramides, Face Moisturizer for Men & Women, Skin Barrier Repair",
       "url": "https://www.amazon.com/dp/B00365DABC",
@@ -334,20 +342,12 @@
       "brand": "CeraVe"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "asin": "B0DWFLY18Y",
       "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz | Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for Glass Skin, Korean Skincare",
       "url": "https://www.amazon.com/dp/B0DWFLY18Y",
       "canonical_brand": "아누아",
       "brand": "아누아"
-    },
-    {
-      "rank": 43,
-      "asin": "B08BW46XXK",
-      "title": "Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy, 3 Fl Oz | Formulated Without Common Irritants for Sensitive Skin, Moisturizing Face Cream with 5 Key Ceramides and Hyaluronic Acid",
-      "url": "https://www.amazon.com/dp/B08BW46XXK",
-      "canonical_brand": null,
-      "brand": "Vanicream"
     },
     {
       "rank": 44,
@@ -367,11 +367,11 @@
     },
     {
       "rank": 46,
-      "asin": "B081FFRGZB",
-      "title": "Softsoap Antibacterial Hand Soap Refill, White Tea & Berry Scent, 50 fl oz | Liquid, Paraben-Free, Phthalate-Free, Washes Away Germs, for Bathroom & Kitchen, Daily Handwashing, Gentle on Hands",
-      "url": "https://www.amazon.com/dp/B081FFRGZB",
+      "asin": "B08WYXNVQ7",
+      "title": "Salt & Stone Aluminum-Free Deodorant, Women & Men Santal & Vetiver 2.6 oz | Extra Strength 48 Hour Protection, Gender Neutral Scent, Made with Niacinamide, Spirulina, Magnesium & Antioxidants",
+      "url": "https://www.amazon.com/dp/B08WYXNVQ7",
       "canonical_brand": null,
-      "brand": "Softsoap"
+      "brand": "Salt & Stone"
     },
     {
       "rank": 47,
@@ -383,19 +383,19 @@
     },
     {
       "rank": 48,
-      "asin": "B08WYXNVQ7",
-      "title": "Salt & Stone Aluminum-Free Deodorant, Women & Men Santal & Vetiver 2.6 oz | Extra Strength 48 Hour Protection, Gender Neutral Scent, Made with Niacinamide, Spirulina, Magnesium & Antioxidants",
-      "url": "https://www.amazon.com/dp/B08WYXNVQ7",
-      "canonical_brand": null,
-      "brand": "Salt & Stone"
-    },
-    {
-      "rank": 49,
       "asin": "B0CZF2T7CK",
       "title": "L'Oreal Paris Infallible 3-Second Setting Spray, Up to 36HR Wear, 1.76 oz | Microfine Mist Dries Instantly to Lock in Makeup, Waterproof, Non-Sticky, Transfer and Smudge-Resistant Finish",
       "url": "https://www.amazon.com/dp/B0CZF2T7CK",
       "canonical_brand": null,
       "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 49,
+      "asin": "B081FFRGZB",
+      "title": "Softsoap Antibacterial Hand Soap Refill, White Tea & Berry Scent, 50 fl oz | Liquid, Paraben-Free, Phthalate-Free, Washes Away Germs, for Bathroom & Kitchen, Daily Handwashing, Gentle on Hands",
+      "url": "https://www.amazon.com/dp/B081FFRGZB",
+      "canonical_brand": null,
+      "brand": "Softsoap"
     },
     {
       "rank": 50,
@@ -407,27 +407,27 @@
     },
     {
       "rank": 51,
-      "asin": "B0014CZ16Q",
-      "title": "Q-tips Cotton Swabs, Original, For Home, First Aid and Beauty, 100% Cotton, 500 Count",
-      "url": "https://www.amazon.com/dp/B0014CZ16Q",
-      "canonical_brand": null,
-      "brand": "Q-tips"
-    },
-    {
-      "rank": 52,
-      "asin": "B0FM2CCBS1",
-      "title": "eos Cashmere Body Mist- Vanilla, Body Spray for Women, Vegan, 6 fl oz",
-      "url": "https://www.amazon.com/dp/B0FM2CCBS1",
-      "canonical_brand": null,
-      "brand": "eos"
-    },
-    {
-      "rank": 53,
       "asin": "B002MSN3QQ",
       "title": "EltaMD UV Clear Face Sunscreen with Zinc Oxide, Oil-Free, SPF 46 and SPF 50 | Calms and Protects Acne-Prone Skin and Rosacea, No White Cast, Dermatologist Recommended, Available in Three Tints and Sizes",
       "url": "https://www.amazon.com/dp/B002MSN3QQ",
       "canonical_brand": null,
       "brand": "EltaMD"
+    },
+    {
+      "rank": 52,
+      "asin": "B00NKSTRAI",
+      "title": "DOVE MEN + CARE Antiperspirant Deodorant Stick Clean Comfort Twin Pack 72-Hour Sweat & Odor Protection Antiperspirant for Men With 1/4 Moisturizing Cream 2.7 oz",
+      "url": "https://www.amazon.com/dp/B00NKSTRAI",
+      "canonical_brand": null,
+      "brand": "Dove"
+    },
+    {
+      "rank": 53,
+      "asin": "B0014CZ16Q",
+      "title": "Q-tips Cotton Swabs, Original, For Home, First Aid and Beauty, 100% Cotton, 500 Count",
+      "url": "https://www.amazon.com/dp/B0014CZ16Q",
+      "canonical_brand": null,
+      "brand": "Q-tips"
     },
     {
       "rank": 54,
@@ -439,11 +439,11 @@
     },
     {
       "rank": 55,
-      "asin": "B00NKSTRAI",
-      "title": "DOVE MEN + CARE Antiperspirant Deodorant Stick Clean Comfort Twin Pack 72-Hour Sweat & Odor Protection Antiperspirant for Men With 1/4 Moisturizing Cream 2.7 oz",
-      "url": "https://www.amazon.com/dp/B00NKSTRAI",
+      "asin": "B0FM2CCBS1",
+      "title": "eos Cashmere Body Mist- Vanilla, Body Spray for Women, Vegan, 6 fl oz",
+      "url": "https://www.amazon.com/dp/B0FM2CCBS1",
       "canonical_brand": null,
-      "brand": "Dove"
+      "brand": "eos"
     },
     {
       "rank": 56,
@@ -495,30 +495,6 @@
     },
     {
       "rank": 62,
-      "asin": "B0787GLBMV",
-      "title": "Schick Hydro Silk Touch-Up Dermaplane Razor for Women Face, 3 ct | Stocking stuffers for women, 3-in-1 dermaplaning tool, Exfoliating face razors for women, Precision cover for eyebrow razor",
-      "url": "https://www.amazon.com/dp/B0787GLBMV",
-      "canonical_brand": null,
-      "brand": "Schick"
-    },
-    {
-      "rank": 63,
-      "asin": "B004INIW1Y",
-      "title": "L'Oreal Paris Excellence Crème Hair Color, 4 Dark Brown | Triple Care Routine Permanent Hair Dye with Hyaluronic Acid, 100% Gray Coverage, Up to 3X More Moisture, Non-Drip Formula",
-      "url": "https://www.amazon.com/dp/B004INIW1Y",
-      "canonical_brand": null,
-      "brand": "L'Oréal Paris"
-    },
-    {
-      "rank": 64,
-      "asin": "B0DK6W7RPS",
-      "title": "Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water |100% Natural Extract | Soft & Smooth Hair| Controls Hairfall| Non-Greasy & Fast Absorbing | 200ml",
-      "url": "https://www.amazon.com/dp/B0DK6W7RPS",
-      "canonical_brand": null,
-      "brand": "Bare Anatomy"
-    },
-    {
-      "rank": 65,
       "asin": "B08V3JGB1F",
       "title": "Kitsch Dermaplane Razor for Women Face – Terracotta, 12 pcs | Face Razors for Women & Men, Eyebrow Razor & Face Shaver – Exfoliating Facial Razor & Dermaplaner as Tool for Smoother Skin",
       "url": "https://www.amazon.com/dp/B08V3JGB1F",
@@ -526,12 +502,36 @@
       "brand": "Kitsch"
     },
     {
-      "rank": 66,
-      "asin": "B0GVG4S4X9",
-      "title": "e.l.f. Sheer For It Blush Tint, Maple Latte | Multi-Use, Long-Lasting Lip & Cheek Makeup, Creates A Natural Flush Finish, Vegan & Cruelty-Free",
-      "url": "https://www.amazon.com/dp/B0GVG4S4X9",
+      "rank": 63,
+      "asin": "B00J4YYFYA",
+      "title": "Q-tips Cotton Swabs For Hygiene and Beauty Care Original Cotton Swab Made With 100% Cotton 750 Count",
+      "url": "https://www.amazon.com/dp/B00J4YYFYA",
       "canonical_brand": null,
-      "brand": "e.l.f."
+      "brand": "Q-tips"
+    },
+    {
+      "rank": 64,
+      "asin": "B0787GLBMV",
+      "title": "Schick Hydro Silk Touch-Up Dermaplane Razor for Women Face, 3 ct | Stocking stuffers for women, 3-in-1 dermaplaning tool, Exfoliating face razors for women, Precision cover for eyebrow razor",
+      "url": "https://www.amazon.com/dp/B0787GLBMV",
+      "canonical_brand": null,
+      "brand": "Schick"
+    },
+    {
+      "rank": 65,
+      "asin": "B004INIW1Y",
+      "title": "L'Oreal Paris Excellence Crème Hair Color, 4 Dark Brown | Triple Care Routine Permanent Hair Dye with Hyaluronic Acid, 100% Gray Coverage, Up to 3X More Moisture, Non-Drip Formula",
+      "url": "https://www.amazon.com/dp/B004INIW1Y",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 66,
+      "asin": "B0DGTMR754",
+      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate | Overnight Face Mask for Glass Glow Skin - Hydration, Firming, Moisturizing & Elasticity Care, Korean Skincare, 28g x 4ea",
+      "url": "https://www.amazon.com/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
       "rank": 67,
@@ -543,22 +543,6 @@
     },
     {
       "rank": 68,
-      "asin": "B00J4YYFYA",
-      "title": "Q-tips Cotton Swabs For Hygiene and Beauty Care Original Cotton Swab Made With 100% Cotton 750 Count",
-      "url": "https://www.amazon.com/dp/B00J4YYFYA",
-      "canonical_brand": null,
-      "brand": "Q-tips"
-    },
-    {
-      "rank": 69,
-      "asin": "B09DDD6YGJ",
-      "title": "Dove Body Wash Antibacterial For All Skin Types 30.6 oz Pump, Sulfate Free | Dove Antibacterial Body Wash eliminates 99% of bacteria while nourishing skin with a sulfate-free formula",
-      "url": "https://www.amazon.com/dp/B09DDD6YGJ",
-      "canonical_brand": null,
-      "brand": "Dove"
-    },
-    {
-      "rank": 70,
       "asin": "B08SNSSTPZ",
       "title": "L3 Level 3 Hair Texture Powder for Men, Volume, Natural Look, 30 g | Styling powder, hair texturizer, non-greasy finish, buildable hold, easy application, small 30 g size",
       "url": "https://www.amazon.com/dp/B08SNSSTPZ",
@@ -566,15 +550,23 @@
       "brand": "L3VEL3"
     },
     {
-      "rank": 71,
-      "asin": "B0DGTMR754",
-      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate | Overnight Face Mask for Glass Glow Skin - Hydration, Firming, Moisturizing & Elasticity Care, Korean Skincare, 28g x 4ea",
-      "url": "https://www.amazon.com/dp/B0DGTMR754",
-      "canonical_brand": "메디큐브",
-      "brand": "메디큐브"
+      "rank": 69,
+      "asin": "B0GVG4S4X9",
+      "title": "e.l.f. Sheer For It Blush Tint, Maple Latte | Multi-Use, Long-Lasting Lip & Cheek Makeup, Creates A Natural Flush Finish, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B0GVG4S4X9",
+      "canonical_brand": null,
+      "brand": "e.l.f."
     },
     {
-      "rank": 72,
+      "rank": 70,
+      "asin": "B0DK6W7RPS",
+      "title": "Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water |100% Natural Extract | Soft & Smooth Hair| Controls Hairfall| Non-Greasy & Fast Absorbing | 200ml",
+      "url": "https://www.amazon.com/dp/B0DK6W7RPS",
+      "canonical_brand": null,
+      "brand": "Bare Anatomy"
+    },
+    {
+      "rank": 71,
       "asin": "B00SNPCSUY",
       "title": "CeraVe Night Cream, Facial Moisturizer with Peptides & Niacinamide, 1.7oz | Anti-aging Face Cream, Skin Care with Hyaluronic Acid, Face & Neck Cream for Men & Women, Daily Face Moisturizer, Travel Size",
       "url": "https://www.amazon.com/dp/B00SNPCSUY",
@@ -582,12 +574,20 @@
       "brand": "CeraVe"
     },
     {
-      "rank": 73,
-      "asin": "B001459IEE",
-      "title": "Aveeno Daily Moisturizing Body Lotion, Fragrance-Free, 18 fl. oz | Daily Moisturizing Body Lotion for Normal to Dry Skin, Soothing Prebiotic Oat, Non-Greasy Formula, Non-Comedogenic",
-      "url": "https://www.amazon.com/dp/B001459IEE",
+      "rank": 72,
+      "asin": "B09DDD6YGJ",
+      "title": "Dove Body Wash Antibacterial For All Skin Types 30.6 oz Pump, Sulfate Free | Dove Antibacterial Body Wash eliminates 99% of bacteria while nourishing skin with a sulfate-free formula",
+      "url": "https://www.amazon.com/dp/B09DDD6YGJ",
       "canonical_brand": null,
-      "brand": "Aveeno"
+      "brand": "Dove"
+    },
+    {
+      "rank": 73,
+      "asin": "B00149RO2S",
+      "title": "OPI Classic Lacquer",
+      "url": "https://www.amazon.com/dp/B00149RO2S",
+      "canonical_brand": null,
+      "brand": "OPI"
     },
     {
       "rank": 74,
@@ -599,27 +599,27 @@
     },
     {
       "rank": 75,
-      "asin": "B07SRRLVQ1",
-      "title": "Aquaphor Lip Repair Stick, Value Pack, 2 x 0.17 OZ | Lip Balm Moisturizers with Jojoba Oil and Shea Butter, Immediate Dry Lip Relief, Paraben and Fragrance Free",
-      "url": "https://www.amazon.com/dp/B07SRRLVQ1",
-      "canonical_brand": null,
-      "brand": "Aquaphor"
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin | Pink Glow Serum with Peptides & Niacinamide for Hydration, Firm-Looking Skin & Uneven Tone Care, Korean Skincare, 1.01 fl.oz.",
+      "url": "https://www.amazon.com/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
     },
     {
       "rank": 76,
-      "asin": "B00149RO2S",
-      "title": "OPI Classic Lacquer",
-      "url": "https://www.amazon.com/dp/B00149RO2S",
+      "asin": "B001459IEE",
+      "title": "Aveeno Daily Moisturizing Body Lotion, Fragrance-Free, 18 fl. oz | Daily Moisturizing Body Lotion for Normal to Dry Skin, Soothing Prebiotic Oat, Non-Greasy Formula, Non-Comedogenic",
+      "url": "https://www.amazon.com/dp/B001459IEE",
       "canonical_brand": null,
-      "brand": "OPI"
+      "brand": "Aveeno"
     },
     {
       "rank": 77,
-      "asin": "B07BRDVQ4B",
-      "title": "Amlactin Daily Nourish Body Lotion, 12% Lactic Acid, 14.1 oz | 12% lactic acid body lotion exfoliates and moisturizes dry skin to help reveal softer, smoother daily hydration.",
-      "url": "https://www.amazon.com/dp/B07BRDVQ4B",
-      "canonical_brand": null,
-      "brand": "Amlactin"
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz) | 0.1% Retinal, 3% Matrixyl for Anti Aging, Pore Minimizer, Fine Lines, Firmer Skin | Korean Skin Care Gift, Advanced Retinol",
+      "url": "https://www.amazon.com/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
     },
     {
       "rank": 78,
@@ -631,14 +631,6 @@
     },
     {
       "rank": 79,
-      "asin": "B0DBF65JYY",
-      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin | Pink Glow Serum with Peptides & Niacinamide for Hydration, Firm-Looking Skin & Uneven Tone Care, Korean Skincare, 1.01 fl.oz.",
-      "url": "https://www.amazon.com/dp/B0DBF65JYY",
-      "canonical_brand": "메디큐브",
-      "brand": "메디큐브"
-    },
-    {
-      "rank": 80,
       "asin": "B0039LMTAQ",
       "title": "Gillette Venus Sensitive Women's Disposable Razors - Single Package of 3 Razors",
       "url": "https://www.amazon.com/dp/B0039LMTAQ",
@@ -646,31 +638,23 @@
       "brand": "Gillette"
     },
     {
+      "rank": 80,
+      "asin": "B07SRRLVQ1",
+      "title": "Aquaphor Lip Repair Stick, Value Pack, 2 x 0.17 OZ | Lip Balm Moisturizers with Jojoba Oil and Shea Butter, Immediate Dry Lip Relief, Paraben and Fragrance Free",
+      "url": "https://www.amazon.com/dp/B07SRRLVQ1",
+      "canonical_brand": null,
+      "brand": "Aquaphor"
+    },
+    {
       "rank": 81,
-      "asin": "B0DK4Y2YP3",
-      "title": "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz) | 0.1% Retinal, 3% Matrixyl for Anti Aging, Pore Minimizer, Fine Lines, Firmer Skin | Korean Skin Care Gift, Advanced Retinol",
-      "url": "https://www.amazon.com/dp/B0DK4Y2YP3",
-      "canonical_brand": "셀리맥스",
-      "brand": "셀리맥스"
+      "asin": "B07BRDVQ4B",
+      "title": "Amlactin Daily Nourish Body Lotion, 12% Lactic Acid, 14.1 oz | 12% lactic acid body lotion exfoliates and moisturizes dry skin to help reveal softer, smoother daily hydration.",
+      "url": "https://www.amazon.com/dp/B07BRDVQ4B",
+      "canonical_brand": null,
+      "brand": "Amlactin"
     },
     {
       "rank": 82,
-      "asin": "B09M7SPFSJ",
-      "title": "Ivory Body Wash Designed for the Whole Family, Original Scent, 35 fl oz | Gentle Formula for Sensitive Skin | Free of Dyes, Parabens, & Phthalates | Plant-Based Cleaning Power Designed for Skin's pH",
-      "url": "https://www.amazon.com/dp/B09M7SPFSJ",
-      "canonical_brand": null,
-      "brand": "Ivory"
-    },
-    {
-      "rank": 83,
-      "asin": "B091D7T4N8",
-      "title": "Swisspers Premium Cotton Rounds, Dual-Sided, 100 Count (Pack of 3) | Hypoallergenic, Textured Side, Lint-Free Side, Dermatologist-Tested, Chlorine-Free, 300 Total",
-      "url": "https://www.amazon.com/dp/B091D7T4N8",
-      "canonical_brand": null,
-      "brand": "Swisspers"
-    },
-    {
-      "rank": 84,
       "asin": "B004BD107O",
       "title": "L’Oreal Paris Original Telescopic Mascara, Lengthening, Blackest Black | Extreme Lengthening Mascara For Lash By Lash Separation, Clump-Free, Smooth Formula, Up to 24HR Wear",
       "url": "https://www.amazon.com/dp/B004BD107O",
@@ -678,23 +662,15 @@
       "brand": "L'Oréal Paris"
     },
     {
-      "rank": 85,
-      "asin": "B077RTL1HJ",
-      "title": "Illiyoon Ceramide Ato Concentrate Cream | Moisturizer for Dry & Sensitive Skin, 100hr Lasting Hydration, For Face & Body, Gentle for Infants, Moisture Barrier Repair, Vegan Certified, 6.76 fl.oz.",
-      "url": "https://www.amazon.com/dp/B077RTL1HJ",
-      "canonical_brand": "일리윤",
-      "brand": "일리윤"
-    },
-    {
-      "rank": 86,
-      "asin": "B0DBSMQMWF",
-      "title": "PanOxyl Acne Foaming Wash, 10% Benzoyl Peroxide, For Face & Body, 3 oz | Maximum Strength, Antibacterial Daily Cleanser, Treats & Prevents Acne, Non-Comedogenic, Vegan, Unscented, All Skin Types",
-      "url": "https://www.amazon.com/dp/B0DBSMQMWF",
+      "rank": 83,
+      "asin": "B09M7SPFSJ",
+      "title": "Ivory Body Wash Designed for the Whole Family, Original Scent, 35 fl oz | Gentle Formula for Sensitive Skin | Free of Dyes, Parabens, & Phthalates | Plant-Based Cleaning Power Designed for Skin's pH",
+      "url": "https://www.amazon.com/dp/B09M7SPFSJ",
       "canonical_brand": null,
-      "brand": "PanOxyl"
+      "brand": "Ivory"
     },
     {
-      "rank": 87,
+      "rank": 84,
       "asin": "B09X3HB2BR",
       "title": "Sol de Janeiro Cheirosa Hair & Body Perfume Mist | Hair & Body Spray for Women",
       "url": "https://www.amazon.com/dp/B09X3HB2BR",
@@ -702,7 +678,15 @@
       "brand": "Sol de Janeiro"
     },
     {
-      "rank": 88,
+      "rank": 85,
+      "asin": "B091D7T4N8",
+      "title": "Swisspers Premium Cotton Rounds, Dual-Sided, 100 Count (Pack of 3) | Hypoallergenic, Textured Side, Lint-Free Side, Dermatologist-Tested, Chlorine-Free, 300 Total",
+      "url": "https://www.amazon.com/dp/B091D7T4N8",
+      "canonical_brand": null,
+      "brand": "Swisspers"
+    },
+    {
+      "rank": 86,
       "asin": "B0107QPFBU",
       "title": "Aquaphor Advanced Therapy Healing Ointment, Skin Protectant, 7 OZ | Clinically Proven Skin Protectant Moisturizer for Cracked, Irritated or Dry Skin Relief, Dye and Fragrance Free",
       "url": "https://www.amazon.com/dp/B0107QPFBU",
@@ -710,12 +694,28 @@
       "brand": "Aquaphor"
     },
     {
+      "rank": 87,
+      "asin": "B077RTL1HJ",
+      "title": "Illiyoon Ceramide Ato Concentrate Cream | Moisturizer for Dry & Sensitive Skin, 100hr Lasting Hydration, For Face & Body, Gentle for Infants, Moisture Barrier Repair, Vegan Certified, 6.76 fl.oz.",
+      "url": "https://www.amazon.com/dp/B077RTL1HJ",
+      "canonical_brand": "일리윤",
+      "brand": "일리윤"
+    },
+    {
+      "rank": 88,
+      "asin": "B09C1B7BH5",
+      "title": "medicube Facial Cleanser Zero Foam Cleanser for Pore & Excess Oil Care | Daily Gentle Cleansing Foam - Excess Sebum Control, Hydration, Pore Minimization, Korean Skincare, Sensitive Skin, 4.23 oz",
+      "url": "https://www.amazon.com/dp/B09C1B7BH5",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
       "rank": 89,
-      "asin": "B0FHHFW9KD",
-      "title": "CORATED African Net Sponge Authentic, Shower Loofah Exfoliating Bath Sponge | Body Scrubber for Women and Men Daily Use Body Care, Travel Portable Bath Accessories Spa Gifts",
-      "url": "https://www.amazon.com/dp/B0FHHFW9KD",
+      "asin": "B0DBSMQMWF",
+      "title": "PanOxyl Acne Foaming Wash, 10% Benzoyl Peroxide, For Face & Body, 3 oz | Maximum Strength, Antibacterial Daily Cleanser, Treats & Prevents Acne, Non-Comedogenic, Vegan, Unscented, All Skin Types",
+      "url": "https://www.amazon.com/dp/B0DBSMQMWF",
       "canonical_brand": null,
-      "brand": "CORATED"
+      "brand": "PanOxyl"
     },
     {
       "rank": 90,
@@ -727,11 +727,11 @@
     },
     {
       "rank": 91,
-      "asin": "B0DFRL3GHB",
-      "title": "EADEM Tinted Lip Balm, Moisturizing Lip Gloss Tube for Women, Butter Mochi | Le Chouchou, Lip Softening Balm with Cooling Metal Applicator, Plumps & Smoothes Lips, Infused with Acai & Mongongo Butter",
-      "url": "https://www.amazon.com/dp/B0DFRL3GHB",
+      "asin": "B004Y9GTOO",
+      "title": "Maybelline Instant Age Rewind Eraser Dark Circles Multi-Use Concealer, 110 | Use to Conceal, Contour, and Correct, Crease-Resistant Makeup Formula for Under Eyes and Dark Spots, Up to 12HRs of Wear",
+      "url": "https://www.amazon.com/dp/B004Y9GTOO",
       "canonical_brand": null,
-      "brand": "미분류 후보"
+      "brand": "Maybelline New York"
     },
     {
       "rank": 92,
@@ -743,6 +743,14 @@
     },
     {
       "rank": 93,
+      "asin": "B0FHHFW9KD",
+      "title": "CORATED African Net Sponge Authentic, Shower Loofah Exfoliating Bath Sponge | Body Scrubber for Women and Men Daily Use Body Care, Travel Portable Bath Accessories Spa Gifts",
+      "url": "https://www.amazon.com/dp/B0FHHFW9KD",
+      "canonical_brand": null,
+      "brand": "CORATED"
+    },
+    {
+      "rank": 94,
       "asin": "B000NWGCZ2",
       "title": "Vanicream Moisturizing Cream, Body & Face Moisturizer, 16 Oz Pump Dispenser | Formulated without Common Irritants for Sensitive Skin, Restores Moisture and Soothes Irritated, Cracked or Itchy Skin",
       "url": "https://www.amazon.com/dp/B000NWGCZ2",
@@ -750,23 +758,7 @@
       "brand": "Vanicream"
     },
     {
-      "rank": 94,
-      "asin": "B004Y9GTOO",
-      "title": "Maybelline Instant Age Rewind Eraser Dark Circles Multi-Use Concealer, 110 | Use to Conceal, Contour, and Correct, Crease-Resistant Makeup Formula for Under Eyes and Dark Spots, Up to 12HRs of Wear",
-      "url": "https://www.amazon.com/dp/B004Y9GTOO",
-      "canonical_brand": null,
-      "brand": "Maybelline New York"
-    },
-    {
       "rank": 95,
-      "asin": "B09C1B7BH5",
-      "title": "medicube Facial Cleanser Zero Foam Cleanser for Pore & Excess Oil Care | Daily Gentle Cleansing Foam - Excess Sebum Control, Hydration, Pore Minimization, Korean Skincare, Sensitive Skin, 4.23 oz",
-      "url": "https://www.amazon.com/dp/B09C1B7BH5",
-      "canonical_brand": "메디큐브",
-      "brand": "메디큐브"
-    },
-    {
-      "rank": 96,
       "asin": "B006IB5T4W",
       "title": "Aquaphor Advanced Therapy Healing Ointment Skin Protectant, 14 OZ | Clinically Proven Skin Protectant Moisturizer for Cracked, Irritated or Dry Skin Relief, Dye and Fragrance Free",
       "url": "https://www.amazon.com/dp/B006IB5T4W",
@@ -774,12 +766,20 @@
       "brand": "Aquaphor"
     },
     {
-      "rank": 97,
-      "asin": "B007M81B4M",
-      "title": "Olay Face Moisturizer, Regenerist Micro-Sculpting Cream for Women, Fragrance-Free - Anti-Aging, Anti-Wrinkle, Firming Skin Care - Triple Collagen Cream, Peptide, Hyaluronic Acid, Niacinamide, 1.7oz",
-      "url": "https://www.amazon.com/dp/B007M81B4M",
+      "rank": 96,
+      "asin": "B0DFRL3GHB",
+      "title": "EADEM Tinted Lip Balm, Moisturizing Lip Gloss Tube for Women, Butter Mochi | Le Chouchou, Lip Softening Balm with Cooling Metal Applicator, Plumps & Smoothes Lips, Infused with Acai & Mongongo Butter",
+      "url": "https://www.amazon.com/dp/B0DFRL3GHB",
       "canonical_brand": null,
-      "brand": "Olay"
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 97,
+      "asin": "B0FRFMNKYZ",
+      "title": "UNA GELLA 20ml*2PCS Nail Glue Remover for Press on, Multi-Functional Pinpoint Glue Remover Fast Removal Gentle Non-Acetone with Crystal Sticks for Nails Polish False Acrylic Nail Tips Home DIY",
+      "url": "https://www.amazon.com/dp/B0FRFMNKYZ",
+      "canonical_brand": null,
+      "brand": "UNA GELLA"
     },
     {
       "rank": 98,
@@ -791,19 +791,19 @@
     },
     {
       "rank": 99,
-      "asin": "B0FRFMNKYZ",
-      "title": "UNA GELLA 20ml*2PCS Nail Glue Remover for Press on, Multi-Functional Pinpoint Glue Remover Fast Removal Gentle Non-Acetone with Crystal Sticks for Nails Polish False Acrylic Nail Tips Home DIY",
-      "url": "https://www.amazon.com/dp/B0FRFMNKYZ",
+      "asin": "B007M81B4M",
+      "title": "Olay Face Moisturizer, Regenerist Micro-Sculpting Cream for Women, Fragrance-Free - Anti-Aging, Anti-Wrinkle, Firming Skin Care - Triple Collagen Cream, Peptide, Hyaluronic Acid, Niacinamide, 1.7oz",
+      "url": "https://www.amazon.com/dp/B007M81B4M",
       "canonical_brand": null,
-      "brand": "UNA GELLA"
+      "brand": "Olay"
     },
     {
       "rank": 100,
-      "asin": "B00TPRG5D0",
-      "title": "Degree Men Antiperspirant Deodorant, Cool Rush, Twin Pack, 2.7 oz | For everyday wear, provides 48-hour sweat and odor protection.",
-      "url": "https://www.amazon.com/dp/B00TPRG5D0",
+      "asin": "B06XDZFGWY",
+      "title": "Maybelline Super Stay Matte Ink Liquid Lipstick Makeup, Pioneer | Blue Red Lipstick, Long-Lasting, Non-Transferring, High Impact Lip Color, Up to 16HR Wear",
+      "url": "https://www.amazon.com/dp/B06XDZFGWY",
       "canonical_brand": null,
-      "brand": "Degree"
+      "brand": "Maybelline New York"
     }
   ],
   "products": [
@@ -816,7 +816,7 @@
       "brand": "메디큐브"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "asin": "B0B2RM68G2",
       "title": "BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea) | Overnight Hydrogel Hydrating Face Masks, Glass Skin, Gifts for Women, Travel Essentials, Stocking Stuffers, Korean Skin Care",
       "url": "https://www.amazon.com/dp/B0B2RM68G2",
@@ -824,7 +824,7 @@
       "brand": "바이오던스"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "asin": "B0GD6R7CFJ",
       "title": "BIODANCE Hydrogel Eye Patches for Under Eye, Collagen Peptide (60 Count) | Under Eye Patches for Wrinkles, Smile Line Patches, Depuffing Eye Mask, Stocking Stuffers, Gifts for Women, Korean Skin Care",
       "url": "https://www.amazon.com/dp/B0GD6R7CFJ",
@@ -832,7 +832,7 @@
       "brand": "바이오던스"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "asin": "B0DWFLY18Y",
       "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz | Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for Glass Skin, Korean Skincare",
       "url": "https://www.amazon.com/dp/B0DWFLY18Y",
@@ -856,7 +856,7 @@
       "brand": "아누아"
     },
     {
-      "rank": 71,
+      "rank": 66,
       "asin": "B0DGTMR754",
       "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate | Overnight Face Mask for Glass Glow Skin - Hydration, Firming, Moisturizing & Elasticity Care, Korean Skincare, 28g x 4ea",
       "url": "https://www.amazon.com/dp/B0DGTMR754",
@@ -864,7 +864,7 @@
       "brand": "메디큐브"
     },
     {
-      "rank": 79,
+      "rank": 75,
       "asin": "B0DBF65JYY",
       "title": "medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin | Pink Glow Serum with Peptides & Niacinamide for Hydration, Firm-Looking Skin & Uneven Tone Care, Korean Skincare, 1.01 fl.oz.",
       "url": "https://www.amazon.com/dp/B0DBF65JYY",
@@ -872,7 +872,7 @@
       "brand": "메디큐브"
     },
     {
-      "rank": 81,
+      "rank": 77,
       "asin": "B0DK4Y2YP3",
       "title": "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz) | 0.1% Retinal, 3% Matrixyl for Anti Aging, Pore Minimizer, Fine Lines, Firmer Skin | Korean Skin Care Gift, Advanced Retinol",
       "url": "https://www.amazon.com/dp/B0DK4Y2YP3",
@@ -880,7 +880,7 @@
       "brand": "셀리맥스"
     },
     {
-      "rank": 85,
+      "rank": 87,
       "asin": "B077RTL1HJ",
       "title": "Illiyoon Ceramide Ato Concentrate Cream | Moisturizer for Dry & Sensitive Skin, 100hr Lasting Hydration, For Face & Body, Gentle for Infants, Moisture Barrier Repair, Vegan Certified, 6.76 fl.oz.",
       "url": "https://www.amazon.com/dp/B077RTL1HJ",
@@ -888,7 +888,7 @@
       "brand": "일리윤"
     },
     {
-      "rank": 95,
+      "rank": 88,
       "asin": "B09C1B7BH5",
       "title": "medicube Facial Cleanser Zero Foam Cleanser for Pore & Excess Oil Care | Daily Gentle Cleansing Foam - Excess Sebum Control, Hydration, Pore Minimization, Korean Skincare, Sensitive Skin, 4.23 oz",
       "url": "https://www.amazon.com/dp/B09C1B7BH5",
