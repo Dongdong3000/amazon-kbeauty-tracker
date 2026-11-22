@@ -1,0 +1,1091 @@
+{
+  "collected_at_utc": "2026-11-22T12:01:03.554Z",
+  "market_code": "US",
+  "complete": true,
+  "checked_ranks": 100,
+  "all_products_complete": true,
+  "all_products": [
+    {
+      "rank": 1,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid - For All, Korean Skin Care, 70 Pads, 1 Pack",
+      "url": "https://www.amazon.com/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 2,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea) | Overnight Hydrogel Hydrating Face Masks, Glass Skin, Gifts for Women, Travel Essentials, Stocking Stuffers, Korean Skin Care",
+      "url": "https://www.amazon.com/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGTMR754",
+      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate | Overnight Face Mask for Glass Glow Skin - Hydration, Firming, Moisturizing & Elasticity Care, Korean Skincare, 28g x 4ea",
+      "url": "https://www.amazon.com/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 4,
+      "asin": "B08KT2Z93D",
+      "title": "eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour Moisture, 16 fl oz | Natural Shea Butter & Oil, Whipped Vanilla & Caramel, Lasting Hydration, 100% Vegan & Cruelty-Free, Apply to Dry Skin",
+      "url": "https://www.amazon.com/dp/B08KT2Z93D",
+      "canonical_brand": null,
+      "brand": "eos"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 1.69fl.oz | medicube Collagen Jelly Cream for Skin Barrier, Hydration & Plumping, 1.69 fl.oz",
+      "url": "https://www.amazon.com/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 6,
+      "asin": "B074PVTPBW",
+      "title": "Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct | #1 Hydrocolloid Acne Patches, Shrinking Zits & Whiteheads in 1 Use, Spot Treatment, Pimple Stickers for Face",
+      "url": "https://www.amazon.com/dp/B074PVTPBW",
+      "canonical_brand": null,
+      "brand": "Hero Cosmetics"
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWFLY18Y",
+      "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz | Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for Glass Skin, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DWFLY18Y",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 8,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin | Pink Glow Serum with Peptides & Niacinamide for Hydration, Firm-Looking Skin & Uneven Tone Care, Korean Skincare, 1.01 fl.oz.",
+      "url": "https://www.amazon.com/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 9,
+      "asin": "B077RTL1HJ",
+      "title": "Illiyoon Ceramide Ato Concentrate Cream | Moisturizer for Dry & Sensitive Skin, 100hr Lasting Hydration, For Face & Body, Gentle for Infants, Moisture Barrier Repair, Vegan Certified, 6.76 fl.oz.",
+      "url": "https://www.amazon.com/dp/B077RTL1HJ",
+      "canonical_brand": "일리윤",
+      "brand": "일리윤"
+    },
+    {
+      "rank": 10,
+      "asin": "B09541P9WH",
+      "title": "Amazon Essentials Cotton Swabs, 500 Count (Previously Amazon Basics)",
+      "url": "https://www.amazon.com/dp/B09541P9WH",
+      "canonical_brand": null,
+      "brand": "Amazon PB"
+    },
+    {
+      "rank": 11,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm | Volufiline, NAD Stick Balm for the Look of Fine Lines, Under-Eyes, Neck, Plumping & Radiance for Line Care, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0GHMZXX8Y",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 12,
+      "asin": "B0G1VBDXYF",
+      "title": "Luxe Color Changing Foundation for Mature Skin, Color Matching, Medium | Color Matching, Adapts to Your Skin Tone, Lightweight, Hydrating Hyaluronic Acid & Peptides, Natural Matte Finish",
+      "url": "https://www.amazon.com/dp/B0G1VBDXYF",
+      "canonical_brand": null,
+      "brand": "Luxe"
+    },
+    {
+      "rank": 13,
+      "asin": "B0G38FGSKL",
+      "title": "medicube Hydrogel Eye Patches with PDRN, Caffeine & Collagen (60 Counts) | PDRN Retinol & Collagen Gel Mask - Eye Patches for the appearance of Dark Circles, Undereye Bags & Firming, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0G38FGSKL",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 14,
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Hydrogel Eye Patches for Under Eye, Collagen Peptide (60 Count) | Under Eye Patches for Wrinkles, Smile Line Patches, Depuffing Eye Mask, Stocking Stuffers, Gifts for Women, Korean Skin Care",
+      "url": "https://www.amazon.com/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 15,
+      "asin": "B01H1V7WQU",
+      "title": "LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Light | Weightless baked foundation; color-correcting to even tone. Made for mature skin, natural finish, made in Italy.",
+      "url": "https://www.amazon.com/dp/B01H1V7WQU",
+      "canonical_brand": null,
+      "brand": "Laura Geller"
+    },
+    {
+      "rank": 16,
+      "asin": "B07PBXXNCY",
+      "title": "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
+      "url": "https://www.amazon.com/dp/B07PBXXNCY",
+      "canonical_brand": null,
+      "brand": "Clean Skin Club"
+    },
+    {
+      "rank": 17,
+      "asin": "B0FVT77ZLL",
+      "title": "Anua PDRN Collagen Glow Facial Serum Spray, 3.38 fl oz | Hydrating Face Mist, Hyaluronic Acid, Dewy finish, All Skin Types, Instant Plumping, Firming Care, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FVT77ZLL",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 18,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen - Overnight Peel Off Facial Mask | Elasticity & Hydration Care, Reduces Sagging & Dullness - Hydrolyzed Collagen For Glowing Skin, Korean Skin Care, 2.53 fl.oz",
+      "url": "https://www.amazon.com/dp/B0BRMYHMS5",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 19,
+      "asin": "B0DYTQ5GYQ",
+      "title": "medicube Facial Cleanser Zero Pore Capsule Foam Cleanser | Daily Gentle Face Wash for Pore, Skin Texture Care, AHA BHA PHA for Deep Cleansing, Korean Skincare, 4.23 oz",
+      "url": "https://www.amazon.com/dp/B0DYTQ5GYQ",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 20,
+      "asin": "B0DG1DQ2S7",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz | Facial Serum for Blemish-Prone & Oily-Prone Skin, Lightweight & Hydrating Care, Hyaluronic Acid, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DG1DQ2S7",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 21,
+      "asin": "B08TPCHYLW",
+      "title": "Lancôme Lash Idôle Mascara - Lash-Lifting & Volumizing Mascara - Black | Lash-Lifting Mascara for Instant Volume, Length & Lift - With Smudge-Proof Formula - 24H Wear Lengthening",
+      "url": "https://www.amazon.com/dp/B08TPCHYLW",
+      "canonical_brand": null,
+      "brand": "Lancôme"
+    },
+    {
+      "rank": 22,
+      "asin": "B00U2VQZDS",
+      "title": "Neutrogena Makeup Remover Wipes, 2 Pack of 25 Ct | Daily Ultra-Soft Face Cleansing Towelettes, Gently Remove Oil & Waterproof Makeup, No Alcohol & Plant-Based Cloth, Twin Pack",
+      "url": "https://www.amazon.com/dp/B00U2VQZDS",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 23,
+      "asin": "B0DTKCN3Z4",
+      "title": "medicube Capsule Cream with Salmon DNA PDRN, Glow & Firming Moisturizer | Lightweight Daily Cream with Pink PDRN & Collagen Capsules for Hydration, Glow & Uneven Tone Care, 1.94 oz.",
+      "url": "https://www.amazon.com/dp/B0DTKCN3Z4",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 24,
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz) | 0.1% Retinal, 3% Matrixyl for Anti Aging, Pore Minimizer, Fine Lines, Firmer Skin | Korean Skin Care Gift, Advanced Retinol",
+      "url": "https://www.amazon.com/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 25,
+      "asin": "B014E2D6BY",
+      "title": "grace & stella Award Winning Eye Patches for Women (24 Pairs, Gold) | Gifts for Women - Under Eye Mask for Dark Circles, Puffy Eyes & Undereye Bags - Gifts for Mom, Stocking Stuffers",
+      "url": "https://www.amazon.com/dp/B014E2D6BY",
+      "canonical_brand": null,
+      "brand": "grace & stella"
+    },
+    {
+      "rank": 26,
+      "asin": "B08H3JPH74",
+      "title": "Maybelline Lash Sensational Sky High Mascara, Volumizing, Blackest Black | Lengthening, Defining, Curling, Multiplying, Buildable Mascara Formula, Up to 24HR Wear",
+      "url": "https://www.amazon.com/dp/B08H3JPH74",
+      "canonical_brand": null,
+      "brand": "Maybelline New York"
+    },
+    {
+      "rank": 27,
+      "asin": "B00262227E",
+      "title": "Mrs. Meyer's Clean Day, Hand Soap Refill, Lavender Scent, 33 Fl Oz",
+      "url": "https://www.amazon.com/dp/B00262227E",
+      "canonical_brand": null,
+      "brand": "Mrs. Meyer's"
+    },
+    {
+      "rank": 28,
+      "asin": "B07GB3NVN1",
+      "title": "Native Aluminum-Free Deodorant for Women & Men, Coconut & Vanilla, 2.65oz | Contains Naturally Derived Ingredients | 100-Hour Odor Protection | Clinically Proven | Smooth Glide | Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B07GB3NVN1",
+      "canonical_brand": null,
+      "brand": "Native"
+    },
+    {
+      "rank": 29,
+      "asin": "B0FKGJYFC8",
+      "title": "Dr.Althea 345 Relief Cream, 1.69 Fl Oz (Ver.2 - Pack of 1) | Instant Hydration, Blemish & Post-Acne Vegan Face Moisturizer for Sensitive Skin",
+      "url": "https://www.amazon.com/dp/B0FKGJYFC8",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 30,
+      "asin": "B01N9SPQHQ",
+      "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer | Daily face cream with glycerin, niacinamide and ceramide for all skin types. Oil free and fragrance free.",
+      "url": "https://www.amazon.com/dp/B01N9SPQHQ",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 31,
+      "asin": "B09542G9ZN",
+      "title": "Amazon Essentials 100% Cotton Rounds, 100 Count (Previously Amazon Basics)",
+      "url": "https://www.amazon.com/dp/B09542G9ZN",
+      "canonical_brand": null,
+      "brand": "Amazon PB"
+    },
+    {
+      "rank": 32,
+      "asin": "B0DPHQRLJC",
+      "title": "eos Cashmere Body Wash- Vanilla Cashmere, Creamy Gel with Shea Butter, 16 fl oz",
+      "url": "https://www.amazon.com/dp/B0DPHQRLJC",
+      "canonical_brand": null,
+      "brand": "eos"
+    },
+    {
+      "rank": 33,
+      "asin": "B00949CTQQ",
+      "title": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Leave-On Exfoliant | Gentle Salicylic Acid Leave-On Facial Exfoliator for Blackheads, Enlarged Pores, Wrinkles & Fine Lines",
+      "url": "https://www.amazon.com/dp/B00949CTQQ",
+      "canonical_brand": null,
+      "brand": "Paula's Choice"
+    },
+    {
+      "rank": 34,
+      "asin": "B071914GGL",
+      "title": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
+      "url": "https://www.amazon.com/dp/B071914GGL",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 35,
+      "asin": "B00PBX3L7K",
+      "title": "COSRX Snail Mucin 96% Repairing Face Serum, Korean Skin Care 3.38 Fl Oz | Snail Mucin Repairing Essence for Korean Glass Glow, Soothes and Hydrates Dry Sensitive Skin, Targets Dull Skin & Fine Lines",
+      "url": "https://www.amazon.com/dp/B00PBX3L7K",
+      "canonical_brand": "코스알엑스",
+      "brand": "코스알엑스"
+    },
+    {
+      "rank": 36,
+      "asin": "B081KL2QYJ",
+      "title": "PanOxyl Acne Foaming Wash, 10% Benzoyl Peroxide, For Face & Body, 5.5 oz | Maximum Strength, Antibacterial Daily Cleanser, Treats & Prevents Acne, Non-Comedogenic, Vegan, Unscented, All Skin Types",
+      "url": "https://www.amazon.com/dp/B081KL2QYJ",
+      "canonical_brand": null,
+      "brand": "PanOxyl"
+    },
+    {
+      "rank": 37,
+      "asin": "B0CZJMQXSY",
+      "title": "NOONI Korean Lip Oil - Applewine - pH Color-Changing Plumping Lip Gloss | 24HR Hydration, Moisturizing Formula, Natural Plumping Effect, Waterproof, Glossy Finish, Gifts for Women, Stocking Stuffers",
+      "url": "https://www.amazon.com/dp/B0CZJMQXSY",
+      "canonical_brand": "누니",
+      "brand": "누니"
+    },
+    {
+      "rank": 38,
+      "asin": "B00T0C9XRK",
+      "title": "essence Lash Princess False Lash Effect Mascara, Black (Pack of 1) | Volumizing & Lengthening, Clump-Free Fiber Brush, Defines and Separates; Vegan, Cruelty Free, Paraben Free, Oil Free",
+      "url": "https://www.amazon.com/dp/B00T0C9XRK",
+      "canonical_brand": null,
+      "brand": "Essence"
+    },
+    {
+      "rank": 39,
+      "asin": "B0060OUV5Y",
+      "title": "La Roche-Posay Cicaplast Balm B5, Barrier Repair Cream for Dry Skin | Skin healing cream with centella asiatica, shea butter & panthenol. Multi-purpose face, body & hand balm. Baby safe.",
+      "url": "https://www.amazon.com/dp/B0060OUV5Y",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 40,
+      "asin": "B0DG4WXBCF",
+      "title": "MEDITHERAPY Retinal Skin Booster Serum for Smooth & Uneven Skin 5.07 fl.oz | Jumbo Face&Body Serum - Fine Lines & Anti-Aging, Pore Refining, Firming for Glass Skin, Gentle Daily Routine, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DG4WXBCF",
+      "canonical_brand": "메디테라피",
+      "brand": "메디테라피"
+    },
+    {
+      "rank": 41,
+      "asin": "B00AINMFAC",
+      "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz | Anti-Fungal Shampoo, Dandruff Shampoo for Dandruff Relief, Ketoconazole Shampoo, Dandruff Treatment, 1% Ketoconazole",
+      "url": "https://www.amazon.com/dp/B00AINMFAC",
+      "canonical_brand": null,
+      "brand": "Nizoral"
+    },
+    {
+      "rank": 42,
+      "asin": "B0BBBSMV94",
+      "title": "Native Coconut & Vanilla Shampoo and Conditioner Contain Naturally Derived Ingredients | All Hair Types, Color & Treated, Fine to Dry Damaged, Sulfate & Dye Free - 2-Pack",
+      "url": "https://www.amazon.com/dp/B0BBBSMV94",
+      "canonical_brand": null,
+      "brand": "Native"
+    },
+    {
+      "rank": 43,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN, Peptides & Retinol for Fine Lines | 99% Purity Retinol for Fine Lines - PDRN & Niacinamide for Uneven Skin Tone, Korean Skincare, 1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 44,
+      "asin": "B0B9YHX8DX",
+      "title": "Wonderskin Lip Stain – Long Lasting, Waterproof, Lip Tint Peel Off Masque | Transfer-proof nude lip tint with comfortable all-day wear for natural-looking lips from day to night.",
+      "url": "https://www.amazon.com/dp/B0B9YHX8DX",
+      "canonical_brand": null,
+      "brand": "Wonderskin"
+    },
+    {
+      "rank": 45,
+      "asin": "B07GKVBQDG",
+      "title": "Neutrogena Makeup Remover Towelettes, Daily Single Face Towelettes, 20 Ct | Makeup Remover, Makeup Removing Cleansing Wipes, Suitable for Dirt & Oil Removal, Alcohol-Free",
+      "url": "https://www.amazon.com/dp/B07GKVBQDG",
+      "canonical_brand": null,
+      "brand": "Neutrogena"
+    },
+    {
+      "rank": 46,
+      "asin": "B01LW1983J",
+      "title": "Julep Eyeshadow 101 Crème-to-Powder Eyeshadow Stick, Champagne Shimmer | Crème-to-Powder Eyeshadow Stick, Waterproof, Crease-Proof Finish, Built-In Smudger for Easy Blending, With Vitamins C & E",
+      "url": "https://www.amazon.com/dp/B01LW1983J",
+      "canonical_brand": null,
+      "brand": "Julep"
+    },
+    {
+      "rank": 47,
+      "asin": "B0GCQKBZMC",
+      "title": "ChapStick Candy Cane Flavored Lip Balm Sticks, Holiday Gift Set, 4-Pack | 0.15 oz Each, Limited Edition Seasonal Stocking Stuffer, Peppermint Flavored, 24 Hour Moisture to Hydrate Dry, Chapped Lips",
+      "url": "https://www.amazon.com/dp/B0GCQKBZMC",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 48,
+      "asin": "B0DFY92NDB",
+      "title": "CENTELLIAN 24 Madeca Cream Time Reverse, TECA Anti-Aging Moisturizer | Korean Firming Face Moisturizer with TECA and Centella for Elasticity, Deep Hydration and Skin Barrier Care, 1.69 fl oz",
+      "url": "https://www.amazon.com/dp/B0DFY92NDB",
+      "canonical_brand": "센텔리안24",
+      "brand": "센텔리안24"
+    },
+    {
+      "rank": 49,
+      "asin": "B0054LHI5A",
+      "title": "Burt's Bees 100% Natural Moisturizing Lip Balm (Original Beeswax) | Lip Moisturizer with Beeswax, Tint-Free, 100 Percent Natural Origin Conditioning Treatment, Easy to Take Anywhere",
+      "url": "https://www.amazon.com/dp/B0054LHI5A",
+      "canonical_brand": null,
+      "brand": "Burt's Bees"
+    },
+    {
+      "rank": 50,
+      "asin": "B081JHTPKP",
+      "title": "Mise En Scene Perfect Serum Original - Heat Protectant Hair Oil for Frizzy & Dry | Argan Oil | Visibly Smooths & Softens | Add Shine All Hair Types | Damage Repair | Fruity Floral Scent, 2.7 Fl Oz.",
+      "url": "https://www.amazon.com/dp/B081JHTPKP",
+      "canonical_brand": "미쟝센",
+      "brand": "미쟝센"
+    },
+    {
+      "rank": 51,
+      "asin": "B0GVQ6NYR3",
+      "title": "medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming, Contour Care | Built-In Gua Sha Massager with Volufiline 5% - For the Look of Fine Lines, Jawline, Neck, Décolleté, Korean Skincare, 3.17 oz",
+      "url": "https://www.amazon.com/dp/B0GVQ6NYR3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 52,
+      "asin": "B0DP542W7G",
+      "title": "TYMO Automatic Rotating Curling Iron, TYMO CURLPRO Beach Waves Hair Curler | 500 Million Ionic Curling Wand, Dual Voltage, Portable Lightweight for Travel, Ceramic Coating, 1 Inch, Pink",
+      "url": "https://www.amazon.com/dp/B0DP542W7G",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 53,
+      "asin": "B0FX418XT8",
+      "title": "Arencia Vitamin C Booster Shot Serum with Glutathione, Niacinamide and Vitamin E for Dark Spot Care, Fine Lines & Wrinkles, Glass Skin, Korean Skincare 30ml/1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0FX418XT8",
+      "canonical_brand": "아렌시아",
+      "brand": "아렌시아"
+    },
+    {
+      "rank": 54,
+      "asin": "B0GYNK6PBB",
+      "title": "medicube Starter Kit PDRN Glow Essentials, Mini 5-Step Skincare Travel Set",
+      "url": "https://www.amazon.com/dp/B0GYNK6PBB",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 55,
+      "asin": "B01MYEZPC8",
+      "title": "The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Multi-Depth Hydration Serum for Plumper, Smoother Skin",
+      "url": "https://www.amazon.com/dp/B01MYEZPC8",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 56,
+      "asin": "B00HF3XSO0",
+      "title": "Secret Clinical Antiperspirant Deodorant for Women, Completely Clean 2.6 oz | 100HR Sweat & Odor Protection | Invisible Solid | Fights 3 Types of Sweat | Pro-Hyaluronic Acid & pH Balancing | Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B00HF3XSO0",
+      "canonical_brand": null,
+      "brand": "Secret"
+    },
+    {
+      "rank": 57,
+      "asin": "B0DXWP12C8",
+      "title": "Kitsch Hair Perfume for Women – Hair Spray & Body Mist – Warm Sugar, 50mL | Clean, Deodorizing & Patented Odor-Eliminating Technology – Freshen Hair, Body & Pillows – Made in USA",
+      "url": "https://www.amazon.com/dp/B0DXWP12C8",
+      "canonical_brand": null,
+      "brand": "Kitsch"
+    },
+    {
+      "rank": 58,
+      "asin": "B09G2S1KZ2",
+      "title": "Salt & Stone Body Wash for Women & Men, Bergamot & Hinoki 15.2 fl oz | Shower Gel, Sulfate-Free, Paraben-Free, Dye-Free, Vegan, Hydrating & Moisturizing with Antioxidants, Vitamin C, Niacinamide",
+      "url": "https://www.amazon.com/dp/B09G2S1KZ2",
+      "canonical_brand": null,
+      "brand": "Salt & Stone"
+    },
+    {
+      "rank": 59,
+      "asin": "B0FQBL8S3K",
+      "title": "EQQUALBERRY NAD+ Peptide Boosting Firming Cream, 1.69 fl oz | Anti-Aging Cream for Turkey Neck & Wrinkles, Lifting for Neck, Décolletage & Body, NAD+ 5%, 13 Peptides, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FQBL8S3K",
+      "canonical_brand": "이퀄베리",
+      "brand": "이퀄베리"
+    },
+    {
+      "rank": 60,
+      "asin": "B00TTD9BRC",
+      "title": "CeraVe Moisturizing Cream, Face & Body Moisturizer for Dry Skin, 19oz | Skin Care with Hyaluronic Acid, Skin Barrier Repair, Ceramide Moisturizer, Fragrance Free, Non-Comedogenic, Daily Use",
+      "url": "https://www.amazon.com/dp/B00TTD9BRC",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 61,
+      "asin": "B0BXTS6L35",
+      "title": "Amazon Essentials Epsom Salt Soak, Magnesium Sulfate USP, 3 Pound, 1-Pack (Previously Amazon Basics)",
+      "url": "https://www.amazon.com/dp/B0BXTS6L35",
+      "canonical_brand": null,
+      "brand": "Amazon PB"
+    },
+    {
+      "rank": 62,
+      "asin": "B0CMYR1CNK",
+      "title": "e.l.f. Cream Glide Lip Liner, Highly-Pigmented Pencil For Shaping & Sculpting Lips, Semi-Matte Finish, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B0CMYR1CNK",
+      "canonical_brand": null,
+      "brand": "e.l.f."
+    },
+    {
+      "rank": 63,
+      "asin": "B000P22TIY",
+      "title": "Nautica Voyage Eau de Toilette, Men's Fragrance, 3.3 fl oz",
+      "url": "https://www.amazon.com/dp/B000P22TIY",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 64,
+      "asin": "B08V3JGB1F",
+      "title": "Kitsch Dermaplane Razor for Women Face – Terracotta, 12 pcs | Face Razors for Women & Men, Eyebrow Razor & Face Shaver – Exfoliating Facial Razor & Dermaplaner as Tool for Smoother Skin",
+      "url": "https://www.amazon.com/dp/B08V3JGB1F",
+      "canonical_brand": null,
+      "brand": "Kitsch"
+    },
+    {
+      "rank": 65,
+      "asin": "B0CNCL35CH",
+      "title": "Dr.Melaxin Collagen Multi Balm Stick, Calcium & Adenosine Korean Wrinkle Stick for Eye, Neck & Face, Firming Collagen Stick, Under Eye Balm for Dark Circles & Depuffing, Korean Skin Care, 0.31 oz",
+      "url": "https://www.amazon.com/dp/B0CNCL35CH",
+      "canonical_brand": "닥터멜락신",
+      "brand": "닥터멜락신"
+    },
+    {
+      "rank": 66,
+      "asin": "B01N34XW93",
+      "title": "La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide | Oil free face wash for sensitive skin with niacinamide and ceramides. Pore cleanser that won’t dry out skin and is soap free.",
+      "url": "https://www.amazon.com/dp/B01N34XW93",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 67,
+      "asin": "B0BSR2ZBK1",
+      "title": "Wonderskin Eyeliner Pencil 1440 Longwear Eyeliner Waterproof & Smudge Proof | Waterproof deep black eyeliner, smudge-proof formula glides on smoothly for precise, long-lasting definition.",
+      "url": "https://www.amazon.com/dp/B0BSR2ZBK1",
+      "canonical_brand": null,
+      "brand": "Wonderskin"
+    },
+    {
+      "rank": 68,
+      "asin": "B0FXH5LHN8",
+      "title": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV, SPF 50 Sunscreen, 1.69 fl.oz | Centella Sunscreen for Face with Hyaluronic Acid, Lightweight Sunblock, No White Cast, Korean Skin Care, Stocking Stuffers",
+      "url": "https://www.amazon.com/dp/B0FXH5LHN8",
+      "canonical_brand": null,
+      "brand": "SKIN1004"
+    },
+    {
+      "rank": 69,
+      "asin": "B0BJS1NVKM",
+      "title": "Kitsch Ultra-Petite Satin Scrunchies for Women - Eucalyptus, 6pcs | Wake Up Frizz-Free, No Crease Hair Ties, Softer Than Silk Scrunchies, Stylish Hair Accessories For All Hair Types",
+      "url": "https://www.amazon.com/dp/B0BJS1NVKM",
+      "canonical_brand": null,
+      "brand": "Kitsch"
+    },
+    {
+      "rank": 70,
+      "asin": "B0BPXT3GBN",
+      "title": "medicube Triple Collagen Cream for Hydrating & Firming | Moisturizer with Hyaluronic Acid, Premium Elastin, Shea Butter - Wrinkle Care & Boosts Elasticity, Korean Skincare, 1.69 oz",
+      "url": "https://www.amazon.com/dp/B0BPXT3GBN",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 71,
+      "asin": "B0FGQ3J31K",
+      "title": "EQQUALBERRY NAD+ Peptide Boosting Facial Serum, 1.01 fl oz | Anti-Aging Serum for Sagging & Crepey Skin, Firming & Lifting for Face, Neck & Hands, NAD+, 14 Peptides, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FGQ3J31K",
+      "canonical_brand": "이퀄베리",
+      "brand": "이퀄베리"
+    },
+    {
+      "rank": 72,
+      "asin": "B07PBQZ3KF",
+      "title": "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Blonde | Retractable Precision-Tip Brow Pencil with Grooming Spoolie for Buildable Natural-Looking Color, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B07PBQZ3KF",
+      "canonical_brand": null,
+      "brand": "e.l.f."
+    },
+    {
+      "rank": 73,
+      "asin": "B07L5QGF38",
+      "title": "Cleverfy Shower Steamers, Stocking Stuffers for Women and Men, 6 Pack | Aromatherapy, Christmas & Birthday Gifts | for Teens, Mom, Adults, Wife, Sister, Best Friend, Kids | Self-Care & Relaxation",
+      "url": "https://www.amazon.com/dp/B07L5QGF38",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 74,
+      "asin": "B01LMMZY6O",
+      "title": "IT Cosmetics Your Skin But Better CC+ Cream - Color Correcting Cream, Full-Coverage Foundation, Hydrating Serum & SPF 50+ Sunscreen - Natural Finish - 1.08 fl oz",
+      "url": "https://www.amazon.com/dp/B01LMMZY6O",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 75,
+      "asin": "B01MSSDEPK",
+      "title": "CeraVe Hydrating Cleanser with Hyaluronic Acid, Gentle Face Cleanser,16oz | Daily Face Wash & Makeup Remover with Glycerin, Skin Care for Men and Women, National Eczema Association Certified",
+      "url": "https://www.amazon.com/dp/B01MSSDEPK",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 76,
+      "asin": "B07RK4HST7",
+      "title": "CeraVe Daily Moisturizing Lotion, Face and Body Lotion, Skin care, 19oz | Hyaluronic Acid, Lotion For Dry Skin, Skin Barrier Repair, Ceramide Moisturizer, For Men and Women, Fragrance Free, Oil-Free",
+      "url": "https://www.amazon.com/dp/B07RK4HST7",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 77,
+      "asin": "B01J1A3TFW",
+      "title": "Revlon ColorStay Pencil Waterproof Eyeliner, 201 Black, 2 pack | Waterproof pencil eyeliner with built-in sharpener. Smudge-proof, long-lasting, intense matte color.",
+      "url": "https://www.amazon.com/dp/B01J1A3TFW",
+      "canonical_brand": null,
+      "brand": "Revlon"
+    },
+    {
+      "rank": 78,
+      "asin": "B0BVV8BNYJ",
+      "title": "Anua Heartleaf Quercetinol Pore Deep Cleansing Foam, 5.07 fl.oz | Face wash for Pore Refining Cleanser, Hydrating Daily Cleanser for Double Cleansing, Gentle Foaming with BHA, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0BVV8BNYJ",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 79,
+      "asin": "B07TJG79HP",
+      "title": "MRS. MEYER'S CLEAN DAY Liquid Hand Soap, Rain Water, 12.5 fl oz, 3 Pack | Moisturizing Liquid Hand Soap, Softens and Cleans Hands, Cruelty Free, Made with Essential Oils, Olive Oil, and Aloe Vera",
+      "url": "https://www.amazon.com/dp/B07TJG79HP",
+      "canonical_brand": null,
+      "brand": "Mrs. Meyer's"
+    },
+    {
+      "rank": 80,
+      "asin": "B01MDTVZTZ",
+      "title": "The Ordinary Niacinamide 10% + Zinc 1%, Smoothing Serum for Blemish-Prone Skin",
+      "url": "https://www.amazon.com/dp/B01MDTVZTZ",
+      "canonical_brand": null,
+      "brand": "The Ordinary"
+    },
+    {
+      "rank": 81,
+      "asin": "B01N1LL62W",
+      "title": "CeraVe Foaming Facial Cleanser, Gentle Cleanser for Oily Skin, 16fl oz | Skin Care with Hyaluronic Acid & Niacinamide, Makeup Remover, Daily Face Wash For Men & Women, Fragrance Free, Oil Control",
+      "url": "https://www.amazon.com/dp/B01N1LL62W",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 82,
+      "asin": "B07BKV4B6Q",
+      "title": "Babe Original Lash Serum - Fuller & Longer Looking Eyelashes, Advanced Lash Enhancing Treatment for Natural Lashes, Extensions & Eyebrows, Vegan & Cruelty-Free",
+      "url": "https://www.amazon.com/dp/B07BKV4B6Q",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 83,
+      "asin": "B09X3HB2BR",
+      "title": "Sol de Janeiro Cheirosa Hair & Body Perfume Mist | Hair & Body Spray for Women",
+      "url": "https://www.amazon.com/dp/B09X3HB2BR",
+      "canonical_brand": null,
+      "brand": "Sol de Janeiro"
+    },
+    {
+      "rank": 84,
+      "asin": "B0DC156Y5X",
+      "title": "JIYU Toner Pads - Korean Skincare for Dark Spots, Wrinkles & Dull Skin - Hydrating Facial Treatment with Snail Mucin, Niacinamide, Peptides & Centella - 100 Count",
+      "url": "https://www.amazon.com/dp/B0DC156Y5X",
+      "canonical_brand": null,
+      "brand": "미분류 후보"
+    },
+    {
+      "rank": 85,
+      "asin": "B0DK8DCVK7",
+      "title": "Goddvenus Lash Clusters Kit Wispy Eyelash Clusters Lashes Natural DIY Lash Extension Kit 10-16mm Cluster Eyelash Extensions Kit 300pcs C Curl Individual Lashes Cluster Eyelash (No Tweezers)",
+      "url": "https://www.amazon.com/dp/B0DK8DCVK7",
+      "canonical_brand": null,
+      "brand": "Goddvenus"
+    },
+    {
+      "rank": 86,
+      "asin": "B002XZLAWM",
+      "title": "Bioderma - Sensibio - H2O Micellar Water - Makeup Remover Cleanser - Face Cleanser for Sensitive Skin",
+      "url": "https://www.amazon.com/dp/B002XZLAWM",
+      "canonical_brand": null,
+      "brand": "Bioderma"
+    },
+    {
+      "rank": 87,
+      "asin": "B0D16L5F2M",
+      "title": "medicube Exosome Shot Zero 2,000 PPM Spicule Facial Serum For Pores & Sebum | Liquid Skin Booster Serum with Exosome, AHA+BHA+PHA - Pore Care, Dead Skin Cells, Skin Texture, Korean Skincare, 1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0D16L5F2M",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 88,
+      "asin": "B0FM2CCBS1",
+      "title": "eos Cashmere Body Mist- Vanilla, Body Spray for Women, Vegan, 6 fl oz",
+      "url": "https://www.amazon.com/dp/B0FM2CCBS1",
+      "canonical_brand": null,
+      "brand": "eos"
+    },
+    {
+      "rank": 89,
+      "asin": "B00MEDOY2G",
+      "title": "Dove Deep Moisture Body Wash, 30.6 oz Pump, Sulfate Free | Dove Deep Moisture Body Wash hydrates dry skin for 24 hours with a sulfate-free formula and MicroMoisture technology.",
+      "url": "https://www.amazon.com/dp/B00MEDOY2G",
+      "canonical_brand": null,
+      "brand": "Dove"
+    },
+    {
+      "rank": 90,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Italian White Truffle First Spray Serum (3.38 fl oz) | Vegan Skin Care, Hydrating Face Moisturizer, Cakey Makeup Fix, Glow Serum for Radiant Skin, Non Comedogenic, Korean skincare",
+      "url": "https://www.amazon.com/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 91,
+      "asin": "B08TLC9W4T",
+      "title": "DOVE MEN + CARE Body and Face Wash, Refreshing Extra Fresh for Men, 30 oz | 24-Hour Micromoisture Technology, Washes Away Bacteria, Hydrates Dry Skin, Mandarin and Sandalwood Scent",
+      "url": "https://www.amazon.com/dp/B08TLC9W4T",
+      "canonical_brand": null,
+      "brand": "Dove"
+    },
+    {
+      "rank": 92,
+      "asin": "B01N7T7JKJ",
+      "title": "La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, with Niacinamide | Face cleanser with niacinamide & ceramides, safe for sensitive skin. Daily face wash for normal to dry skin, fragrance free.",
+      "url": "https://www.amazon.com/dp/B01N7T7JKJ",
+      "canonical_brand": null,
+      "brand": "La Roche-Posay"
+    },
+    {
+      "rank": 93,
+      "asin": "B0CZF2T7CK",
+      "title": "L'Oreal Paris Infallible 3-Second Setting Spray, Up to 36HR Wear, 1.76 oz | Microfine Mist Dries Instantly to Lock in Makeup, Waterproof, Non-Sticky, Transfer and Smudge-Resistant Finish",
+      "url": "https://www.amazon.com/dp/B0CZF2T7CK",
+      "canonical_brand": null,
+      "brand": "L'Oréal Paris"
+    },
+    {
+      "rank": 94,
+      "asin": "B09YDCCJBJ",
+      "title": "AESTURA ATOBARRIER365 Cream with Ceramides, 80 ML | Ceramide Cream for Dry, Sensitive Skin with up to 120-Hour Hydration.**Instrumental results, 32 women, after 1 application",
+      "url": "https://www.amazon.com/dp/B09YDCCJBJ",
+      "canonical_brand": "에스트라",
+      "brand": "에스트라"
+    },
+    {
+      "rank": 95,
+      "asin": "B07SRRLVQ1",
+      "title": "Aquaphor Lip Repair Stick, Value Pack, 2 x 0.17 OZ | Lip Balm Moisturizers with Jojoba Oil and Shea Butter, Immediate Dry Lip Relief, Paraben and Fragrance Free",
+      "url": "https://www.amazon.com/dp/B07SRRLVQ1",
+      "canonical_brand": null,
+      "brand": "Aquaphor"
+    },
+    {
+      "rank": 96,
+      "asin": "B0CLLV2T1P",
+      "title": "Anua Niacinamide 10 + TXA 4 Serum, Korean Skincare, 1.01 fl.oz | Dark Spot Care, Hyaluronic Acid, Tranexamic Acid, Lightweight & Hydrating All-in-One Daily Facial Serum for Glass Skin",
+      "url": "https://www.amazon.com/dp/B0CLLV2T1P",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 97,
+      "asin": "B091D7T4N8",
+      "title": "Swisspers Premium Cotton Rounds, Dual-Sided, 100 Count (Pack of 3) | Hypoallergenic, Textured Side, Lint-Free Side, Dermatologist-Tested, Chlorine-Free, 300 Total",
+      "url": "https://www.amazon.com/dp/B091D7T4N8",
+      "canonical_brand": null,
+      "brand": "Swisspers"
+    },
+    {
+      "rank": 98,
+      "asin": "B0DK6W7RPS",
+      "title": "Bare Anatomy Nature x Science Rosemary Water Spray with Rice Water, 6.76 fl oz",
+      "url": "https://www.amazon.com/dp/B0DK6W7RPS",
+      "canonical_brand": null,
+      "brand": "Bare Anatomy"
+    },
+    {
+      "rank": 99,
+      "asin": "B00365DABC",
+      "title": "CeraVe PM Daily Facial Moisturizer, Skin Care for Dry Skin, Oil-Free, 3oz | Travel Sized Face Lotion with Hyaluronic Acid, Niacinamide & Ceramides, Face Moisturizer for Men & Women, Skin Barrier Repair",
+      "url": "https://www.amazon.com/dp/B00365DABC",
+      "canonical_brand": null,
+      "brand": "CeraVe"
+    },
+    {
+      "rank": 100,
+      "asin": "B0DMZT3JT2",
+      "title": "Wet Brush Original Detangler Hair Brush, Black Frost, For All Hair Textures | Ultra-Soft IntelliFlex Bristles Detangle Wet, Dry & Damaged Hair with Less Breakage, Pain-Free Detangling Brush",
+      "url": "https://www.amazon.com/dp/B0DMZT3JT2",
+      "canonical_brand": null,
+      "brand": "Wet Brush"
+    }
+  ],
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care | Dual-Textured Facial Pad with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid - For All, Korean Skin Care, 70 Pads, 1 Pack",
+      "url": "https://www.amazon.com/dp/B09V7Z4TJG",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 2,
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea) | Overnight Hydrogel Hydrating Face Masks, Glass Skin, Gifts for Women, Travel Essentials, Stocking Stuffers, Korean Skin Care",
+      "url": "https://www.amazon.com/dp/B0B2RM68G2",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGTMR754",
+      "title": "medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate | Overnight Face Mask for Glass Glow Skin - Hydration, Firming, Moisturizing & Elasticity Care, Korean Skincare, 28g x 4ea",
+      "url": "https://www.amazon.com/dp/B0DGTMR754",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DGPSZVW3",
+      "title": "medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 1.69fl.oz | medicube Collagen Jelly Cream for Skin Barrier, Hydration & Plumping, 1.69 fl.oz",
+      "url": "https://www.amazon.com/dp/B0DGPSZVW3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWFLY18Y",
+      "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz | Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for Glass Skin, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DWFLY18Y",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 8,
+      "asin": "B0DBF65JYY",
+      "title": "medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin | Pink Glow Serum with Peptides & Niacinamide for Hydration, Firm-Looking Skin & Uneven Tone Care, Korean Skincare, 1.01 fl.oz.",
+      "url": "https://www.amazon.com/dp/B0DBF65JYY",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 9,
+      "asin": "B077RTL1HJ",
+      "title": "Illiyoon Ceramide Ato Concentrate Cream | Moisturizer for Dry & Sensitive Skin, 100hr Lasting Hydration, For Face & Body, Gentle for Infants, Moisture Barrier Repair, Vegan Certified, 6.76 fl.oz.",
+      "url": "https://www.amazon.com/dp/B077RTL1HJ",
+      "canonical_brand": "일리윤",
+      "brand": "일리윤"
+    },
+    {
+      "rank": 11,
+      "asin": "B0GHMZXX8Y",
+      "title": "medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm | Volufiline, NAD Stick Balm for the Look of Fine Lines, Under-Eyes, Neck, Plumping & Radiance for Line Care, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0GHMZXX8Y",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 13,
+      "asin": "B0G38FGSKL",
+      "title": "medicube Hydrogel Eye Patches with PDRN, Caffeine & Collagen (60 Counts) | PDRN Retinol & Collagen Gel Mask - Eye Patches for the appearance of Dark Circles, Undereye Bags & Firming, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0G38FGSKL",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 14,
+      "asin": "B0GD6R7CFJ",
+      "title": "BIODANCE Hydrogel Eye Patches for Under Eye, Collagen Peptide (60 Count) | Under Eye Patches for Wrinkles, Smile Line Patches, Depuffing Eye Mask, Stocking Stuffers, Gifts for Women, Korean Skin Care",
+      "url": "https://www.amazon.com/dp/B0GD6R7CFJ",
+      "canonical_brand": "바이오던스",
+      "brand": "바이오던스"
+    },
+    {
+      "rank": 17,
+      "asin": "B0FVT77ZLL",
+      "title": "Anua PDRN Collagen Glow Facial Serum Spray, 3.38 fl oz | Hydrating Face Mist, Hyaluronic Acid, Dewy finish, All Skin Types, Instant Plumping, Firming Care, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FVT77ZLL",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 18,
+      "asin": "B0BRMYHMS5",
+      "title": "medicube Wrapping Mask Collagen - Overnight Peel Off Facial Mask | Elasticity & Hydration Care, Reduces Sagging & Dullness - Hydrolyzed Collagen For Glowing Skin, Korean Skin Care, 2.53 fl.oz",
+      "url": "https://www.amazon.com/dp/B0BRMYHMS5",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 19,
+      "asin": "B0DYTQ5GYQ",
+      "title": "medicube Facial Cleanser Zero Pore Capsule Foam Cleanser | Daily Gentle Face Wash for Pore, Skin Texture Care, AHA BHA PHA for Deep Cleansing, Korean Skincare, 4.23 oz",
+      "url": "https://www.amazon.com/dp/B0DYTQ5GYQ",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 20,
+      "asin": "B0DG1DQ2S7",
+      "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz | Facial Serum for Blemish-Prone & Oily-Prone Skin, Lightweight & Hydrating Care, Hyaluronic Acid, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DG1DQ2S7",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 23,
+      "asin": "B0DTKCN3Z4",
+      "title": "medicube Capsule Cream with Salmon DNA PDRN, Glow & Firming Moisturizer | Lightweight Daily Cream with Pink PDRN & Collagen Capsules for Hydration, Glow & Uneven Tone Care, 1.94 oz.",
+      "url": "https://www.amazon.com/dp/B0DTKCN3Z4",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 24,
+      "asin": "B0DK4Y2YP3",
+      "title": "celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz) | 0.1% Retinal, 3% Matrixyl for Anti Aging, Pore Minimizer, Fine Lines, Firmer Skin | Korean Skin Care Gift, Advanced Retinol",
+      "url": "https://www.amazon.com/dp/B0DK4Y2YP3",
+      "canonical_brand": "셀리맥스",
+      "brand": "셀리맥스"
+    },
+    {
+      "rank": 29,
+      "asin": "B0FKGJYFC8",
+      "title": "Dr.Althea 345 Relief Cream, 1.69 Fl Oz (Ver.2 - Pack of 1) | Instant Hydration, Blemish & Post-Acne Vegan Face Moisturizer for Sensitive Skin",
+      "url": "https://www.amazon.com/dp/B0FKGJYFC8",
+      "canonical_brand": "닥터엘시아",
+      "brand": "닥터엘시아"
+    },
+    {
+      "rank": 35,
+      "asin": "B00PBX3L7K",
+      "title": "COSRX Snail Mucin 96% Repairing Face Serum, Korean Skin Care 3.38 Fl Oz | Snail Mucin Repairing Essence for Korean Glass Glow, Soothes and Hydrates Dry Sensitive Skin, Targets Dull Skin & Fine Lines",
+      "url": "https://www.amazon.com/dp/B00PBX3L7K",
+      "canonical_brand": "코스알엑스",
+      "brand": "코스알엑스"
+    },
+    {
+      "rank": 37,
+      "asin": "B0CZJMQXSY",
+      "title": "NOONI Korean Lip Oil - Applewine - pH Color-Changing Plumping Lip Gloss | 24HR Hydration, Moisturizing Formula, Natural Plumping Effect, Waterproof, Glossy Finish, Gifts for Women, Stocking Stuffers",
+      "url": "https://www.amazon.com/dp/B0CZJMQXSY",
+      "canonical_brand": "누니",
+      "brand": "누니"
+    },
+    {
+      "rank": 40,
+      "asin": "B0DG4WXBCF",
+      "title": "MEDITHERAPY Retinal Skin Booster Serum for Smooth & Uneven Skin 5.07 fl.oz | Jumbo Face&Body Serum - Fine Lines & Anti-Aging, Pore Refining, Firming for Glass Skin, Gentle Daily Routine, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0DG4WXBCF",
+      "canonical_brand": "메디테라피",
+      "brand": "메디테라피"
+    },
+    {
+      "rank": 43,
+      "asin": "B0DWMSM6Y9",
+      "title": "medicube Eye Serum with Salmon DNA PDRN, Peptides & Retinol for Fine Lines | 99% Purity Retinol for Fine Lines - PDRN & Niacinamide for Uneven Skin Tone, Korean Skincare, 1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0DWMSM6Y9",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 48,
+      "asin": "B0DFY92NDB",
+      "title": "CENTELLIAN 24 Madeca Cream Time Reverse, TECA Anti-Aging Moisturizer | Korean Firming Face Moisturizer with TECA and Centella for Elasticity, Deep Hydration and Skin Barrier Care, 1.69 fl oz",
+      "url": "https://www.amazon.com/dp/B0DFY92NDB",
+      "canonical_brand": "센텔리안24",
+      "brand": "센텔리안24"
+    },
+    {
+      "rank": 50,
+      "asin": "B081JHTPKP",
+      "title": "Mise En Scene Perfect Serum Original - Heat Protectant Hair Oil for Frizzy & Dry | Argan Oil | Visibly Smooths & Softens | Add Shine All Hair Types | Damage Repair | Fruity Floral Scent, 2.7 Fl Oz.",
+      "url": "https://www.amazon.com/dp/B081JHTPKP",
+      "canonical_brand": "미쟝센",
+      "brand": "미쟝센"
+    },
+    {
+      "rank": 51,
+      "asin": "B0GVQ6NYR3",
+      "title": "medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming, Contour Care | Built-In Gua Sha Massager with Volufiline 5% - For the Look of Fine Lines, Jawline, Neck, Décolleté, Korean Skincare, 3.17 oz",
+      "url": "https://www.amazon.com/dp/B0GVQ6NYR3",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 53,
+      "asin": "B0FX418XT8",
+      "title": "Arencia Vitamin C Booster Shot Serum with Glutathione, Niacinamide and Vitamin E for Dark Spot Care, Fine Lines & Wrinkles, Glass Skin, Korean Skincare 30ml/1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0FX418XT8",
+      "canonical_brand": "아렌시아",
+      "brand": "아렌시아"
+    },
+    {
+      "rank": 54,
+      "asin": "B0GYNK6PBB",
+      "title": "medicube Starter Kit PDRN Glow Essentials, Mini 5-Step Skincare Travel Set",
+      "url": "https://www.amazon.com/dp/B0GYNK6PBB",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 59,
+      "asin": "B0FQBL8S3K",
+      "title": "EQQUALBERRY NAD+ Peptide Boosting Firming Cream, 1.69 fl oz | Anti-Aging Cream for Turkey Neck & Wrinkles, Lifting for Neck, Décolletage & Body, NAD+ 5%, 13 Peptides, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FQBL8S3K",
+      "canonical_brand": "이퀄베리",
+      "brand": "이퀄베리"
+    },
+    {
+      "rank": 65,
+      "asin": "B0CNCL35CH",
+      "title": "Dr.Melaxin Collagen Multi Balm Stick, Calcium & Adenosine Korean Wrinkle Stick for Eye, Neck & Face, Firming Collagen Stick, Under Eye Balm for Dark Circles & Depuffing, Korean Skin Care, 0.31 oz",
+      "url": "https://www.amazon.com/dp/B0CNCL35CH",
+      "canonical_brand": "닥터멜락신",
+      "brand": "닥터멜락신"
+    },
+    {
+      "rank": 70,
+      "asin": "B0BPXT3GBN",
+      "title": "medicube Triple Collagen Cream for Hydrating & Firming | Moisturizer with Hyaluronic Acid, Premium Elastin, Shea Butter - Wrinkle Care & Boosts Elasticity, Korean Skincare, 1.69 oz",
+      "url": "https://www.amazon.com/dp/B0BPXT3GBN",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 71,
+      "asin": "B0FGQ3J31K",
+      "title": "EQQUALBERRY NAD+ Peptide Boosting Facial Serum, 1.01 fl oz | Anti-Aging Serum for Sagging & Crepey Skin, Firming & Lifting for Face, Neck & Hands, NAD+, 14 Peptides, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0FGQ3J31K",
+      "canonical_brand": "이퀄베리",
+      "brand": "이퀄베리"
+    },
+    {
+      "rank": 78,
+      "asin": "B0BVV8BNYJ",
+      "title": "Anua Heartleaf Quercetinol Pore Deep Cleansing Foam, 5.07 fl.oz | Face wash for Pore Refining Cleanser, Hydrating Daily Cleanser for Double Cleansing, Gentle Foaming with BHA, Korean Skincare",
+      "url": "https://www.amazon.com/dp/B0BVV8BNYJ",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    },
+    {
+      "rank": 87,
+      "asin": "B0D16L5F2M",
+      "title": "medicube Exosome Shot Zero 2,000 PPM Spicule Facial Serum For Pores & Sebum | Liquid Skin Booster Serum with Exosome, AHA+BHA+PHA - Pore Care, Dead Skin Cells, Skin Texture, Korean Skincare, 1.01 fl.oz",
+      "url": "https://www.amazon.com/dp/B0D16L5F2M",
+      "canonical_brand": "메디큐브",
+      "brand": "메디큐브"
+    },
+    {
+      "rank": 90,
+      "asin": "B0BFQ9RD5B",
+      "title": "d'alba Piedmont Italian White Truffle First Spray Serum (3.38 fl oz) | Vegan Skin Care, Hydrating Face Moisturizer, Cakey Makeup Fix, Glow Serum for Radiant Skin, Non Comedogenic, Korean skincare",
+      "url": "https://www.amazon.com/dp/B0BFQ9RD5B",
+      "canonical_brand": "달바",
+      "brand": "달바"
+    },
+    {
+      "rank": 94,
+      "asin": "B09YDCCJBJ",
+      "title": "AESTURA ATOBARRIER365 Cream with Ceramides, 80 ML | Ceramide Cream for Dry, Sensitive Skin with up to 120-Hour Hydration.**Instrumental results, 32 women, after 1 application",
+      "url": "https://www.amazon.com/dp/B09YDCCJBJ",
+      "canonical_brand": "에스트라",
+      "brand": "에스트라"
+    },
+    {
+      "rank": 96,
+      "asin": "B0CLLV2T1P",
+      "title": "Anua Niacinamide 10 + TXA 4 Serum, Korean Skincare, 1.01 fl.oz | Dark Spot Care, Hyaluronic Acid, Tranexamic Acid, Lightweight & Hydrating All-in-One Daily Facial Serum for Glass Skin",
+      "url": "https://www.amazon.com/dp/B0CLLV2T1P",
+      "canonical_brand": "아누아",
+      "brand": "아누아"
+    }
+  ]
+}
